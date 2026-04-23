@@ -1,0 +1,114 @@
+{
+  "avantiWestCoast": {
+    "displayName": "Avanti West Coast",
+    "colour": "#004354"
+  },
+  "blackpoolTramway": {
+    "displayName": "Blackpool Tramway",
+    "colour": "#56004E"
+  },
+  "c2c": {
+    "displayName": "C2C",
+    "colour": "#b7007c"
+  },
+  "caledonianSleeper": {
+    "displayName": "Caledonian Sleeper",
+    "colour": "#1d2e35"
+  },
+  "chiltern": {
+    "displayName": "Chiltern Railways",
+    "colour": "#00bfff"
+  },
+  "crossCountry": {
+    "displayName": "Cross Country",
+    "colour": "#660f21"
+  },
+  "eastMidlandsRailway": {
+    "displayName": "East Midlands Railway",
+    "colour": "#713563"
+  },
+  "edinburghTrams": {
+    "displayName": "Edinburgh Trams",
+    "colour": "#8D181B"
+  },
+  "gatwickExpress": {
+    "displayName": "Gatwick Express",
+    "colour": "#eb1e2d"
+  },
+  "glasgowSubway": {
+    "displayName": "Glasgow Subway",
+    "colour": "#FF6200"
+  },
+  "goviaThameslinkRailway": {
+    "displayName": "Govia Thameslink Railway",
+    "colour": "#ff5aa4"
+  },
+  "grandCentral": {
+    "displayName": "Grand Central",
+    "colour": "#1d1d1b"
+  },
+  "greatWesternRailway": {
+    "displayName": "Great Western Railway",
+    "colour": "#0a493e"
+  },
+  "greaterAnglia": {
+    "displayName": "Greater Anglia",
+    "colour": "#d70428"
+  },
+  "heathrowExpress": {
+    "displayName": "Heathrow Express",
+    "colour": "#532e63"
+  },
+  "hullTrains": {
+    "displayName": "Hull Trains",
+    "colour": "#cc0066"
+  },
+  "londonNorthEasternRailway": {
+    "displayName": "London North Eastern Railway",
+    "colour": "#ce0e2d"
+  },
+  "londonOverground": {
+    "displayName": "London Overground",
+    "colour": "#fa7b05"
+  },
+  "lumo": {
+    "displayName": "Lumo",
+    "colour": "#2b6ef5"
+  },
+  "lutonDart": {
+    "displayName": "Luton DART",
+    "colour": "#d6ae00"
+  },
+  "northernTrains": {
+    "displayName": "Northern",
+    "colour": "#0f0d78"
+  },
+  "scotRail": {
+    "displayName": "ScotRail",
+    "colour": "#1e467d"
+  },
+  "southWesternRailway": {
+    "displayName": "South Western Railway",
+    "colour": "#24398c"
+  },
+  "southeastern": {
+    "displayName": "Southeastern",
+    "colour": "#389cff"
+  },
+  "tfl": {
+    "displayName": "TfL",
+    "colour": "#0019a8"
+  },
+  "transPennineExpress": {
+    "displayName": "TransPennine Express",
+    "colour": "#09a4ec"
+  },
+  "transportForWales": {
+    "displayName": "Transport for Wales",
+    "colour": "#ff0000"
+  },
+  "westMidlandsTrains": {
+    "displayName": "West Midlands Trains",
+    "colour": "#e07709"
+  }
+}

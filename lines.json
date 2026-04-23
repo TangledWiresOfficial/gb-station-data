@@ -1,0 +1,380 @@
+{
+  "bakerloo": {
+    "displayName": "Bakerloo Line",
+    "colour": "#a45a2a",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "central": {
+    "displayName": "Central Line",
+    "colour": "#da291c",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "circle": {
+    "displayName": "Circle Line",
+    "colour": "#ffcd00",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "district": {
+    "displayName": "District Line",
+    "colour": "#007a33",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "hammersmithAndCity": {
+    "displayName": "Hammersmith & City Line",
+    "colour": "#e89cae",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "jubilee": {
+    "displayName": "Jubilee Line",
+    "colour": "#7c878e",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "metropolitan": {
+    "displayName": "Metropolitan Line",
+    "colour": "#840b55",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "northern": {
+    "displayName": "Northern Line",
+    "colour": "#000000",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "piccadilly": {
+    "displayName": "Piccadilly Line",
+    "colour": "#10069f",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "victoria": {
+    "displayName": "Victoria Line",
+    "colour": "#00a3e0",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "waterlooAndCity": {
+    "displayName": "Waterloo & City Line",
+    "colour": "#6eceb2",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "elizabeth": {
+    "displayName": "Elizabeth Line",
+    "colour": "#6950a1",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "dlr": {
+    "displayName": "DLR",
+    "colour": "#00afad",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "londonTrams": {
+    "displayName": "London Trams",
+    "colour": "#5fb526",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "cableCar": {
+    "displayName": "IFS Cloud Cable Car",
+    "colour": "#734fa0",
+    "tocs": [
+      "tfl"
+    ]
+  },
+  "liberty": {
+    "displayName": "Liberty Line",
+    "colour": "#5d6061",
+    "tocs": [
+      "londonOverground"
+    ]
+  },
+  "lioness": {
+    "displayName": "Lioness Line",
+    "colour": "#faa61a",
+    "tocs": [
+      "londonOverground"
+    ]
+  },
+  "mildmay": {
+    "displayName": "Mildmay Line",
+    "colour": "#0077ad",
+    "tocs": [
+      "londonOverground"
+    ]
+  },
+  "suffragette": {
+    "displayName": "Suffragette Line",
+    "colour": "#5bb972",
+    "tocs": [
+      "londonOverground"
+    ]
+  },
+  "weaver": {
+    "displayName": "Weaver Line",
+    "colour": "#823a62",
+    "tocs": [
+      "londonOverground"
+    ]
+  },
+  "windrush": {
+    "displayName": "Windrush Line",
+    "colour": "#ed1b00",
+    "tocs": [
+      "londonOverground"
+    ]
+  },
+  "avantiWestCoast": {
+    "displayName": "Avanti West Coast",
+    "colour": "#004354",
+    "tocs": [
+      "avantiWestCoast"
+    ]
+  },
+  "c2c": {
+    "displayName": "C2C",
+    "colour": "#b7007c",
+    "tocs": [
+      "c2c"
+    ]
+  },
+  "csLowlander": {
+    "displayName": "Lowlander Sleeper",
+    "colour": "#b26734",
+    "tocs": [
+      "caledonianSleeper"
+    ]
+  },
+  "csHighlander": {
+    "displayName": "Highlander Sleeper",
+    "colour": "#006984",
+    "tocs": [
+      "caledonianSleeper"
+    ]
+  },
+  "chiltern": {
+    "displayName": "Chiltern Railways",
+    "colour": "#00bfff",
+    "tocs": [
+      "chiltern"
+    ]
+  },
+  "crossCountry": {
+    "displayName": "Cross Country",
+    "colour": "#660f21",
+    "tocs": [
+      "crossCountry"
+    ]
+  },
+  "eastMidlandsRailway": {
+    "displayName": "East Midlands Railway",
+    "colour": "#713563",
+    "tocs": [
+      "eastMidlandsRailway"
+    ]
+  },
+  "gatwickExpress": {
+    "displayName": "Gatwick Express",
+    "colour": "#eb1e2d",
+    "tocs": [
+      "goviaThameslinkRailway"
+    ]
+  },
+  "grandCentral": {
+    "displayName": "Grand Central",
+    "colour": "#1d1d1b",
+    "tocs": [
+      "grandCentral"
+    ]
+  },
+  "greatNorthern": {
+    "displayName": "Great Northern",
+    "colour": "#00ABE6",
+    "tocs": [
+      "goviaThameslinkRailway"
+    ]
+  },
+  "greatWesternRailway": {
+    "displayName": "Great Western Railway",
+    "colour": "#0a493e",
+    "tocs": [
+      "greatWesternRailway"
+    ]
+  },
+  "greaterAnglia": {
+    "displayName": "Greater Anglia",
+    "colour": "#d70428",
+    "tocs": [
+      "greaterAnglia"
+    ]
+  },
+  "heathrowExpress": {
+    "displayName": "Heathrow Express",
+    "colour": "#532e63",
+    "tocs": [
+      "heathrowExpress"
+    ]
+  },
+  "hullTrains": {
+    "displayName": "Hull Trains",
+    "colour": "#cc0066",
+    "tocs": [
+      "hullTrains"
+    ]
+  },
+  "islandLineTrains": {
+    "displayName": "Island Line",
+    "colour": "#1e90ff",
+    "tocs": [
+      "southWesternRailway"
+    ]
+  },
+  "londonNorthEasternRailway": {
+    "displayName": "London North Eastern Railway",
+    "colour": "#ce0e2d",
+    "tocs": [
+      "londonNorthEasternRailway"
+    ]
+  },
+  "londonNorthwesternRailway": {
+    "displayName": "London Northwestern Railway",
+    "colour": "#00bf6f",
+    "tocs": [
+      "westMidlandsTrains"
+    ]
+  },
+  "lumo": {
+    "displayName": "Lumo",
+    "colour": "#2b6ef5",
+    "tocs": [
+      "lumo"
+    ]
+  },
+  "northernTrains": {
+    "displayName": "Northern",
+    "colour": "#0f0d78",
+    "tocs": [
+      "northernTrains"
+    ]
+  },
+  "scotRail": {
+    "displayName": "ScotRail",
+    "colour": "#1e467d",
+    "tocs": [
+      "scotRail"
+    ]
+  },
+  "southWesternRailway": {
+    "displayName": "South Western Railway",
+    "colour": "#24398c",
+    "tocs": [
+      "southWesternRailway"
+    ]
+  },
+  "southeastern": {
+    "displayName": "Southeastern",
+    "colour": "#389cff",
+    "tocs": [
+      "southeastern"
+    ]
+  },
+  "southeasternHighSpeed": {
+    "displayName": "Southeastern High Speed",
+    "colour": "#1e1e50",
+    "tocs": [
+      "southeastern"
+    ]
+  },
+  "southern": {
+    "displayName": "Southern",
+    "colour": "#8cc63e",
+    "tocs": [
+      "goviaThameslinkRailway"
+    ]
+  },
+  "stanstedExpress": {
+    "displayName": "Stansted Express",
+    "colour": "#6b717a",
+    "tocs": [
+      "greaterAnglia"
+    ]
+  },
+  "thameslink": {
+    "displayName": "Thameslink",
+    "colour": "#ff5aa4",
+    "tocs": [
+      "goviaThameslinkRailway"
+    ]
+  },
+  "transPennineExpress": {
+    "displayName": "TransPennine Express",
+    "colour": "#09a4ec",
+    "tocs": [
+      "transPennineExpress"
+    ]
+  },
+  "transportForWales": {
+    "displayName": "Transport for Wales",
+    "colour": "#ff0000",
+    "tocs": [
+      "transportForWales"
+    ]
+  },
+  "westMidlandsRailway": {
+    "displayName": "West Midlands Railway",
+    "colour": "#ff8300",
+    "tocs": [
+      "westMidlandsTrains"
+    ]
+  },
+  "blackpoolTramway": {
+    "displayName": "Blackpool Tramway",
+    "colour": "#56004E",
+    "tocs": [
+      "blackpoolTramway"
+    ]
+  },
+  "edinburghTrams": {
+    "displayName": "Edinburgh Trams",
+    "colour": "#8D181B",
+    "tocs": [
+      "edinburghTrams"
+    ]
+  },
+  "glasgowSubway": {
+    "displayName": "Glasgow Subway",
+    "colour": "#FF6200",
+    "tocs": [
+      "glasgowSubway"
+    ]
+  },
+  "lutonDart": {
+    "displayName": "Luton DART",
+    "colour": "#d6ae00",
+    "tocs": [
+      "lutonDart"
+    ]
+  }
+}

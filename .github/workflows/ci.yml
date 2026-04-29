@@ -1,0 +1,17 @@
+on:
+  pull_request:
+  push:
+    branches: ["**"]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Validate JSON
+        run: node ./scripts/validate.ts

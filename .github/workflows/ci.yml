@@ -8,9 +8,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: denoland/setup-deno@v2
+      - uses: actions/setup-node@v4
         with:
-          deno-version: lts
+          node-version: '24'
+          registry-url: 'https://registry.npmjs.org'
+
+      - run: npm install -g typescript
 
       - name: Validate JSON
-        run: deno ./scripts/validate.ts
+        run: node ./scripts/validate.ts

@@ -3785,16 +3785,11 @@
       "transPennineExpress"
     ]
   },
-  "hull": {
-    "displayName": "Hull",
-    "lines": [
-      "transPennineExpress"
-    ]
-  },
   "hullParagon": {
     "displayName": "Hull Paragon",
     "lines": [
       "hullTrains"
+      "transPennineExpress"
     ]
   },
   "huntingdon": {

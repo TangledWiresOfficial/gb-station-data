@@ -3783,7 +3783,7 @@
   "hullParagon": {
     "displayName": "Hull Paragon",
     "lines": [
-      "hullTrains"
+      "hullTrains",
       "transPennineExpress"
     ]
   },

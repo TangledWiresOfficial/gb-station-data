@@ -4101,6 +4101,12 @@
       "csHighlander"
     ]
   },
+  "kirkSandal": {
+    "displayName": "Kirk Sandall",
+    "lines": [
+      "transPennineExpress"
+    ]
+  },
   "knebworth": {
     "displayName": "Knebworth",
     "lines": [

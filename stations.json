@@ -1070,16 +1070,11 @@
       "hammersmithAndCity"
     ]
   },
-  "boxHillandWesthumble": {
-    "displayName": "Box Hill and Westhumble",
-    "lines": [
-      "southWesternRailway"
-    ]
-  },
   "boxHillAndWesthumble": {
     "displayName": "Box Hill & Westhumble",
     "lines": [
-      "southern"
+      "southern",
+      "southWesternRailway"
     ]
   },
   "bracknell": {

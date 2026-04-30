@@ -1097,7 +1097,7 @@
   "brading": {
     "displayName": "Brading",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "brandon": {
@@ -4652,7 +4652,7 @@
   "lake": {
     "displayName": "Lake",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "lambethNorth": {
@@ -6842,19 +6842,19 @@
   "rydeEsplanade": {
     "displayName": "Ryde Esplanade",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "rydePeirHead": {
     "displayName": "Ryde Peir Head",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "rydeStJohnsRoad": {
     "displayName": "Ryde St Johns Road",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "ryeSussex": {
@@ -6909,7 +6909,7 @@
   "sandown": {
     "displayName": "Sandown",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "sandwich": {
@@ -7023,7 +7023,7 @@
   "shanklin": {
     "displayName": "Shanklin",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "shawford": {
@@ -7213,7 +7213,7 @@
   "smallbrookJunction": {
     "displayName": "Smallbrook Junction",
     "lines": [
-      "IslandLine"
+      "islandLine"
     ]
   },
   "snaresbrook": {

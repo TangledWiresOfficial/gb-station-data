@@ -2423,12 +2423,6 @@
       "edinburghTrams"
     ]
   },
-  "edinburghHaymarket": {
-    "displayName": "Edinburgh Haymarket",
-    "lines": [
-      "crossCountry"
-    ]
-  },
   "edinburghPark": {
     "displayName": "Edinburgh Park",
     "lines": [
@@ -3440,6 +3434,7 @@
     "lines": [
       "edinburghTrams",
       "transPennineExpress"
+      "crossCountry"
     ]
   },
   "haywardsHeath": {

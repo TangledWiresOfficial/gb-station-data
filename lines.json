@@ -342,6 +342,20 @@
       "transportForWales"
     ]
   },
+  "twGreen": {
+    "displayName": "Green",
+    "colour": "#2bb457",
+    "tocs": [
+      "tyneAndWearMetro"
+    ]
+  },
+  "twYellow": {
+    "displayName": "Yellow",
+    "colour": "#fcb929",
+    "tocs": [
+      "tyneAndWearMetro"
+    ]
+  },
   "westMidlandsRailway": {
     "displayName": "West Midlands Railway",
     "colour": "#ff8300",

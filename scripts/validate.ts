@@ -8,7 +8,7 @@ let errors = [];
 function success(thingType: string, thing: string) {
   successCount++;
   console.log(`✅ ${thingType} '${thing}'`);
-} 
+}
 
 function fail(thingType: string, thing: string, reason: string) {
   const error = `❌ ${thingType} '${thing}': ${reason}`;
@@ -17,9 +17,18 @@ function fail(thingType: string, thing: string, reason: string) {
   process.exitCode = 1;
 }
 
+function isValidKey(key: string) {
+  return /^[a-z][A-z0-9]*$/.test(key);
+}
+
 console.log("--- Stations ---");
 for (const [station, stationData] of Object.entries(Stations)) {
   let failed = false;
+
+  if (!isValidKey(station)) {
+    failed = true;
+    fail("Station", station, "Invalid key");
+  }
 
   if (!stationData.displayName) {
     failed = true;
@@ -49,6 +58,11 @@ for (const [station, stationData] of Object.entries(Stations)) {
 console.log("--- Lines ---");
 for (const [line, lineData] of Object.entries(Lines)) {
   let failed = false;
+
+  if (!isValidKey(line)) {
+    failed = true;
+    fail("Line", line, "Invalid key");
+  }
 
   if (!lineData.displayName) {
     failed = true;
@@ -83,6 +97,11 @@ for (const [line, lineData] of Object.entries(Lines)) {
 console.log("--- TOCs ---");
 for (const [toc, tocData] of Object.entries(TOCs)) {
   let failed = false;
+
+  if (!isValidKey(toc)) {
+    failed = true;
+    fail("TOC", toc, "Invalid key");
+  }
 
   if (!tocData.displayName) {
     failed = true;

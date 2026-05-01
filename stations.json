@@ -846,7 +846,7 @@
       "southern"
     ]
   },
-  "berwick-upon-tweed": {
+  "berwickUponTweed": {
     "displayName": "Berwick-upon-Tweed",
     "lines": [
       "transPennineExpress"
@@ -1911,7 +1911,7 @@
       "southWesternRailway"
     ]
   },
-  "chester-le-street": {
+  "chesterLeStreet": {
     "displayName": "Chester-le-Street",
     "lines": [
       "transPennineExpress"
@@ -6375,7 +6375,7 @@
       "eastMidlandsRailway"
     ]
   },
-  "newton-le-willows": {
+  "newtonLeWillows": {
     "displayName": "Newton-le-Willows",
     "lines": [
       "transPennineExpress"

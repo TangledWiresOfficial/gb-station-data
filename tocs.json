@@ -107,6 +107,10 @@
     "displayName": "Transport for Wales",
     "colour": "#ff0000"
   },
+  "tyneAndWearMetro": {
+    "displayName": "Tyne and Wear Metro",
+    "colour": "#feb300"
+  },
   "westMidlandsTrains": {
     "displayName": "West Midlands Trains",
     "colour": "#e07709"

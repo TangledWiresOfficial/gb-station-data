@@ -2955,12 +2955,6 @@
       "circle"
     ]
   },
-  "edinburgh": {
-    "displayName": "Edinburgh",
-    "lines": [
-      "transPennineExpress"
-    ]
-  },
   "edinburghAirport": {
     "displayName": "Edinburgh Airport",
     "lines": [
@@ -2990,7 +2984,8 @@
     "lines": [
       "csLowlander",
       "lumo",
-      "crossCountry"
+      "crossCountry",
+      "transPennineExpress"
     ]
   },
   "edmontonGreen": {

@@ -474,6 +474,12 @@
       "crossCountry"
     ]
   },
+  "bangor": {
+    "displayName": "Bangor",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "bank": {
     "displayName": "Bank",
     "lines": [
@@ -951,13 +957,15 @@
     "displayName": "Birmingham International",
     "lines": [
       "crossCountry",
-      "csHighlander"
+      "csHighlander",
+      "avantiWestCoast"
     ]
   },
   "birminghamNewStreet": {
     "displayName": "Birmingham New Street",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "bishopsStortford": {
@@ -1659,7 +1667,8 @@
     "displayName": "Carlisle",
     "lines": [
       "csLowlander",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "carlton": {
@@ -1911,6 +1920,12 @@
       "southWesternRailway"
     ]
   },
+  "chester": {
+    "displayName": "Chester",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "chesterLeStreet": {
     "displayName": "Chester-le-Street",
     "lines": [
@@ -2158,6 +2173,12 @@
       "southern"
     ]
   },
+  "colwynBay": {
+    "displayName": "Colwyn Bay",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "coodenBeach": {
     "displayName": "Cooden Beach",
     "lines": [
@@ -2235,6 +2256,7 @@
   "coventry": {
     "displayName": "Coventry",
     "lines": [
+      "avantiWestCoast",
       "crossCountry"
     ]
   },
@@ -2292,7 +2314,8 @@
     "lines": [
       "eastMidlandsRailway",
       "csHighlander",
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "crewkerne": {
@@ -2985,7 +3008,8 @@
       "csLowlander",
       "lumo",
       "crossCountry",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "edmontonGreen": {
@@ -3181,7 +3205,8 @@
       "csHighlander",
       "northern",
       "victoria",
-      "lioness"
+      "lioness",
+      "avantiWestCoast"
     ]
   },
   "eustonSquare": {
@@ -3416,6 +3441,12 @@
       "blackpoolTramway"
     ]
   },
+  "flint": {
+    "displayName": "Flint",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "flitwick": {
     "displayName": "Flitwick",
     "lines": [
@@ -3618,7 +3649,8 @@
     "lines": [
       "crossCountry",
       "csLowlander",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "glasgowQueenStreet": {
@@ -4263,7 +4295,8 @@
     "lines": [
       "edinburghTrams",
       "transPennineExpress",
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "haywardsHeath": {
@@ -4564,6 +4597,12 @@
     "displayName": "Holton Heath",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "holyhead": {
+    "displayName": "Holyhead",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "homerton": {
@@ -5179,7 +5218,8 @@
   "lancaster": {
     "displayName": "Lancaster",
     "lines": [
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "lancasterGate": {
@@ -5357,6 +5397,12 @@
       "suffragette"
     ]
   },
+  "lichfieldTrentValley": {
+    "displayName": "Lichfield Trent Valley",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "limehouse": {
     "displayName": "Limehouse",
     "lines": [
@@ -5437,14 +5483,16 @@
     "displayName": "Liverpool Lime Street",
     "lines": [
       "eastMidlandsRailway",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "liverpoolSouthParkway": {
     "displayName": "Liverpool South Parkway",
     "lines": [
       "eastMidlandsRailway",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "liverpoolStreet": {
@@ -5461,6 +5509,12 @@
       "greaterAnglia"
     ]
   },
+  "llandudnoJunction": {
+    "displayName": "Llandudno Junction",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "lloydPark": {
     "displayName": "Lloyd Park",
     "lines": [
@@ -5470,7 +5524,8 @@
   "lockerbie": {
     "displayName": "Lockerbie",
     "lines": [
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "londonBlackfriars": {
@@ -5668,7 +5723,8 @@
   "macclesfield": {
     "displayName": "Macclesfield",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "maidaVale": {
@@ -5725,6 +5781,12 @@
     "lines": [
       "eastMidlandsRailway",
       "transPennineExpress"
+    ]
+  },
+  "manchesterPicadilly": {
+    "displayName": "Manchester Picadilly",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "manchesterPiccadilly": {
@@ -6015,6 +6077,12 @@
       "twGreen"
     ]
   },
+  "miltonKeynesCentral": {
+    "displayName": "Milton Keynes Central",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "minster": {
     "displayName": "Minster",
     "lines": [
@@ -6150,7 +6218,8 @@
     "lines": [
       "crossCountry",
       "csLowlander",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "motspurPark": {
@@ -6370,16 +6439,16 @@
       "eastMidlandsRailway"
     ]
   },
-  "newtonLeWillows": {
-    "displayName": "Newton-le-Willows",
-    "lines": [
-      "transPennineExpress"
-    ]
-  },
   "newtonAbbot": {
     "displayName": "Newton Abbot",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "newtonLeWillows": {
+    "displayName": "Newton-le-Willows",
+    "lines": [
+      "transPennineExpress"
     ]
   },
   "newtonmore": {
@@ -6504,6 +6573,12 @@
       "transPennineExpress"
     ]
   },
+  "northampton": {
+    "displayName": "Northampton",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "northfields": {
     "displayName": "Northfields",
     "lines": [
@@ -6586,7 +6661,8 @@
   "nuneaton": {
     "displayName": "Nuneaton",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "nunhead": {
@@ -6708,6 +6784,12 @@
     "displayName": "Oxenholme",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "oxenholmeLakeDistrict": {
+    "displayName": "Oxenholme (Lake District)",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "oxford": {
@@ -6853,6 +6935,12 @@
     "displayName": "Penrith",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "penrithNorthLakes": {
+    "displayName": "Penrith (North Lakes)",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "penshurst": {
@@ -7101,11 +7189,18 @@
       "greatNorthern"
     ]
   },
+  "prestatyn": {
+    "displayName": "Prestatyn",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "preston": {
     "displayName": "Preston",
     "lines": [
       "csHighlander",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "prestonPark": {
@@ -7389,6 +7484,12 @@
       "hullTrains"
     ]
   },
+  "rhyl": {
+    "displayName": "Rhyl",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "richmond": {
     "displayName": "Richmond",
     "lines": [
@@ -7546,6 +7647,12 @@
       "greatNorthern"
     ]
   },
+  "rugby": {
+    "displayName": "Rugby",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "ruislip": {
     "displayName": "Ruislip",
     "lines": [
@@ -7564,6 +7671,12 @@
     "lines": [
       "metropolitan",
       "piccadilly"
+    ]
+  },
+  "runcorn": {
+    "displayName": "Runcorn",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "ruskington": {
@@ -8456,7 +8569,8 @@
   "stafford": {
     "displayName": "Stafford",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "staines": {
@@ -8574,7 +8688,8 @@
     "lines": [
       "eastMidlandsRailway",
       "crossCountry",
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "stockwell": {
@@ -8600,6 +8715,12 @@
     "displayName": "Stoke-on-Trent",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "stokeontrent": {
+    "displayName": "Stoke-On-Trent",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "stoneCrossing": {
@@ -8892,7 +9013,8 @@
   "tamworth": {
     "displayName": "Tamworth",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "taplow": {
@@ -9591,6 +9713,12 @@
       "victoria"
     ]
   },
+  "warringtonBankQuay": {
+    "displayName": "Warrington Bank Quay",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "warringtonCentral": {
     "displayName": "Warrington Central",
     "lines": [
@@ -9667,7 +9795,8 @@
     "lines": [
       "lioness",
       "southern",
-      "csLowlander"
+      "csLowlander",
+      "avantiWestCoast"
     ]
   },
   "watlington": {
@@ -10114,7 +10243,8 @@
   "wiganNorthWestern": {
     "displayName": "Wigan North Western",
     "lines": [
-      "transPennineExpress"
+      "transPennineExpress",
+      "avantiWestCoast"
     ]
   },
   "willesdenGreen": {
@@ -10135,6 +10265,12 @@
     "displayName": "Willington",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "wilmslow": {
+    "displayName": "Wilmslow",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "wilnecote": {
@@ -10259,7 +10395,8 @@
   "wolverhampton": {
     "displayName": "Wolverhampton",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "avantiWestCoast"
     ]
   },
   "woodGreen": {
@@ -10389,6 +10526,12 @@
     "displayName": "Wraysbury",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "wrexhamGeneral": {
+    "displayName": "Wrexham General",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "wye": {

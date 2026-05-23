@@ -771,7 +771,8 @@
   "bellingham": {
     "displayName": "Bellingham",
     "lines": [
-      "southeastern"
+      "southeastern",
+      "thameslink"
     ]
   },
   "belmont": {
@@ -1020,6 +1021,12 @@
     "lines": [
       "victoria",
       "suffragette"
+    ]
+  },
+  "blackpoolNorth": {
+    "displayName": "Blackpool North",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "blackwall": {
@@ -4303,7 +4310,8 @@
     "displayName": "Haywards Heath",
     "lines": [
       "southern",
-      "thameslink"
+      "thameslink",
+      "gatwickExpress"
     ]
   },
   "hazelGrove": {
@@ -5159,6 +5167,12 @@
       "csHighlander"
     ]
   },
+  "kirkhamAndWesham": {
+    "displayName": "Kirkham & Wesham",
+    "lines": [
+      "avantiWestCoast"
+    ]
+  },
   "knebworth": {
     "displayName": "Knebworth",
     "lines": [
@@ -5541,7 +5555,6 @@
       "jubilee",
       "southern",
       "thameslink",
-      "southern",
       "southeastern"
     ]
   },
@@ -7187,6 +7200,12 @@
     "lines": [
       "thameslink",
       "greatNorthern"
+    ]
+  },
+  "poultonLeFylde": {
+    "displayName": "Poulton-le-Fylde",
+    "lines": [
+      "avantiWestCoast"
     ]
   },
   "prestatyn": {

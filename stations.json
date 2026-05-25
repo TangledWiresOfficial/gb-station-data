@@ -2095,7 +2095,8 @@
       "csLowlander",
       "transPennineExpress",
       "avantiWestCoast",
-      "scotRail"
+      "scotRail",
+      "lumo"
     ]
   },
   "carlton": {
@@ -2860,7 +2861,8 @@
       "eastMidlandsRailway",
       "csHighlander",
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "lumo"
     ]
   },
   "crewkerne": {
@@ -3967,7 +3969,8 @@
       "northern",
       "victoria",
       "lioness",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "lumo"
     ]
   },
   "eustonSquare": {
@@ -4760,7 +4763,8 @@
   "greenfaulds": {
     "displayName": "Greenfaulds",
     "lines": [
-      "scotRail"
+      "scotRail",
+      "lumo"
     ]
   },
   "greenfield": {
@@ -6498,7 +6502,8 @@
   "larbert": {
     "displayName": "Larbert",
     "lines": [
-      "scotRail"
+      "scotRail",
+      "lumo"
     ]
   },
   "largs": {
@@ -6859,7 +6864,8 @@
     "displayName": "Lockerbie",
     "lines": [
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "lumo"
     ]
   },
   "londonBlackfriars": {
@@ -7467,7 +7473,8 @@
   "miltonKeynesCentral": {
     "displayName": "Milton Keynes Central",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "lumo"
     ]
   },
   "minster": {
@@ -7626,7 +7633,8 @@
       "csLowlander",
       "transPennineExpress",
       "avantiWestCoast",
-      "scotRail"
+      "scotRail",
+      "lumo"
     ]
   },
   "motspurPark": {
@@ -8160,7 +8168,8 @@
     "displayName": "Nuneaton",
     "lines": [
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "lumo"
     ]
   },
   "nunhead": {
@@ -8791,7 +8800,8 @@
     "lines": [
       "csHighlander",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "lumo"
     ]
   },
   "prestonPark": {
@@ -10437,7 +10447,8 @@
     "displayName": "Stirling",
     "lines": [
       "csHighlander",
-      "scotRail"
+      "scotRail",
+      "lumo"
     ]
   },
   "stockport": {
@@ -12020,7 +12031,8 @@
   "whifflet": {
     "displayName": "Whifflet",
     "lines": [
-      "scotRail"
+      "scotRail",
+      "lumo"
     ]
   },
   "whimple": {

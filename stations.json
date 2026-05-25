@@ -6921,7 +6921,7 @@
     ]
   },
   "londonVictoria": {
-    "displayName": "London Victoria",
+    "displayName": "Victoria",
     "lines": [
       "southern",
       "gatwickExpress",
@@ -6929,7 +6929,7 @@
     ]
   },
   "londonWaterloo": {
-    "displayName": "London Waterloo",
+    "displayName": "Waterloo",
     "lines": [
       "southWesternRailway"
     ]

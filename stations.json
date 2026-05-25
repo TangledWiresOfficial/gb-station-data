@@ -17,7 +17,32 @@
     "displayName": "Aberdeen",
     "lines": [
       "crossCountry",
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "aberdour": {
+    "displayName": "Aberdour",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "achanalt": {
+    "displayName": "Achanalt",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "achnasheen": {
+    "displayName": "Achnasheen",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "achnashellach": {
+    "displayName": "Achnashellach",
+    "lines": [
+      "scotRail"
     ]
   },
   "acle": {
@@ -45,6 +70,12 @@
       "piccadilly"
     ]
   },
+  "addiewell": {
+    "displayName": "Addiewell",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "addingtonVillage": {
     "displayName": "Addington Village",
     "lines": [
@@ -67,6 +98,18 @@
     "displayName": "Adisham",
     "lines": [
       "southeastern"
+    ]
+  },
+  "airbles": {
+    "displayName": "Airbles",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "airdrie": {
+    "displayName": "Airdrie",
+    "lines": [
+      "scotRail"
     ]
   },
   "airport": {
@@ -114,6 +157,18 @@
       "greatNorthern"
     ]
   },
+  "alexandraParade": {
+    "displayName": "Alexandra Parade",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "alexandria": {
+    "displayName": "Alexandria",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "alfreton": {
     "displayName": "Alfreton",
     "lines": [
@@ -124,6 +179,18 @@
     "displayName": "All Saints",
     "lines": [
       "dlr"
+    ]
+  },
+  "alloa": {
+    "displayName": "Alloa",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "alness": {
+    "displayName": "Alness",
+    "lines": [
+      "scotRail"
     ]
   },
   "alnmouth": {
@@ -161,6 +228,12 @@
     "displayName": "Althorpe",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "altnabreac": {
+    "displayName": "Altnabreac",
+    "lines": [
+      "scotRail"
     ]
   },
   "alton": {
@@ -205,6 +278,12 @@
       "blackpoolTramway"
     ]
   },
+  "anderston": {
+    "displayName": "Anderston",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "andover": {
     "displayName": "Andover",
     "lines": [
@@ -230,6 +309,18 @@
       "southern"
     ]
   },
+  "annan": {
+    "displayName": "Annan",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "anniesland": {
+    "displayName": "Anniesland",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "appledoreKent": {
     "displayName": "Appledore (Kent)",
     "lines": [
@@ -240,7 +331,8 @@
     "displayName": "Arbroath",
     "lines": [
       "crossCountry",
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "archway": {
@@ -249,10 +341,35 @@
       "northern"
     ]
   },
+  "ardgay": {
+    "displayName": "Ardgay",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "ardlui": {
     "displayName": "Ardlui",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "ardrossanHarbour": {
+    "displayName": "Ardrossan Harbour",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "ardrossanSouthBeach": {
+    "displayName": "Ardrossan South Beach",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "ardrossanTown": {
+    "displayName": "Ardrossan Town",
+    "lines": [
+      "scotRail"
     ]
   },
   "arena": {
@@ -261,11 +378,29 @@
       "londonTrams"
     ]
   },
+  "argyleStreet": {
+    "displayName": "Argyle Street",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "arisaig": {
+    "displayName": "Arisaig",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "arlesey": {
     "displayName": "Arlesey",
     "lines": [
       "greatNorthern",
       "thameslink"
+    ]
+  },
+  "armadale": {
+    "displayName": "Armadale",
+    "lines": [
+      "scotRail"
     ]
   },
   "arnosGrove": {
@@ -278,6 +413,12 @@
     "displayName": "Arrochar & Tarbet",
     "lines": [
       "csHighlander"
+    ]
+  },
+  "arrocharandTarbet": {
+    "displayName": "Arrochar and Tarbet",
+    "lines": [
+      "scotRail"
     ]
   },
   "arsenal": {
@@ -314,6 +455,12 @@
     "displayName": "Ashchurch for Tewkesbury",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "ashfieldGlasgow": {
+    "displayName": "Ashfield (Glasgow)",
+    "lines": [
+      "scotRail"
     ]
   },
   "ashfordInternational": {
@@ -362,6 +509,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "attadale": {
+    "displayName": "Attadale",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "attenborough": {
     "displayName": "Attenborough",
     "lines": [
@@ -374,6 +527,12 @@
     "lines": [
       "greaterAnglia",
       "eastMidlandsRailway"
+    ]
+  },
+  "auchinleck": {
+    "displayName": "Auchinleck",
+    "lines": [
+      "scotRail"
     ]
   },
   "audleyEnd": {
@@ -392,7 +551,8 @@
   "aviemore": {
     "displayName": "Aviemore",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "axminster": {
@@ -413,10 +573,22 @@
       "southeastern"
     ]
   },
+  "ayr": {
+    "displayName": "Ayr",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "bagshot": {
     "displayName": "Bagshot",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "baillieston": {
+    "displayName": "Baillieston",
+    "lines": [
+      "scotRail"
     ]
   },
   "bakerStreet": {
@@ -462,10 +634,28 @@
       "southern"
     ]
   },
+  "balloch": {
+    "displayName": "Balloch",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "balmossie": {
+    "displayName": "Balmossie",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "bamford": {
     "displayName": "Bamford",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "banavie": {
+    "displayName": "Banavie",
+    "lines": [
+      "scotRail"
     ]
   },
   "banbury": {
@@ -507,12 +697,24 @@
       "southern"
     ]
   },
+  "barassie": {
+    "displayName": "Barassie",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "barbican": {
     "displayName": "Barbican",
     "lines": [
       "metropolitan",
       "circle",
       "hammersmithAndCity"
+    ]
+  },
+  "bargeddie": {
+    "displayName": "Bargeddie",
+    "lines": [
+      "scotRail"
     ]
   },
   "barking": {
@@ -573,11 +775,29 @@
       "southern"
     ]
   },
+  "barnhill": {
+    "displayName": "Barnhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "baronsCourt": {
     "displayName": "Barons Court",
     "lines": [
       "district",
       "piccadilly"
+    ]
+  },
+  "barrhead": {
+    "displayName": "Barrhead",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "barrhill": {
+    "displayName": "Barrhill",
+    "lines": [
+      "scotRail"
     ]
   },
   "barrowHaven": {
@@ -590,6 +810,12 @@
     "displayName": "Barrow-upon-Soar",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "barryLinks": {
+    "displayName": "Barry Links",
+    "lines": [
+      "scotRail"
     ]
   },
   "bartonOnHumber": {
@@ -615,6 +841,12 @@
     "displayName": "Bat & Ball",
     "lines": [
       "thameslink"
+    ]
+  },
+  "bathgate": {
+    "displayName": "Bathgate",
+    "lines": [
+      "scotRail"
     ]
   },
   "batley": {
@@ -661,10 +893,22 @@
       "circle"
     ]
   },
+  "bearsden": {
+    "displayName": "Bearsden",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "bearsted": {
     "displayName": "Bearsted",
     "lines": [
       "southeastern"
+    ]
+  },
+  "beasdale": {
+    "displayName": "Beasdale",
+    "lines": [
+      "scotRail"
     ]
   },
   "beaulieuPark": {
@@ -677,6 +921,12 @@
     "displayName": "Beaulieu Road",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "beauly": {
+    "displayName": "Beauly",
+    "lines": [
+      "scotRail"
     ]
   },
   "beccles": {
@@ -768,11 +1018,23 @@
       "londonTrams"
     ]
   },
+  "bellgrove": {
+    "displayName": "Bellgrove",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "bellingham": {
     "displayName": "Bellingham",
     "lines": [
       "southeastern",
       "thameslink"
+    ]
+  },
+  "bellshill": {
+    "displayName": "Bellshill",
+    "lines": [
+      "scotRail"
     ]
   },
   "belmont": {
@@ -969,6 +1231,12 @@
       "avantiWestCoast"
     ]
   },
+  "bishopbriggs": {
+    "displayName": "Bishopbriggs",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "bishopsStortford": {
     "displayName": "Bishops Stortford",
     "lines": [
@@ -980,6 +1248,12 @@
     "displayName": "Bishopstone",
     "lines": [
       "southern"
+    ]
+  },
+  "bishopton": {
+    "displayName": "Bishopton",
+    "lines": [
+      "scotRail"
     ]
   },
   "bispham": {
@@ -1029,6 +1303,12 @@
       "avantiWestCoast"
     ]
   },
+  "blackridge": {
+    "displayName": "Blackridge",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "blackwall": {
     "displayName": "Blackwall",
     "lines": [
@@ -1038,7 +1318,20 @@
   "blairAtholl": {
     "displayName": "Blair Atholl",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "blairhill": {
+    "displayName": "Blairhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "blantyre": {
+    "displayName": "Blantyre",
+    "lines": [
+      "scotRail"
     ]
   },
   "bleasby": {
@@ -1063,6 +1356,12 @@
     "displayName": "Bognor Regis",
     "lines": [
       "southern"
+    ]
+  },
+  "bogston": {
+    "displayName": "Bogston",
+    "lines": [
+      "scotRail"
     ]
   },
   "bolton": {
@@ -1160,6 +1459,12 @@
       "greatNorthern"
     ]
   },
+  "bowling": {
+    "displayName": "Bowling",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "boxHillAndWesthumble": {
     "displayName": "Box Hill & Westhumble",
     "lines": [
@@ -1203,6 +1508,12 @@
       "greaterAnglia"
     ]
   },
+  "branchton": {
+    "displayName": "Branchton",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "brandon": {
     "displayName": "Brandon",
     "lines": [
@@ -1214,6 +1525,12 @@
     "displayName": "Branksome",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "breich": {
+    "displayName": "Breich",
+    "lines": [
+      "scotRail"
     ]
   },
   "brentCross": {
@@ -1250,6 +1567,24 @@
     "displayName": "Bridge Street",
     "lines": [
       "glasgowSubway"
+    ]
+  },
+  "bridgeofAllan": {
+    "displayName": "Bridge of Allan",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "bridgeofOrchy": {
+    "displayName": "Bridge of Orchy",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "bridgeton": {
+    "displayName": "Bridgeton",
+    "lines": [
+      "scotRail"
     ]
   },
   "brighouse": {
@@ -1368,11 +1703,23 @@
       "southWesternRailway"
     ]
   },
+  "brora": {
+    "displayName": "Brora",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "brough": {
     "displayName": "Brough",
     "lines": [
       "hullTrains",
       "transPennineExpress"
+    ]
+  },
+  "broughtyFerry": {
+    "displayName": "Broughty Ferry",
+    "lines": [
+      "scotRail"
     ]
   },
   "broxbourne": {
@@ -1397,6 +1744,12 @@
     "displayName": "Brundall Gardens",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "brunstane": {
+    "displayName": "Brunstane",
+    "lines": [
+      "scotRail"
     ]
   },
   "bruton": {
@@ -1460,10 +1813,22 @@
       "greaterAnglia"
     ]
   },
+  "burnside": {
+    "displayName": "Burnside",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "burntOak": {
     "displayName": "Burnt Oak",
     "lines": [
       "northern"
+    ]
+  },
+  "burntisland": {
+    "displayName": "Burntisland",
+    "lines": [
+      "scotRail"
     ]
   },
   "bursledon": {
@@ -1488,6 +1853,12 @@
     "displayName": "Bury St Edmunds",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "busby": {
+    "displayName": "Busby",
+    "lines": [
+      "scotRail"
     ]
   },
   "bushHillPark": {
@@ -1524,6 +1895,12 @@
     "displayName": "Cabin",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "caldercruix": {
+    "displayName": "Caldercruix",
+    "lines": [
+      "scotRail"
     ]
   },
   "caldicot": {
@@ -1590,6 +1967,12 @@
       "greaterAnglia"
     ]
   },
+  "cambuslang": {
+    "displayName": "Cambuslang",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "camdenRoad": {
     "displayName": "Camden Road",
     "lines": [
@@ -1600,6 +1983,18 @@
     "displayName": "Camden Town",
     "lines": [
       "northern"
+    ]
+  },
+  "camelon": {
+    "displayName": "Camelon",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "cameronBridge": {
+    "displayName": "Cameron Bridge",
+    "lines": [
+      "scotRail"
     ]
   },
   "canadaWater": {
@@ -1664,10 +2059,34 @@
       "greaterAnglia"
     ]
   },
+  "cardenden": {
+    "displayName": "Cardenden",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "cardiffCentral": {
     "displayName": "Cardiff Central",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "cardonald": {
+    "displayName": "Cardonald",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "cardross": {
+    "displayName": "Cardross",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "carfin": {
+    "displayName": "Carfin",
+    "lines": [
+      "scotRail"
     ]
   },
   "carlisle": {
@@ -1675,7 +2094,8 @@
     "lines": [
       "csLowlander",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "scotRail"
     ]
   },
   "carlton": {
@@ -1684,10 +2104,29 @@
       "eastMidlandsRailway"
     ]
   },
+  "carluke": {
+    "displayName": "Carluke",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "carmyle": {
+    "displayName": "Carmyle",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "carnoustie": {
     "displayName": "Carnoustie",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "carntyne": {
+    "displayName": "Carntyne",
+    "lines": [
+      "scotRail"
     ]
   },
   "carpendersPark": {
@@ -1699,7 +2138,8 @@
   "carrbridge": {
     "displayName": "Carrbridge",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "carshalton": {
@@ -1719,7 +2159,14 @@
     "displayName": "Carstairs",
     "lines": [
       "csLowlander",
-      "transPennineExpress"
+      "transPennineExpress",
+      "scotRail"
+    ]
+  },
+  "cartsdyke": {
+    "displayName": "Cartsdyke",
+    "lines": [
+      "scotRail"
     ]
   },
   "castleCary": {
@@ -1750,6 +2197,12 @@
     "displayName": "Catford Bridge",
     "lines": [
       "southeastern"
+    ]
+  },
+  "cathcart": {
+    "displayName": "Cathcart",
+    "lines": [
+      "scotRail"
     ]
   },
   "cavendishRoad": {
@@ -1845,6 +2298,12 @@
       "southeastern"
     ]
   },
+  "charingCrossGlasgow": {
+    "displayName": "Charing Cross (Glasgow)",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "charlton": {
     "displayName": "Charlton",
     "lines": [
@@ -1856,6 +2315,12 @@
     "displayName": "Chartham",
     "lines": [
       "southeastern"
+    ]
+  },
+  "chatelherault": {
+    "displayName": "Chatelherault",
+    "lines": [
+      "scotRail"
     ]
   },
   "chatham": {
@@ -2095,6 +2560,12 @@
       "weaver"
     ]
   },
+  "clarkston": {
+    "displayName": "Clarkston",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "claygate": {
     "displayName": "Claygate",
     "lines": [
@@ -2106,6 +2577,12 @@
     "lines": [
       "eastMidlandsRailway",
       "transPennineExpress"
+    ]
+  },
+  "cleland": {
+    "displayName": "Cleland",
+    "lines": [
+      "scotRail"
     ]
   },
   "cleveleys": {
@@ -2124,6 +2601,30 @@
     "displayName": "Clock House",
     "lines": [
       "southeastern"
+    ]
+  },
+  "clydebank": {
+    "displayName": "Clydebank",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "coatbridgeCentral": {
+    "displayName": "Coatbridge Central",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "coatbridgeSunnyside": {
+    "displayName": "Coatbridge Sunnyside",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "coatdyke": {
+    "displayName": "Coatdyke",
+    "lines": [
+      "scotRail"
     ]
   },
   "cobhamandStokeDAbernon": {
@@ -2186,6 +2687,18 @@
       "avantiWestCoast"
     ]
   },
+  "connelFerry": {
+    "displayName": "Connel Ferry",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "cononBridge": {
+    "displayName": "Conon Bridge",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "coodenBeach": {
     "displayName": "Cooden Beach",
     "lines": [
@@ -2216,10 +2729,23 @@
       "southWesternRailway"
     ]
   },
+  "corkerhill": {
+    "displayName": "Corkerhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "corpach": {
+    "displayName": "Corpach",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "corrour": {
     "displayName": "Corrour",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "cosham": {
@@ -2277,6 +2803,18 @@
     "displayName": "Cowden (Kent)",
     "lines": [
       "southern"
+    ]
+  },
+  "cowdenbeath": {
+    "displayName": "Cowdenbeath",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "craigendoran": {
+    "displayName": "Craigendoran",
+    "lines": [
+      "scotRail"
     ]
   },
   "cramlington": {
@@ -2340,13 +2878,20 @@
   "crianlarich": {
     "displayName": "Crianlarich",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "cricklewood": {
     "displayName": "Cricklewood",
     "lines": [
       "thameslink"
+    ]
+  },
+  "croftfoot": {
+    "displayName": "Croftfoot",
+    "lines": [
+      "scotRail"
     ]
   },
   "croftonPark": {
@@ -2368,6 +2913,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "crookston": {
+    "displayName": "Crookston",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "crossGates": {
     "displayName": "Cross Gates",
     "lines": [
@@ -2378,6 +2929,12 @@
     "displayName": "Crossharbour",
     "lines": [
       "dlr"
+    ]
+  },
+  "crosshill": {
+    "displayName": "Crosshill",
+    "lines": [
+      "scotRail"
     ]
   },
   "crouchHill": {
@@ -2429,6 +2986,30 @@
       "twYellow"
     ]
   },
+  "culrain": {
+    "displayName": "Culrain",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "cumbernauld": {
+    "displayName": "Cumbernauld",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "cupar": {
+    "displayName": "Cupar",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "curriehill": {
+    "displayName": "Curriehill",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "customHouse": {
     "displayName": "Custom House",
     "lines": [
@@ -2472,10 +3053,47 @@
       "district"
     ]
   },
+  "dalgetyBay": {
+    "displayName": "Dalgety Bay",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dalmally": {
+    "displayName": "Dalmally",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dalmarnock": {
+    "displayName": "Dalmarnock",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dalmeny": {
+    "displayName": "Dalmeny",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "dalmuir": {
     "displayName": "Dalmuir",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "dalreoch": {
+    "displayName": "Dalreoch",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dalry": {
+    "displayName": "Dalry",
+    "lines": [
+      "scotRail"
     ]
   },
   "dalstonJunction": {
@@ -2493,7 +3111,8 @@
   "dalwhinnie": {
     "displayName": "Dalwhinnie",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "darlington": {
@@ -2599,6 +3218,12 @@
       "transPennineExpress"
     ]
   },
+  "dingwall": {
+    "displayName": "Dingwall",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "diss": {
     "displayName": "Diss",
     "lines": [
@@ -2684,16 +3309,58 @@
       "greatNorthern"
     ]
   },
+  "drem": {
+    "displayName": "Drem",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "dronfield": {
     "displayName": "Dronfield",
     "lines": [
       "eastMidlandsRailway"
     ]
   },
+  "drumchapel": {
+    "displayName": "Drumchapel",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "drumfrochar": {
+    "displayName": "Drumfrochar",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "drumgelloch": {
+    "displayName": "Drumgelloch",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "drumry": {
+    "displayName": "Drumry",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "duffield": {
     "displayName": "Duffield",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "duirinish": {
+    "displayName": "Duirinish",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dukeStreet": {
+    "displayName": "Duke Street",
+    "lines": [
+      "scotRail"
     ]
   },
   "dullingham": {
@@ -2705,7 +3372,26 @@
   "dumbartonCentral": {
     "displayName": "Dumbarton Central",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "dumbartonEast": {
+    "displayName": "Dumbarton East",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dumbreck": {
+    "displayName": "Dumbreck",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dumfries": {
+    "displayName": "Dumfries",
+    "lines": [
+      "scotRail"
     ]
   },
   "dumptonPark": {
@@ -2719,20 +3405,29 @@
     "displayName": "Dunbar",
     "lines": [
       "crossCountry",
-      "transPennineExpress"
+      "transPennineExpress",
+      "scotRail"
     ]
   },
   "dunblane": {
     "displayName": "Dunblane",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "duncraig": {
+    "displayName": "Duncraig",
+    "lines": [
+      "scotRail"
     ]
   },
   "dundee": {
     "displayName": "Dundee",
     "lines": [
       "crossCountry",
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "dundonaldRoad": {
@@ -2741,10 +3436,35 @@
       "londonTrams"
     ]
   },
+  "dunfermlineCity": {
+    "displayName": "Dunfermline City",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dunfermlineQueenMargaret": {
+    "displayName": "Dunfermline Queen Margaret",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "dunkeldAndBirnam": {
     "displayName": "Dunkeld & Birnam",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "dunlop": {
+    "displayName": "Dunlop",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "dunrobinCastle": {
+    "displayName": "Dunrobin Castle",
+    "lines": [
+      "scotRail"
     ]
   },
   "duntonGreen": {
@@ -2764,6 +3484,12 @@
     "displayName": "Durrington-on-Sea",
     "lines": [
       "southern"
+    ]
+  },
+  "dyce": {
+    "displayName": "Dyce",
+    "lines": [
+      "scotRail"
     ]
   },
   "eaglescliffe": {
@@ -2872,10 +3598,17 @@
       "dlr"
     ]
   },
+  "eastKilbride": {
+    "displayName": "East Kilbride",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "eastLinton": {
     "displayName": "East Linton",
     "lines": [
-      "transPennineExpress"
+      "transPennineExpress",
+      "scotRail"
     ]
   },
   "eastMalling": {
@@ -2919,6 +3652,12 @@
     "lines": [
       "metropolitan",
       "piccadilly"
+    ]
+  },
+  "easterhouse": {
+    "displayName": "Easterhouse",
+    "lines": [
+      "scotRail"
     ]
   },
   "eastleigh": {
@@ -2994,13 +3733,15 @@
   "edinburghGateway": {
     "displayName": "Edinburgh Gateway",
     "lines": [
-      "edinburghTrams"
+      "edinburghTrams",
+      "scotRail"
     ]
   },
   "edinburghPark": {
     "displayName": "Edinburgh Park",
     "lines": [
-      "edinburghTrams"
+      "edinburghTrams",
+      "scotRail"
     ]
   },
   "edinburghParkCentral": {
@@ -3016,7 +3757,8 @@
       "lumo",
       "crossCountry",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "scotRail"
     ]
   },
   "edmontonGreen": {
@@ -3046,6 +3788,12 @@
       "bakerloo",
       "southeastern",
       "thameslink"
+    ]
+  },
+  "elgin": {
+    "displayName": "Elgin",
+    "lines": [
+      "scotRail"
     ]
   },
   "elmPark": {
@@ -3193,6 +3941,12 @@
       "southWesternRailway"
     ]
   },
+  "eskbank": {
+    "displayName": "Eskbank",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "essexRoad": {
     "displayName": "Essex Road",
     "lines": [
@@ -3249,11 +4003,23 @@
       "crossCountry"
     ]
   },
+  "exhibitionCentre": {
+    "displayName": "Exhibition Centre",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "eynsford": {
     "displayName": "Eynsford",
     "lines": [
       "southeastern",
       "thameslink"
+    ]
+  },
+  "fairlie": {
+    "displayName": "Fairlie",
+    "lines": [
+      "scotRail"
     ]
   },
   "fairlop": {
@@ -3271,13 +4037,21 @@
   "falkirkGrahamston": {
     "displayName": "Falkirk Grahamston",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "falkirkHigh": {
     "displayName": "Falkirk High",
     "lines": [
-      "lumo"
+      "lumo",
+      "scotRail"
+    ]
+  },
+  "fallsofCruachan": {
+    "displayName": "Falls of Cruachan",
+    "lines": [
+      "scotRail"
     ]
   },
   "falmer": {
@@ -3327,6 +4101,12 @@
       "thameslink"
     ]
   },
+  "fauldhouse": {
+    "displayName": "Fauldhouse",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "faversham": {
     "displayName": "Faversham",
     "lines": [
@@ -3345,6 +4125,12 @@
     "lines": [
       "thameslink",
       "southern"
+    ]
+  },
+  "fearn": {
+    "displayName": "Fearn",
+    "lines": [
+      "scotRail"
     ]
   },
   "felixstowe": {
@@ -3499,10 +4285,29 @@
       "southern"
     ]
   },
+  "forres": {
+    "displayName": "Forres",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "forsinard": {
+    "displayName": "Forsinard",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "fortMatilda": {
+    "displayName": "Fort Matilda",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "fortWilliam": {
     "displayName": "Fort William",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "fourLaneEnds": {
@@ -3567,6 +4372,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "galashiels": {
+    "displayName": "Galashiels",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "gallionsReach": {
     "displayName": "Gallions Reach",
     "lines": [
@@ -3582,13 +4393,38 @@
   "garelochhead": {
     "displayName": "Garelochhead",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "garforth": {
     "displayName": "Garforth",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "garrowhill": {
+    "displayName": "Garrowhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "garscadden": {
+    "displayName": "Garscadden",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "gartcosh": {
+    "displayName": "Gartcosh",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "garve": {
+    "displayName": "Garve",
+    "lines": [
+      "scotRail"
     ]
   },
   "gateshead": {
@@ -3625,10 +4461,22 @@
       "londonTrams"
     ]
   },
+  "georgemasJunction": {
+    "displayName": "Georgemas Junction",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "gideaPark": {
     "displayName": "Gidea Park",
     "lines": [
       "elizabeth"
+    ]
+  },
+  "giffnock": {
+    "displayName": "Giffnock",
+    "lines": [
+      "scotRail"
     ]
   },
   "gillinghamDorset": {
@@ -3645,10 +4493,22 @@
       "thameslink"
     ]
   },
+  "gilshochill": {
+    "displayName": "Gilshochill",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "gipsyHill": {
     "displayName": "Gipsy Hill",
     "lines": [
       "southern"
+    ]
+  },
+  "girvan": {
+    "displayName": "Girvan",
+    "lines": [
+      "scotRail"
     ]
   },
   "glasgowCentral": {
@@ -3657,19 +4517,40 @@
       "crossCountry",
       "csLowlander",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "scotRail"
     ]
   },
   "glasgowQueenStreet": {
     "displayName": "Glasgow Queen Street",
     "lines": [
-      "lumo"
+      "lumo",
+      "scotRail"
     ]
   },
   "gleneagles": {
     "displayName": "Gleneagles",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "glenfinnan": {
+    "displayName": "Glenfinnan",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "glengarnock": {
+    "displayName": "Glengarnock",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "glenrotheswithThornton": {
+    "displayName": "Glenrothes with Thornton",
+    "lines": [
+      "scotRail"
     ]
   },
   "gloucester": {
@@ -3723,6 +4604,18 @@
       "circle"
     ]
   },
+  "golfStreet": {
+    "displayName": "Golf Street",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "golspie": {
+    "displayName": "Golspie",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "goodgeStreet": {
     "displayName": "Goodge Street",
     "lines": [
@@ -3741,6 +4634,12 @@
       "greatNorthern"
     ]
   },
+  "gorebridge": {
+    "displayName": "Gorebridge",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "goringBySea": {
     "displayName": "Goring-by-Sea",
     "lines": [
@@ -3753,6 +4652,12 @@
     "lines": [
       "mildmay",
       "suffragette"
+    ]
+  },
+  "gourock": {
+    "displayName": "Gourock",
+    "lines": [
+      "scotRail"
     ]
   },
   "govan": {
@@ -3852,6 +4757,12 @@
       "jubilee"
     ]
   },
+  "greenfaulds": {
+    "displayName": "Greenfaulds",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "greenfield": {
     "displayName": "Greenfield",
     "lines": [
@@ -3871,6 +4782,18 @@
       "southeastern"
     ]
   },
+  "greenockCentral": {
+    "displayName": "Greenock Central",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "greenockWest": {
+    "displayName": "Greenock West",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "greenwich": {
     "displayName": "Greenwich",
     "lines": [
@@ -3883,6 +4806,12 @@
     "displayName": "IFS Cloud Greenwich Peninsula",
     "lines": [
       "cableCar"
+    ]
+  },
+  "gretnaGreen": {
+    "displayName": "Gretna Green",
+    "lines": [
+      "scotRail"
     ]
   },
   "grimsbyDocks": {
@@ -4005,6 +4934,12 @@
       "central"
     ]
   },
+  "hairmyres": {
+    "displayName": "Hairmyres",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "halesworth": {
     "displayName": "Halesworth",
     "lines": [
@@ -4033,6 +4968,18 @@
     "displayName": "Hamble",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "hamiltonCentral": {
+    "displayName": "Hamilton Central",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "hamiltonWest": {
+    "displayName": "Hamilton West",
+    "lines": [
+      "scotRail"
     ]
   },
   "hammersmith1": {
@@ -4197,6 +5144,12 @@
       "grandCentral"
     ]
   },
+  "hartwood": {
+    "displayName": "Hartwood",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "harwichInternational": {
     "displayName": "Harwich International",
     "lines": [
@@ -4279,6 +5232,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "hawkhead": {
+    "displayName": "Hawkhead",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "haydonsRoad": {
     "displayName": "Haydons Road",
     "lines": [
@@ -4303,7 +5262,8 @@
       "edinburghTrams",
       "transPennineExpress",
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "scotRail"
     ]
   },
   "haywardsHeath": {
@@ -4390,10 +5350,23 @@
       "southWesternRailway"
     ]
   },
+  "helensburghCentral": {
+    "displayName": "Helensburgh Central",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "helensburghUpper": {
     "displayName": "Helensburgh Upper",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "helmsdale": {
+    "displayName": "Helmsdale",
+    "lines": [
+      "scotRail"
     ]
   },
   "hendon": {
@@ -4471,6 +5444,12 @@
       "southeastern"
     ]
   },
+  "highStreetGlasgow": {
+    "displayName": "High Street (Glasgow)",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "highStreetKensington": {
     "displayName": "High Street Kensington",
     "lines": [
@@ -4513,6 +5492,12 @@
       "southeastern"
     ]
   },
+  "hillfoot": {
+    "displayName": "Hillfoot",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "hillhead": {
     "displayName": "Hillhead",
     "lines": [
@@ -4524,6 +5509,18 @@
     "lines": [
       "metropolitan",
       "piccadilly"
+    ]
+  },
+  "hillingtonEast": {
+    "displayName": "Hillington East",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "hillingtonWest": {
+    "displayName": "Hillington West",
+    "lines": [
+      "scotRail"
     ]
   },
   "hilsea": {
@@ -4611,6 +5608,12 @@
     "displayName": "Holyhead",
     "lines": [
       "avantiWestCoast"
+    ]
+  },
+  "holytown": {
+    "displayName": "Holytown",
+    "lines": [
+      "scotRail"
     ]
   },
   "homerton": {
@@ -4724,6 +5727,12 @@
       "twYellow"
     ]
   },
+  "howwood": {
+    "displayName": "Howwood",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "hoxton": {
     "displayName": "Hoxton",
     "lines": [
@@ -4762,6 +5771,12 @@
       "greatNorthern"
     ]
   },
+  "huntly": {
+    "displayName": "Huntly",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "huntsCross": {
     "displayName": "Hunts Cross",
     "lines": [
@@ -4785,6 +5800,12 @@
     "displayName": "Hykeham",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "hyndland": {
+    "displayName": "Hyndland",
+    "lines": [
+      "scotRail"
     ]
   },
   "hytheEssex": {
@@ -4851,16 +5872,60 @@
       "edinburghTrams"
     ]
   },
+  "insch": {
+    "displayName": "Insch",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "invergordon": {
+    "displayName": "Invergordon",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "invergowrie": {
+    "displayName": "Invergowrie",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "inverkeithing": {
     "displayName": "Inverkeithing",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "inverkip": {
+    "displayName": "Inverkip",
+    "lines": [
+      "scotRail"
     ]
   },
   "inverness": {
     "displayName": "Inverness",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "invernessAirport": {
+    "displayName": "Inverness Airport",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "invershin": {
+    "displayName": "Invershin",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "inverurie": {
+    "displayName": "Inverurie",
+    "lines": [
+      "scotRail"
     ]
   },
   "ipswich": {
@@ -4873,6 +5938,12 @@
     "displayName": "Irlam",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "irvine": {
+    "displayName": "Irvine",
+    "lines": [
+      "scotRail"
     ]
   },
   "iselworth": {
@@ -4906,10 +5977,28 @@
       "twYellow"
     ]
   },
+  "johnstone": {
+    "displayName": "Johnstone",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "jordanhill": {
+    "displayName": "Jordanhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "kearsney": {
     "displayName": "Kearsney",
     "lines": [
       "southeastern"
+    ]
+  },
+  "keith": {
+    "displayName": "Keith",
+    "lines": [
+      "scotRail"
     ]
   },
   "kelvedon": {
@@ -4922,6 +6011,12 @@
     "displayName": "Kelvinbridge",
     "lines": [
       "glasgowSubway"
+    ]
+  },
+  "kelvindale": {
+    "displayName": "Kelvindale",
+    "lines": [
+      "scotRail"
     ]
   },
   "kelvinhall": {
@@ -4964,6 +6059,12 @@
     "displayName": "Kennington",
     "lines": [
       "northern"
+    ]
+  },
+  "kennishead": {
+    "displayName": "Kennishead",
+    "lines": [
+      "scotRail"
     ]
   },
   "kensalGreen": {
@@ -5062,6 +6163,48 @@
       "bakerloo"
     ]
   },
+  "kildonan": {
+    "displayName": "Kildonan",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kilmarnock": {
+    "displayName": "Kilmarnock",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kilmaurs": {
+    "displayName": "Kilmaurs",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kilpatrick": {
+    "displayName": "Kilpatrick",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kilwinning": {
+    "displayName": "Kilwinning",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kinbrace": {
+    "displayName": "Kinbrace",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "king'sPark": {
+    "displayName": "King's Park",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "kingGeorgeV": {
     "displayName": "King George V",
     "lines": [
@@ -5072,6 +6215,12 @@
     "displayName": "King Henry's Drive",
     "lines": [
       "londonTrams"
+    ]
+  },
+  "kinghorn": {
+    "displayName": "Kinghorn",
+    "lines": [
+      "scotRail"
     ]
   },
   "kingsCross": {
@@ -5107,6 +6256,12 @@
       "jubilee"
     ]
   },
+  "kingsknowe": {
+    "displayName": "Kingsknowe",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "kingslynn": {
     "displayName": "Kingslynn",
     "lines": [
@@ -5134,13 +6289,20 @@
   "kingussie": {
     "displayName": "Kingussie",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "kinningPark": {
     "displayName": "Kinning Park",
     "lines": [
       "glasgowSubway"
+    ]
+  },
+  "kintore": {
+    "displayName": "Kintore",
+    "lines": [
+      "scotRail"
     ]
   },
   "kirbyCross": {
@@ -5164,13 +6326,38 @@
   "kirkcaldy": {
     "displayName": "Kirkcaldy",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "kirkconnel": {
+    "displayName": "Kirkconnel",
+    "lines": [
+      "scotRail"
     ]
   },
   "kirkhamAndWesham": {
     "displayName": "Kirkham & Wesham",
     "lines": [
       "avantiWestCoast"
+    ]
+  },
+  "kirkhill": {
+    "displayName": "Kirkhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kirknewton": {
+    "displayName": "Kirknewton",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "kirkwood": {
+    "displayName": "Kirkwood",
+    "lines": [
+      "scotRail"
     ]
   },
   "knebworth": {
@@ -5192,11 +6379,23 @@
       "southeastern"
     ]
   },
+  "kyleofLochalsh": {
+    "displayName": "Kyle of Lochalsh",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "ladbrokeGrove": {
     "displayName": "Ladbroke Grove",
     "lines": [
       "hammersmithAndCity",
       "circle"
+    ]
+  },
+  "ladybank": {
+    "displayName": "Ladybank",
+    "lines": [
+      "scotRail"
     ]
   },
   "ladywell": {
@@ -5209,6 +6408,12 @@
     "displayName": "Laindon",
     "lines": [
       "c2c"
+    ]
+  },
+  "lairg": {
+    "displayName": "Lairg",
+    "lines": [
+      "scotRail"
     ]
   },
   "lake": {
@@ -5227,6 +6432,12 @@
     "displayName": "Lambeth North",
     "lines": [
       "bakerloo"
+    ]
+  },
+  "lanark": {
+    "displayName": "Lanark",
+    "lines": [
+      "scotRail"
     ]
   },
   "lancaster": {
@@ -5248,6 +6459,12 @@
       "southern"
     ]
   },
+  "langbank": {
+    "displayName": "Langbank",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "langdonPark": {
     "displayName": "Langdon Park",
     "lines": [
@@ -5266,10 +6483,34 @@
       "eastMidlandsRailway"
     ]
   },
+  "langside": {
+    "displayName": "Langside",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "langwithWhaleyThorns": {
     "displayName": "Langwith-Whaley Thorns",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "larbert": {
+    "displayName": "Larbert",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "largs": {
+    "displayName": "Largs",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "larkhall": {
+    "displayName": "Larkhall",
+    "lines": [
+      "scotRail"
     ]
   },
   "latimerRoad": {
@@ -5277,6 +6518,12 @@
     "lines": [
       "hammersmithAndCity",
       "circle"
+    ]
+  },
+  "laurencekirk": {
+    "displayName": "Laurencekirk",
+    "lines": [
+      "scotRail"
     ]
   },
   "leaBridge": {
@@ -5361,6 +6608,12 @@
       "southeastern"
     ]
   },
+  "lenzie": {
+    "displayName": "Lenzie",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "letchworthGardenCity": {
     "displayName": "Letchworth Garden City",
     "lines": [
@@ -5371,7 +6624,14 @@
   "leuchars": {
     "displayName": "Leuchars",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "leven": {
+    "displayName": "Leven",
+    "lines": [
+      "scotRail"
     ]
   },
   "lewes": {
@@ -5449,6 +6709,12 @@
       "greaterAnglia"
     ]
   },
+  "linlithgow": {
+    "displayName": "Linlithgow",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "liphook": {
     "displayName": "Liphook",
     "lines": [
@@ -5523,6 +6789,18 @@
       "greaterAnglia"
     ]
   },
+  "livingstonNorth": {
+    "displayName": "Livingston North",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "livingstonSouth": {
+    "displayName": "Livingston South",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "llandudnoJunction": {
     "displayName": "Llandudno Junction",
     "lines": [
@@ -5533,6 +6811,48 @@
     "displayName": "Lloyd Park",
     "lines": [
       "londonTrams"
+    ]
+  },
+  "lochAwe": {
+    "displayName": "Loch Awe",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "lochEilOutwardBound": {
+    "displayName": "Loch Eil Outward Bound",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "lochailort": {
+    "displayName": "Lochailort",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "locheilside": {
+    "displayName": "Locheilside",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "lochgelly": {
+    "displayName": "Lochgelly",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "lochluichart": {
+    "displayName": "Lochluichart",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "lochwinnoch": {
+    "displayName": "Lochwinnoch",
+    "lines": [
+      "scotRail"
     ]
   },
   "lockerbie": {
@@ -5631,6 +6951,12 @@
     "displayName": "Longfield",
     "lines": [
       "southeastern"
+    ]
+  },
+  "longniddry": {
+    "displayName": "Longniddry",
+    "lines": [
+      "scotRail"
     ]
   },
   "longport": {
@@ -5777,6 +7103,12 @@
       "southWesternRailway"
     ]
   },
+  "mallaig": {
+    "displayName": "Mallaig",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "malton": {
     "displayName": "Malton",
     "lines": [
@@ -5911,6 +7243,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "markinch": {
+    "displayName": "Markinch",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "marksTey": {
     "displayName": "Marks Tey",
     "lines": [
@@ -5941,6 +7279,12 @@
       "southWesternRailway"
     ]
   },
+  "maryhill": {
+    "displayName": "Maryhill",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "maryland": {
     "displayName": "Maryland",
     "lines": [
@@ -5963,6 +7307,18 @@
     "displayName": "Matlock Bath",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "maxwellPark": {
+    "displayName": "Maxwell Park",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "maybole": {
+    "displayName": "Maybole",
+    "lines": [
+      "scotRail"
     ]
   },
   "mazeHill": {
@@ -6019,6 +7375,12 @@
     "displayName": "Meridian Water",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "merryton": {
+    "displayName": "Merryton",
+    "lines": [
+      "scotRail"
     ]
   },
   "merstham": {
@@ -6090,6 +7452,18 @@
       "twGreen"
     ]
   },
+  "millikenPark": {
+    "displayName": "Milliken Park",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "milngavie": {
+    "displayName": "Milngavie",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "miltonKeynesCentral": {
     "displayName": "Milton Keynes Central",
     "lines": [
@@ -6134,6 +7508,12 @@
       "thameslink"
     ]
   },
+  "monifieth": {
+    "displayName": "Monifieth",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "monkseaton": {
     "displayName": "Monkseaton",
     "lines": [
@@ -6144,7 +7524,8 @@
     "displayName": "Montrose",
     "lines": [
       "crossCountry",
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "monument": {
@@ -6168,6 +7549,12 @@
       "circle",
       "hammersmithAndCity",
       "greatNorthern"
+    ]
+  },
+  "morar": {
+    "displayName": "Morar",
+    "lines": [
+      "scotRail"
     ]
   },
   "morden": {
@@ -6226,13 +7613,20 @@
       "transPennineExpress"
     ]
   },
+  "mosspark": {
+    "displayName": "Mosspark",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "motherwell": {
     "displayName": "Motherwell",
     "lines": [
       "crossCountry",
       "csLowlander",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "scotRail"
     ]
   },
   "motspurPark": {
@@ -6259,16 +7653,52 @@
       "southern"
     ]
   },
+  "mountFlorida": {
+    "displayName": "Mount Florida",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "mountVernon": {
+    "displayName": "Mount Vernon",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "mudchute": {
     "displayName": "Mudchute",
     "lines": [
       "dlr"
     ]
   },
+  "muirend": {
+    "displayName": "Muirend",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "muirofOrd": {
+    "displayName": "Muir of Ord",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "murrayfieldStadium": {
     "displayName": "Murrayfield Stadium",
     "lines": [
       "edinburghTrams"
+    ]
+  },
+  "musselburgh": {
+    "displayName": "Musselburgh",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "nairn": {
+    "displayName": "Nairn",
+    "lines": [
+      "scotRail"
     ]
   },
   "narborough": {
@@ -6287,6 +7717,12 @@
     "displayName": "Needham Market",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "neilston": {
+    "displayName": "Neilston",
+    "lines": [
+      "scotRail"
     ]
   },
   "netherfield": {
@@ -6339,6 +7775,12 @@
     "lines": [
       "windrush",
       "southern"
+    ]
+  },
+  "newCumnock": {
+    "displayName": "New Cumnock",
+    "lines": [
+      "scotRail"
     ]
   },
   "newEltham": {
@@ -6404,6 +7846,12 @@
       "transPennineExpress"
     ]
   },
+  "newcraighall": {
+    "displayName": "Newcraighall",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "newhaven": {
     "displayName": "Newhaven",
     "lines": [
@@ -6452,6 +7900,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "newton": {
+    "displayName": "Newton",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "newtonAbbot": {
     "displayName": "Newton Abbot",
     "lines": [
@@ -6464,16 +7918,35 @@
       "transPennineExpress"
     ]
   },
+  "newtongrange": {
+    "displayName": "Newtongrange",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "newtonmore": {
     "displayName": "Newtonmore",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
+    ]
+  },
+  "newtononayr": {
+    "displayName": "Newton-on-Ayr",
+    "lines": [
+      "scotRail"
     ]
   },
   "nineElms": {
     "displayName": "Nine Elms",
     "lines": [
       "northern"
+    ]
+  },
+  "nitshill": {
+    "displayName": "Nitshill",
+    "lines": [
+      "scotRail"
     ]
   },
   "norbiton": {
@@ -6518,6 +7991,12 @@
       "central"
     ]
   },
+  "northBerwick": {
+    "displayName": "North Berwick",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "northDulwich": {
     "displayName": "North Dulwich",
     "lines": [
@@ -6546,6 +8025,12 @@
     "displayName": "North Pier",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "northQueensferry": {
+    "displayName": "North Queensferry",
+    "lines": [
+      "scotRail"
     ]
   },
   "northSheen": {
@@ -6717,6 +8202,12 @@
       "piccadilly"
     ]
   },
+  "oban": {
+    "displayName": "Oban",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "oceanTerminal": {
     "displayName": "Ocean Terminal",
     "lines": [
@@ -6855,6 +8346,24 @@
       "crossCountry"
     ]
   },
+  "paisleyCanal": {
+    "displayName": "Paisley Canal",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "paisleyGilmourStreet": {
+    "displayName": "Paisley Gilmour Street",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "paisleyStJames": {
+    "displayName": "Paisley St James",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "pallion": {
     "displayName": "Pallion",
     "lines": [
@@ -6906,7 +8415,14 @@
   "partick": {
     "displayName": "Partick",
     "lines": [
-      "glasgowSubway"
+      "glasgowSubway",
+      "scotRail"
+    ]
+  },
+  "patterton": {
+    "displayName": "Patterton",
+    "lines": [
+      "scotRail"
     ]
   },
   "peartree": {
@@ -6983,7 +8499,8 @@
   "perth": {
     "displayName": "Perth",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "peterborough": {
@@ -7062,7 +8579,8 @@
   "pitlochry": {
     "displayName": "Pitlochry",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "pitsea": {
@@ -7088,6 +8606,12 @@
     "displayName": "Pleasure Beach",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "plockton": {
+    "displayName": "Plockton",
+    "lines": [
+      "scotRail"
     ]
   },
   "pluckley": {
@@ -7127,6 +8651,36 @@
       "southern"
     ]
   },
+  "pollokshawsEast": {
+    "displayName": "Pollokshaws East",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "pollokshawsWest": {
+    "displayName": "Pollokshaws West",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "pollokshieldsEast": {
+    "displayName": "Pollokshields East",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "pollokshieldsWest": {
+    "displayName": "Pollokshields West",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "polmont": {
+    "displayName": "Polmont",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "pondersEnd": {
     "displayName": "Ponders End",
     "lines": [
@@ -7157,11 +8711,23 @@
       "dlr"
     ]
   },
+  "portGlasgow": {
+    "displayName": "Port Glasgow",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "portchester": {
     "displayName": "Portchester",
     "lines": [
       "southWesternRailway",
       "southern"
+    ]
+  },
+  "portlethen": {
+    "displayName": "Portlethen",
+    "lines": [
+      "scotRail"
     ]
   },
   "portofLeith": {
@@ -7193,6 +8759,12 @@
     "displayName": "Portsmouth and Southsea",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "possilparkAndParkhouse": {
+    "displayName": "Possilpark & Parkhouse",
+    "lines": [
+      "scotRail"
     ]
   },
   "pottersBar": {
@@ -7233,6 +8805,30 @@
     "displayName": "Preston Road",
     "lines": [
       "metropolitan"
+    ]
+  },
+  "prestonpans": {
+    "displayName": "Prestonpans",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "prestwickInternationalAirport": {
+    "displayName": "Prestwick International Airport",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "prestwickTown": {
+    "displayName": "Prestwick Town",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "priesthillAndDarnley": {
+    "displayName": "Priesthill & Darnley",
+    "lines": [
+      "scotRail"
     ]
   },
   "princeRegent": {
@@ -7303,6 +8899,12 @@
       "lioness"
     ]
   },
+  "queensParkGlasgow": {
+    "displayName": "Queens Park (Glasgow)",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "queensRoadPeckham": {
     "displayName": "Queens Road Peckham",
     "lines": [
@@ -7364,7 +8966,8 @@
   "rannoch": {
     "displayName": "Rannoch",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "rauceby": {
@@ -7491,6 +9094,12 @@
       "southern"
     ]
   },
+  "renton": {
+    "displayName": "Renton",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "reston": {
     "displayName": "Reston",
     "lines": [
@@ -7540,6 +9149,12 @@
       "southeastern"
     ]
   },
+  "robroyston": {
+    "displayName": "Robroyston",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "rochester": {
     "displayName": "Rochester",
     "lines": [
@@ -7558,6 +9173,12 @@
     "displayName": "Roding Valley",
     "lines": [
       "central"
+    ]
+  },
+  "rogart": {
+    "displayName": "Rogart",
+    "lines": [
+      "scotRail"
     ]
   },
   "rolleston": {
@@ -7598,6 +9219,12 @@
       "blackpoolTramway"
     ]
   },
+  "rosyth": {
+    "displayName": "Rosyth",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "rotherhamCentral": {
     "displayName": "Rotherham Central",
     "lines": [
@@ -7625,7 +9252,8 @@
   "royBridge": {
     "displayName": "Roy Bridge",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "royalAlbert": {
@@ -7710,6 +9338,12 @@
       "piccadilly"
     ]
   },
+  "rutherglen": {
+    "displayName": "Rutherglen",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "rydeEsplanade": {
     "displayName": "Ryde Esplanade",
     "lines": [
@@ -7765,6 +9399,12 @@
       "transPennineExpress"
     ]
   },
+  "saltcoats": {
+    "displayName": "Saltcoats",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "sanderstead": {
     "displayName": "Sanderstead",
     "lines": [
@@ -7809,6 +9449,12 @@
       "greatNorthern"
     ]
   },
+  "sanquhar": {
+    "displayName": "Sanquhar",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "saughton": {
     "displayName": "Saughton",
     "lines": [
@@ -7837,6 +9483,18 @@
     "displayName": "Scarborough",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "scotscalder": {
+    "displayName": "Scotscalder",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "scotstounhill": {
+    "displayName": "Scotstounhill",
+    "lines": [
+      "scotRail"
     ]
   },
   "scunthorpe": {
@@ -7928,10 +9586,22 @@
       "islandLine"
     ]
   },
+  "shawfair": {
+    "displayName": "Shawfair",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "shawford": {
     "displayName": "Shawford",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "shawlands": {
+    "displayName": "Shawlands",
+    "lines": [
+      "scotRail"
     ]
   },
   "sheernessOnSea": {
@@ -8007,6 +9677,18 @@
       "greaterAnglia"
     ]
   },
+  "shettleston": {
+    "displayName": "Shettleston",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "shieldmuir": {
+    "displayName": "Shieldmuir",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "shieldsRoad": {
     "displayName": "Shields Road",
     "lines": [
@@ -8074,6 +9756,12 @@
       "thameslink"
     ]
   },
+  "shotts": {
+    "displayName": "Shotts",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "sidcup": {
     "displayName": "Sidcup",
     "lines": [
@@ -8096,6 +9784,12 @@
     "displayName": "Simonside",
     "lines": [
       "twYellow"
+    ]
+  },
+  "singer": {
+    "displayName": "Singer",
+    "lines": [
+      "scotRail"
     ]
   },
   "sittingbourne": {
@@ -8122,6 +9816,12 @@
     "displayName": "Slaithwaite",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "slateford": {
+    "displayName": "Slateford",
+    "lines": [
+      "scotRail"
     ]
   },
   "sleaford": {
@@ -8216,6 +9916,12 @@
     "lines": [
       "twGreen",
       "twYellow"
+    ]
+  },
+  "southGyle": {
+    "displayName": "South Gyle",
+    "lines": [
+      "scotRail"
     ]
   },
   "southHampstead": {
@@ -8419,7 +10125,8 @@
   "speanBridge": {
     "displayName": "Spean Bridge",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "spondon": {
@@ -8433,6 +10140,18 @@
     "displayName": "Spooner Row",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "springburn": {
+    "displayName": "Springburn",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "springfield": {
+    "displayName": "Springfield",
+    "lines": [
+      "scotRail"
     ]
   },
   "stAlbansCity": {
@@ -8687,6 +10406,12 @@
       "hammersmithAndCity"
     ]
   },
+  "stepps": {
+    "displayName": "Stepps",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "stevenage": {
     "displayName": "Stevenage",
     "lines": [
@@ -8696,10 +10421,23 @@
       "hullTrains"
     ]
   },
+  "stevenston": {
+    "displayName": "Stevenston",
+    "lines": [
+      "scotRail"
+    ]
+  },
+  "stewarton": {
+    "displayName": "Stewarton",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "stirling": {
     "displayName": "Stirling",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "stockport": {
@@ -8766,7 +10504,8 @@
     "displayName": "Stonehaven",
     "lines": [
       "csHighlander",
-      "crossCountry"
+      "crossCountry",
+      "scotRail"
     ]
   },
   "stoneleigh": {
@@ -8775,10 +10514,22 @@
       "southWesternRailway"
     ]
   },
+  "stow": {
+    "displayName": "Stow",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "stowmarket": {
     "displayName": "Stowmarket",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "stranraer": {
+    "displayName": "Stranraer",
+    "lines": [
+      "scotRail"
     ]
   },
   "stratford": {
@@ -8811,6 +10562,12 @@
       "greaterAnglia"
     ]
   },
+  "strathcarron": {
+    "displayName": "Strathcarron",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "strawberryHill": {
     "displayName": "Strawberry Hill",
     "lines": [
@@ -8834,6 +10591,12 @@
     "displayName": "Streatham Hill",
     "lines": [
       "southern"
+    ]
+  },
+  "stromeferry": {
+    "displayName": "Stromeferry",
+    "lines": [
+      "scotRail"
     ]
   },
   "strood": {
@@ -8871,6 +10634,12 @@
     "displayName": "Sudbury Town",
     "lines": [
       "piccadilly"
+    ]
+  },
+  "summerston": {
+    "displayName": "Summerston",
+    "lines": [
+      "scotRail"
     ]
   },
   "sunbury": {
@@ -9023,6 +10792,12 @@
       "southern"
     ]
   },
+  "tain": {
+    "displayName": "Tain",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "talbotSquare": {
     "displayName": "Talbot Square",
     "lines": [
@@ -9052,6 +10827,12 @@
     "displayName": "Taunton",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "taynuilt": {
+    "displayName": "Taynuilt",
+    "lines": [
+      "scotRail"
     ]
   },
   "teddington": {
@@ -9148,6 +10929,12 @@
       "transPennineExpress"
     ]
   },
+  "thornliebank": {
+    "displayName": "Thornliebank",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "thorntonAbbey": {
     "displayName": "Thornton Abbey",
     "lines": [
@@ -9164,6 +10951,12 @@
     "displayName": "Thornton Heath",
     "lines": [
       "southern"
+    ]
+  },
+  "thorntonhall": {
+    "displayName": "Thorntonhall",
+    "lines": [
+      "scotRail"
     ]
   },
   "thorpeBay": {
@@ -9201,6 +10994,12 @@
     "displayName": "Thurgarton",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "thurso": {
+    "displayName": "Thurso",
+    "lines": [
+      "scotRail"
     ]
   },
   "thurston": {
@@ -9322,6 +11121,12 @@
       "greaterAnglia"
     ]
   },
+  "troon": {
+    "displayName": "Troon",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "truro": {
     "displayName": "Truro",
     "lines": [
@@ -9337,7 +11142,8 @@
   "tulloch": {
     "displayName": "Tulloch",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "tulseHill": {
@@ -9398,6 +11204,12 @@
       "twYellow"
     ]
   },
+  "tweedbank": {
+    "displayName": "Tweedbank",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "twickenham": {
     "displayName": "Twickenham",
     "lines": [
@@ -9408,6 +11220,12 @@
     "displayName": "Twyford",
     "lines": [
       "elizabeth"
+    ]
+  },
+  "tyndrumLower": {
+    "displayName": "Tyndrum Lower",
+    "lines": [
+      "scotRail"
     ]
   },
   "tyneDock": {
@@ -9428,6 +11246,12 @@
       "southern"
     ]
   },
+  "uddingston": {
+    "displayName": "Uddingston",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "ulceby": {
     "displayName": "Ulceby",
     "lines": [
@@ -9444,6 +11268,12 @@
     "displayName": "University (Birmingham)",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "uphall": {
+    "displayName": "Uphall",
+    "lines": [
+      "scotRail"
     ]
   },
   "upminster": {
@@ -9481,7 +11311,8 @@
   "upperTyndrum": {
     "displayName": "Upper Tyndrum",
     "lines": [
-      "csHighlander"
+      "csHighlander",
+      "scotRail"
     ]
   },
   "upperWarlingham": {
@@ -9601,6 +11432,12 @@
     "displayName": "Wallsend",
     "lines": [
       "twYellow"
+    ]
+  },
+  "wallyford": {
+    "displayName": "Wallyford",
+    "lines": [
+      "scotRail"
     ]
   },
   "walmer": {
@@ -9890,6 +11727,12 @@
       "jubilee"
     ]
   },
+  "wemyssBay": {
+    "displayName": "Wemyss Bay",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "westActon": {
     "displayName": "West Acton",
     "lines": [
@@ -9900,6 +11743,12 @@
     "displayName": "West Byfleet",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "westCalder": {
+    "displayName": "West Calder",
+    "lines": [
+      "scotRail"
     ]
   },
   "westCroydon": {
@@ -9997,6 +11846,12 @@
     "displayName": "West Kensington",
     "lines": [
       "district"
+    ]
+  },
+  "westKilbride": {
+    "displayName": "West Kilbride",
+    "lines": [
+      "scotRail"
     ]
   },
   "westMalling": {
@@ -10105,10 +11960,22 @@
       "southeastern"
     ]
   },
+  "westerHailes": {
+    "displayName": "Wester Hailes",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "westerfield": {
     "displayName": "Westerfield",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "westerton": {
+    "displayName": "Westerton",
+    "lines": [
+      "scotRail"
     ]
   },
   "westferry": {
@@ -10150,10 +12017,22 @@
       "eastMidlandsRailway"
     ]
   },
+  "whifflet": {
+    "displayName": "Whifflet",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "whimple": {
     "displayName": "Whimple",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "whinhill": {
+    "displayName": "Whinhill",
+    "lines": [
+      "scotRail"
     ]
   },
   "whitchurchHampshire": {
@@ -10188,6 +12067,12 @@
       "hammersmithAndCity",
       "windrush",
       "elizabeth"
+    ]
+  },
+  "whitecraigs": {
+    "displayName": "Whitecraigs",
+    "lines": [
+      "scotRail"
     ]
   },
   "whitleyBay": {
@@ -10241,6 +12126,12 @@
       "southern"
     ]
   },
+  "wick": {
+    "displayName": "Wick",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "wickford": {
     "displayName": "Wickford",
     "lines": [
@@ -10278,6 +12169,12 @@
       "bakerloo",
       "lioness",
       "mildmay"
+    ]
+  },
+  "williamwood": {
+    "displayName": "Williamwood",
+    "lines": [
+      "scotRail"
     ]
   },
   "willington": {
@@ -10368,6 +12265,12 @@
       "southWesternRailway"
     ]
   },
+  "wishaw": {
+    "displayName": "Wishaw",
+    "lines": [
+      "scotRail"
+    ]
+  },
   "witham": {
     "displayName": "Witham",
     "lines": [
@@ -10446,6 +12349,12 @@
     "displayName": "Woodgrange Park",
     "lines": [
       "suffragette"
+    ]
+  },
+  "woodhall": {
+    "displayName": "Woodhall",
+    "lines": [
+      "scotRail"
     ]
   },
   "woodmansterne": {
@@ -10588,6 +12497,12 @@
     "displayName": "Yeovil Pen Mill",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "yoker": {
+    "displayName": "Yoker",
+    "lines": [
+      "scotRail"
     ]
   },
   "york": {

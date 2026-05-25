@@ -6920,8 +6920,8 @@
       "blackpoolTramway"
     ]
   },
-  "londonVictoria": {
-    "displayName": "London Victoria",
+  "Victoria": {
+    "displayName": "Victoria",
     "lines": [
       "southern",
       "gatwickExpress",

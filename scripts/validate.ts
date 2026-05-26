@@ -39,13 +39,24 @@ for (const [station, stationData] of Object.entries(Stations)) {
     failed = true;
     fail("Station", station, "lines is missing");
   } else {
+    let seenLines = [];
+
     for (const line of stationData.lines) {
       if (!line) {
         failed = true;
         fail("Station", station, "Empty entry in lines");
-      } else if (!Object.keys(Lines).includes(line)) {
-        failed = true;
-        fail("Station", station, `Line '${line}' does not exist in lines.json`);
+      } else {
+        if (seenLines.includes(line)) {
+          failed = true;
+          fail("Station", station, `Line '${line}' is a duplicate`)
+        } else {
+          seenLines.push(line);
+        }
+
+        if (!Object.keys(Lines).includes(line)) {
+          failed = true;
+          fail("Station", station, `Line '${line}' does not exist in lines.json`);
+        }
       }
     }
   }
@@ -78,13 +89,24 @@ for (const [line, lineData] of Object.entries(Lines)) {
     failed = true;
     fail("Line", line, "tocs is missing");
   } else {
+    let seenTocs = [];
+
     for (const toc of lineData.tocs) {
       if (!toc) {
         failed = true;
         fail("Line", line, "Empty entry in tocs");
-      } else if (!Object.keys(TOCs).includes(toc)) {
-        failed = true;
-        fail("Line", line, `TOC '${toc}' does not exist in tocs.json`);
+      } else {
+        if (seenTocs.includes(line)) {
+          failed = true;
+          fail("Line", line, `TOC '${toc}' is a duplicate`)
+        } else {
+          seenTocs.push(line);
+        }
+
+        if (!Object.keys(TOCs).includes(toc)) {
+          failed = true;
+          fail("Line", line, `TOC '${toc}' does not exist in tocs.json`);
+        }
       }
     }
   }

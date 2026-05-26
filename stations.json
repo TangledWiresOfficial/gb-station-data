@@ -4986,14 +4986,14 @@
     ]
   },
   "hammersmith1": {
-    "displayName": "Hammersmith",
+    "displayName": "Hammersmith (District & Piccadilly)",
     "lines": [
       "district",
       "piccadilly"
     ]
   },
   "hammersmith2": {
-    "displayName": "Hammersmith",
+    "displayName": "Hammersmith (Circle)",
     "lines": [
       "hammersmithAndCity",
       "circle"

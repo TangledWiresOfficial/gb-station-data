@@ -83,6 +83,10 @@
     "displayName": "Northern",
     "colour": "#0f0d78"
   },
+  "nottinghamExpressTransit": {
+    "displayName": "Nottingham Express Transit",
+    "colour": "#004B47"
+  },
   "scotRail": {
     "displayName": "ScotRail",
     "colour": "#1e467d"

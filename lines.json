@@ -279,6 +279,20 @@
       "northernTrains"
     ]
   },
+  "netGreen": {
+    "displayName": "NET Green Line",
+    "colour": "#45BB59",
+    "tocs": [
+      "nottinghamExpressTransit"
+    ]
+  },
+  "netPurple": {
+    "displayName": "NET Purple Line",
+    "colour": "#7A54AF",
+    "tocs": [
+      "nottinghamExpressTransit"
+    ]
+  },
   "scotRail": {
     "displayName": "ScotRail",
     "colour": "#1e467d",

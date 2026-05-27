@@ -823,6 +823,13 @@
       "eastMidlandsRailway"
     ]
   },
+  "basford": {
+    "displayName": "Basford",
+    "lines": [
+      "netPurple",
+      "netGreen"
+    ]
+  },
   "basildon": {
     "displayName": "Basildon",
     "lines": [
@@ -890,6 +897,13 @@
     "lines": [
       "district",
       "circle"
+    ]
+  },
+  "beaconsfieldStreet": {
+    "displayName": "Beaconsfield Street",
+    "lines": [
+      "netPurple",
+      "netGreen"
     ]
   },
   "bearsden": {
@@ -1003,6 +1017,12 @@
     "lines": [
       "crossCountry",
       "eastMidlandsRailway"
+    ]
+  },
+  "beestonCentre": {
+    "displayName": "Beeston Centre",
+    "lines": [
+      "netGreen"
     ]
   },
   "bekesbourne": {
@@ -1501,6 +1521,12 @@
       "greaterAnglia"
     ]
   },
+  "bramcoteLane": {
+    "displayName": "Bramcote Lane",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "bramptonSuffolk": {
     "displayName": "Brampton (Suffolk)",
     "lines": [
@@ -1778,7 +1804,14 @@
   "bulwell": {
     "displayName": "Bulwell",
     "lines": [
-      "eastMidlandsRailway"
+      "eastMidlandsRailway",
+      "netGreen"
+    ]
+  },
+  "bulwellForest": {
+    "displayName": "Bulwell Forest",
+    "lines": [
+      "netGreen"
     ]
   },
   "bures": {
@@ -1870,6 +1903,12 @@
     "displayName": "Bushey",
     "lines": [
       "lioness"
+    ]
+  },
+  "butler'sHill": {
+    "displayName": "Butler's Hill",
+    "lines": [
+      "netGreen"
     ]
   },
   "buxted": {
@@ -2205,6 +2244,12 @@
       "scotRail"
     ]
   },
+  "catorLane": {
+    "displayName": "Cator Lane",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "cavendishRoad": {
     "displayName": "Cavendish Road",
     "lines": [
@@ -2442,6 +2487,12 @@
       "twYellow"
     ]
   },
+  "chilwellRoad": {
+    "displayName": "Chilwell Road",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "chingford": {
     "displayName": "Chingford",
     "lines": [
@@ -2500,6 +2551,12 @@
     "displayName": "Church Street",
     "lines": [
       "londonTrams"
+    ]
+  },
+  "cinderhill": {
+    "displayName": "Cinderhill",
+    "lines": [
+      "netPurple"
     ]
   },
   "cityThameslink": {
@@ -2597,6 +2654,18 @@
       "blackpoolTramway"
     ]
   },
+  "cliftonCentre": {
+    "displayName": "Clifton Centre",
+    "lines": [
+      "netPurple"
+    ]
+  },
+  "cliftonSouth": {
+    "displayName": "Clifton South",
+    "lines": [
+      "netPurple"
+    ]
+  },
   "clockHouse": {
     "displayName": "Clock House",
     "lines": [
@@ -2685,6 +2754,12 @@
     "displayName": "Colwyn Bay",
     "lines": [
       "avantiWestCoast"
+    ]
+  },
+  "comptonAcres": {
+    "displayName": "Compton Acres",
+    "lines": [
+      "netPurple"
     ]
   },
   "connelFerry": {
@@ -3140,6 +3215,13 @@
     "displayName": "Datchet",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "davidLane": {
+    "displayName": "David Lane",
+    "lines": [
+      "netPurple",
+      "netGreen"
     ]
   },
   "dawlish": {
@@ -3946,6 +4028,12 @@
     "displayName": "Eskbank",
     "lines": [
       "scotRail"
+    ]
+  },
+  "eskdaleDrive": {
+    "displayName": "Eskdale Drive",
+    "lines": [
+      "netGreen"
     ]
   },
   "essexRoad": {
@@ -4811,6 +4899,12 @@
       "cableCar"
     ]
   },
+  "gregoryStreet": {
+    "displayName": "Gregory Street",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "gretnaGreen": {
     "displayName": "Gretna Green",
     "lines": [
@@ -5447,6 +5541,19 @@
       "southeastern"
     ]
   },
+  "highRoadCentralCollege": {
+    "displayName": "High Road - Central College",
+    "lines": [
+      "netGreen"
+    ]
+  },
+  "highSchool": {
+    "displayName": "High School",
+    "lines": [
+      "netGreen",
+      "netPurple"
+    ]
+  },
   "highStreetGlasgow": {
     "displayName": "High Street (Glasgow)",
     "lines": [
@@ -5481,6 +5588,13 @@
       "windrush",
       "greatNorthern",
       "thameslink"
+    ]
+  },
+  "highburyVale": {
+    "displayName": "Highbury Vale",
+    "lines": [
+      "netGreen",
+      "netPurple"
     ]
   },
   "highgate": {
@@ -5605,6 +5719,12 @@
     "displayName": "Holton Heath",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "holyTrinity": {
+    "displayName": "Holy Trinity",
+    "lines": [
+      "netPurple"
     ]
   },
   "holyhead": {
@@ -5751,7 +5871,8 @@
   "hucknall": {
     "displayName": "Hucknall",
     "lines": [
-      "eastMidlandsRailway"
+      "eastMidlandsRailway",
+      "netGreen"
     ]
   },
   "huddersfield": {
@@ -5809,6 +5930,13 @@
     "displayName": "Hyndland",
     "lines": [
       "scotRail"
+    ]
+  },
+  "hysonGreenMarket": {
+    "displayName": "Hyson Green Market",
+    "lines": [
+      "netPurple",
+      "netGreen"
     ]
   },
   "hytheEssex": {
@@ -5873,6 +6001,12 @@
     "displayName": "Ingliston Park & Ride",
     "lines": [
       "edinburghTrams"
+    ]
+  },
+  "inhamRoad": {
+    "displayName": "Inham Road",
+    "lines": [
+      "netGreen"
     ]
   },
   "insch": {
@@ -6202,12 +6336,6 @@
       "scotRail"
     ]
   },
-  "kingsPark": {
-    "displayName": "King's Park",
-    "lines": [
-      "scotRail"
-    ]
-  },
   "kingGeorgeV": {
     "displayName": "King George V",
     "lines": [
@@ -6251,6 +6379,12 @@
     "displayName": "Kings Lynn",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "kingsPark": {
+    "displayName": "King's Park",
+    "lines": [
+      "scotRail"
     ]
   },
   "kingsbury": {
@@ -6386,6 +6520,13 @@
     "displayName": "Kyle of Lochalsh",
     "lines": [
       "scotRail"
+    ]
+  },
+  "laceMarket": {
+    "displayName": "Lace Market",
+    "lines": [
+      "netGreen",
+      "netPurple"
     ]
   },
   "ladbrokeGrove": {
@@ -7351,6 +7492,18 @@
       "transPennineExpress"
     ]
   },
+  "meadowsEmbankment": {
+    "displayName": "Meadows Embankment",
+    "lines": [
+      "netPurple"
+    ]
+  },
+  "meadowsWayWest": {
+    "displayName": "Meadows Way West",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "meldreth": {
     "displayName": "Meldreth",
     "lines": [
@@ -7411,6 +7564,12 @@
     "displayName": "Micheldever",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "middleStreet": {
+    "displayName": "Middle Street",
+    "lines": [
+      "netGreen"
     ]
   },
   "middlesbrough": {
@@ -7539,6 +7698,12 @@
     "lines": [
       "district",
       "circle"
+    ]
+  },
+  "moorBridge": {
+    "displayName": "Moor Bridge",
+    "lines": [
+      "netGreen"
     ]
   },
   "moorPark": {
@@ -7944,6 +8109,12 @@
       "scotRail"
     ]
   },
+  "ng2": {
+    "displayName": "NG2",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "nineElms": {
     "displayName": "Nine Elms",
     "lines": [
@@ -7954,6 +8125,13 @@
     "displayName": "Nitshill",
     "lines": [
       "scotRail"
+    ]
+  },
+  "noelStreet": {
+    "displayName": "Noel Street",
+    "lines": [
+      "netPurple",
+      "netGreen"
     ]
   },
   "norbiton": {
@@ -8163,6 +8341,20 @@
       "eastMidlandsRailway"
     ]
   },
+  "nottinghamStation": {
+    "displayName": "Nottingham Station",
+    "lines": [
+      "netGreen",
+      "netPurple"
+    ]
+  },
+  "nottinghamTrentUniversity": {
+    "displayName": "Nottingham Trent University",
+    "lines": [
+      "netGreen",
+      "netPurple"
+    ]
+  },
   "nuneaton": {
     "displayName": "Nuneaton",
     "lines": [
@@ -8232,6 +8424,13 @@
     "displayName": "Ockley",
     "lines": [
       "thameslink"
+    ]
+  },
+  "oldMarketSquare": {
+    "displayName": "Old Market Square",
+    "lines": [
+      "netGreen",
+      "netPurple"
     ]
   },
   "oldStreet": {
@@ -8545,6 +8744,12 @@
     "displayName": "Pevensey Bay",
     "lines": [
       "southern"
+    ]
+  },
+  "pheonixPark": {
+    "displayName": "Pheonix Park",
+    "lines": [
+      "netPurple"
     ]
   },
   "phippsBridge": {
@@ -8895,6 +9100,12 @@
       "southWesternRailway"
     ]
   },
+  "queen'sMedicalCentre": {
+    "displayName": "Queen's Medical Centre",
+    "lines": [
+      "netGreen"
+    ]
+  },
   "queenborough": {
     "displayName": "Queenborough",
     "lines": [
@@ -8921,6 +9132,12 @@
       "southern"
     ]
   },
+  "queensWalk": {
+    "displayName": "Queens Walk",
+    "lines": [
+      "netPurple"
+    ]
+  },
   "queensbury": {
     "displayName": "Queensbury",
     "lines": [
@@ -8943,6 +9160,13 @@
     "displayName": "Radcliffe",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "radfordRoad": {
+    "displayName": "Radford Road",
+    "lines": [
+      "netPurple",
+      "netGreen"
     ]
   },
   "radlett": {
@@ -9152,6 +9376,12 @@
       "southern"
     ]
   },
+  "rivergreen": {
+    "displayName": "Rivergreen",
+    "lines": [
+      "netPurple"
+    ]
+  },
   "robertsbridge": {
     "displayName": "Robertsbridge",
     "lines": [
@@ -9271,6 +9501,13 @@
       "dlr"
     ]
   },
+  "royalCentre": {
+    "displayName": "Royal Centre",
+    "lines": [
+      "netGreen",
+      "netPurple"
+    ]
+  },
   "royalDocks": {
     "displayName": "IFS Cloud Royal Docks",
     "lines": [
@@ -9301,6 +9538,12 @@
     "lines": [
       "thameslink",
       "greatNorthern"
+    ]
+  },
+  "ruddingtonLane": {
+    "displayName": "Ruddington Lane",
+    "lines": [
+      "netPurple"
     ]
   },
   "rugby": {
@@ -9710,6 +9953,13 @@
       "greaterAnglia"
     ]
   },
+  "shipstoneStreet": {
+    "displayName": "Shipstone Street",
+    "lines": [
+      "netGreen",
+      "netPurple"
+    ]
+  },
   "shirebrook": {
     "displayName": "Shirebrook",
     "lines": [
@@ -10063,6 +10313,12 @@
     "displayName": "Southbury",
     "lines": [
       "weaver"
+    ]
+  },
+  "southchurchDrive": {
+    "displayName": "Southchurch Drive",
+    "lines": [
+      "netPurple"
     ]
   },
   "southease": {
@@ -10652,6 +10908,12 @@
       "scotRail"
     ]
   },
+  "summerwoodLane": {
+    "displayName": "Summerwood Lane",
+    "lines": [
+      "netPurple"
+    ]
+  },
   "sunbury": {
     "displayName": "Sunbury",
     "lines": [
@@ -10889,6 +11151,13 @@
       "southeastern"
     ]
   },
+  "theForest": {
+    "displayName": "The Forest",
+    "lines": [
+      "netGreen",
+      "netPurple"
+    ]
+  },
   "theShore": {
     "displayName": "The Shore",
     "lines": [
@@ -11076,6 +11345,12 @@
     "displayName": "Totnes",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "totonLane": {
+    "displayName": "Toton Lane",
+    "lines": [
+      "netGreen"
     ]
   },
   "tottenhamCourtRoad": {
@@ -11278,6 +11553,18 @@
     "displayName": "University (Birmingham)",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "universityBoulevard": {
+    "displayName": "University Boulevard",
+    "lines": [
+      "netGreen"
+    ]
+  },
+  "universityofNottingham": {
+    "displayName": "University of Nottingham",
+    "lines": [
+      "netGreen"
     ]
   },
   "uphall": {
@@ -12166,6 +12453,25 @@
     "lines": [
       "transPennineExpress",
       "avantiWestCoast"
+    ]
+  },
+  "wilfordLane": {
+    "displayName": "Wilford Lane",
+    "lines": [
+      "netPurple"
+    ]
+  },
+  "wilfordVillage": {
+    "displayName": "Wilford Village",
+    "lines": [
+      "netPurple"
+    ]
+  },
+  "wilkinsonStreet": {
+    "displayName": "Wilkinson Street",
+    "lines": [
+      "netGreen",
+      "netPurple"
     ]
   },
   "willesdenGreen": {

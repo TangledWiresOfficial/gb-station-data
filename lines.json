@@ -98,8 +98,8 @@
     ]
   },
   "cableCar": {
-    "displayName": "IFS Cloud Cable Car",
-    "colour": "#734fa0",
+    "displayName": "London Cable Car",
+    "colour": "#DC241F",
     "tocs": [
       "tfl"
     ]
@@ -108,42 +108,42 @@
     "displayName": "Liberty Line",
     "colour": "#5d6061",
     "tocs": [
-      "londonOverground"
+      "tfl"
     ]
   },
   "lioness": {
     "displayName": "Lioness Line",
     "colour": "#faa61a",
     "tocs": [
-      "londonOverground"
+      "tfl"
     ]
   },
   "mildmay": {
     "displayName": "Mildmay Line",
     "colour": "#0077ad",
     "tocs": [
-      "londonOverground"
+      "tfl"
     ]
   },
   "suffragette": {
     "displayName": "Suffragette Line",
     "colour": "#5bb972",
     "tocs": [
-      "londonOverground"
+      "tfl"
     ]
   },
   "weaver": {
     "displayName": "Weaver Line",
     "colour": "#823a62",
     "tocs": [
-      "londonOverground"
+      "tfl"
     ]
   },
   "windrush": {
     "displayName": "Windrush Line",
     "colour": "#ed1b00",
     "tocs": [
-      "londonOverground"
+      "tfl"
     ]
   },
   "avantiWestCoast": {
@@ -357,14 +357,14 @@
     ]
   },
   "twGreen": {
-    "displayName": "Green",
+    "displayName": " Green Line (Tyne & Wear)",
     "colour": "#2bb457",
     "tocs": [
       "tyneAndWearMetro"
     ]
   },
   "twYellow": {
-    "displayName": "Yellow",
+    "displayName": "Yellow Line (Tyne & Wear)",
     "colour": "#fcb929",
     "tocs": [
       "tyneAndWearMetro"

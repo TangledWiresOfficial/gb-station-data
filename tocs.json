@@ -67,10 +67,6 @@
     "displayName": "London North Eastern Railway",
     "colour": "#ce0e2d"
   },
-  "londonOverground": {
-    "displayName": "London Overground",
-    "colour": "#fa7b05"
-  },
   "lumo": {
     "displayName": "Lumo",
     "colour": "#2b6ef5"

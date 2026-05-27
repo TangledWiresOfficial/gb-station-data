@@ -87,6 +87,10 @@
     "displayName": "ScotRail",
     "colour": "#1e467d"
   },
+  "sheffieldSupertram": {
+    "displayName": "Sheffield Supertram",
+    "colour": "#3251A4"
+  },
   "southWesternRailway": {
     "displayName": "South Western Railway",
     "colour": "#24398c"

@@ -335,6 +335,34 @@
       "greaterAnglia"
     ]
   },
+  "stBlue": {
+    "displayName": "Blue (Supertram)",
+    "colour": "#005288",
+    "tocs": [
+      "sheffieldSupertram"
+    ]
+  },
+  "stPurple": {
+    "displayName": "Purple (Supertram)",
+    "colour": "#852275",
+    "tocs": [
+      "sheffieldSupertram"
+    ]
+  },
+  "stTrain": {
+    "displayName": "Tram Train (Supertram)",
+    "colour": "#3e3e40",
+    "tocs": [
+      "sheffieldSupertram"
+    ]
+  },
+  "stYellow": {
+    "displayName": "Yellow (Supertram)",
+    "colour": "#fcb925",
+    "tocs": [
+      "sheffieldSupertram"
+    ]
+  },
   "thameslink": {
     "displayName": "Thameslink",
     "colour": "#ff5aa4",

@@ -2002,7 +2002,10 @@
   "cambridgeSouth": {
     "displayName": "Cambridge South",
     "lines": [
-      "greaterAnglia"
+      "greaterAnglia",
+      "thameslink",
+      "greatNorthern",
+      "crossCountry"
     ]
   },
   "cambuslang": {
@@ -3382,7 +3385,6 @@
   "downhamMarket": {
     "displayName": "Downham Market",
     "lines": [
-      "greaterAnglia",
       "greatNorthern"
     ]
   },
@@ -6378,7 +6380,7 @@
   "kingsLynn": {
     "displayName": "Kings Lynn",
     "lines": [
-      "greaterAnglia"
+      "greatNorthern"
     ]
   },
   "kingsPark": {
@@ -6900,8 +6902,7 @@
   "littleport": {
     "displayName": "Littleport",
     "lines": [
-      "greatNorthern",
-      "greaterAnglia"
+      "greatNorthern"
     ]
   },
   "liverpoolLimeStreet": {
@@ -11955,7 +11956,6 @@
   "watlington": {
     "displayName": "Watlington",
     "lines": [
-      "greaterAnglia",
       "greatNorthern"
     ]
   },

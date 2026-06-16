@@ -13427,6 +13427,7 @@
   "westbury": {
     "displayName": "Westbury",
     "lines": [
+      "southWesternRailway",
       "greatWesternRailway"
     ]
   },
@@ -13841,6 +13842,7 @@
   "wokingham": {
     "displayName": "Wokingham",
     "lines": [
+      "southWesternRailway",
       "greatWesternRailway"
     ]
   },

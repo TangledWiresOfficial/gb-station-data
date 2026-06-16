@@ -11554,13 +11554,13 @@
       "twYellow"
     ]
   },
-  "stJames'Park": {
+  "stJamesPark": {
     "displayName": "St James' Park",
     "lines": [
       "greatWesternRailway"
     ]
   },
-  "stJamesPark": {
+  "stJamessPark": {
     "displayName": "St James's Park",
     "lines": [
       "district",
@@ -13427,7 +13427,6 @@
   "westbury": {
     "displayName": "Westbury",
     "lines": [
-      "greatWesternRailway",
       "greatWesternRailway"
     ]
   },
@@ -13842,7 +13841,6 @@
   "wokingham": {
     "displayName": "Wokingham",
     "lines": [
-      "greatWesternRailway",
       "greatWesternRailway"
     ]
   },

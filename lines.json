@@ -272,6 +272,13 @@
       "lumo"
     ]
   },
+  "nightRiviera": {
+    "displayName": "Night Riviera Sleeper",
+    "colour": "#0a493e",
+    "tocs": [
+      "greatWesternRailway"
+    ]
+  },
   "northernTrains": {
     "displayName": "Northern",
     "colour": "#0f0d78",

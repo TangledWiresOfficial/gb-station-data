@@ -51,6 +51,18 @@
       "greaterAnglia"
     ]
   },
+  "acocksGreen": {
+    "displayName": "Acocks Green",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "actonBridge": {
+    "displayName": "Acton Bridge",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "actonCentral": {
     "displayName": "Acton Central",
     "lines": [
@@ -68,6 +80,12 @@
     "lines": [
       "district",
       "piccadilly"
+    ]
+  },
+  "adderleyPark": {
+    "displayName": "Adderley Park",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "addiewell": {
@@ -122,6 +140,12 @@
     "displayName": "Albany Park",
     "lines": [
       "southeastern"
+    ]
+  },
+  "albrighton": {
+    "displayName": "Albrighton",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "aldermaston": {
@@ -221,7 +245,8 @@
   "alsager": {
     "displayName": "Alsager",
     "lines": [
-      "eastMidlandsRailway"
+      "eastMidlandsRailway",
+      "londonNorthwesternRailway"
     ]
   },
   "althorneEssex": {
@@ -246,6 +271,12 @@
     "displayName": "Alton",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "alvechurch": {
+    "displayName": "Alvechurch",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "ambergate": {
@@ -337,6 +368,12 @@
     "displayName": "Appleford",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "apsley": {
+    "displayName": "Apsley",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "arbroath": {
@@ -533,6 +570,24 @@
     "displayName": "Aslockton",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "aspleyGuise": {
+    "displayName": "Aspley Guise",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
+  "aston": {
+    "displayName": "Aston",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "atherstone": {
+    "displayName": "Atherstone",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "attadale": {
@@ -826,6 +881,12 @@
       "greatWesternRailway"
     ]
   },
+  "barntGreen": {
+    "displayName": "Barnt Green",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "baronsCourt": {
     "displayName": "Barons Court",
     "lines": [
@@ -959,6 +1020,12 @@
       "netGreen"
     ]
   },
+  "bearley": {
+    "displayName": "Bearley",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "bearsden": {
     "displayName": "Bearsden",
     "lines": [
@@ -1055,7 +1122,14 @@
     "displayName": "Bedford",
     "lines": [
       "eastMidlandsRailway",
-      "thameslink"
+      "thameslink",
+      "londonNorthwesternRailway"
+    ]
+  },
+  "bedfordStJhons": {
+    "displayName": "Bedford St Jhons",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "bedhampton": {
@@ -1069,6 +1143,12 @@
     "displayName": "Bedminster",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "bedworth": {
+    "displayName": "Bedworth",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "bedwyn": {
@@ -1181,16 +1261,35 @@
       "greatWesternRailway"
     ]
   },
+  "berkhamstead": {
+    "displayName": "Berkhamstead",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "berkhamsted": {
     "displayName": "Berkhamsted",
     "lines": [
       "southern"
     ]
   },
+  "berkswell": {
+    "displayName": "Berkswell",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
   "bermondsey": {
     "displayName": "Bermondsey",
     "lines": [
       "jubilee"
+    ]
+  },
+  "bermudaPark": {
+    "displayName": "Bermuda Park",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "berneyArms": {
@@ -1221,6 +1320,12 @@
     "displayName": "Berwick-upon-Tweed",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "bescotStadium": {
+    "displayName": "Bescot Stadium",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "betchworth": {
@@ -1279,6 +1384,12 @@
       "thameslink"
     ]
   },
+  "bilbrook": {
+    "displayName": "Bilbrook",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "billericay": {
     "displayName": "Billericay",
     "lines": [
@@ -1323,14 +1434,30 @@
     "lines": [
       "crossCountry",
       "csHighlander",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "birminghamMoorStreet": {
+    "displayName": "Birmingham Moor Street",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "birminghamNewStreet": {
     "displayName": "Birmingham New Street",
     "lines": [
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "birminghamSnowHill": {
+    "displayName": "Birmingham Snow Hill",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "bishopbriggs": {
@@ -1436,6 +1563,18 @@
       "scotRail"
     ]
   },
+  "blakeStreet": {
+    "displayName": "Blake Street",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "blakedown": {
+    "displayName": "Blakedown",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "blantyre": {
     "displayName": "Blantyre",
     "lines": [
@@ -1446,6 +1585,24 @@
     "displayName": "Bleasby",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "bletchley": {
+    "displayName": "Bletchley",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
+  "bloxwich": {
+    "displayName": "Bloxwich",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "bloxwichNorth": {
+    "displayName": "Bloxwich North",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "blytheBridge": {
@@ -1493,6 +1650,12 @@
     "lines": [
       "southern",
       "southWesternRailway"
+    ]
+  },
+  "bordersley": {
+    "displayName": "Bordersley",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "borough": {
@@ -1555,6 +1718,18 @@
     "lines": [
       "crossCountry",
       "southWesternRailway"
+    ]
+  },
+  "bournville": {
+    "displayName": "Bournville",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "bowBrickhill": {
+    "displayName": "Bow Brickhill",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "bowChurch": {
@@ -1692,6 +1867,12 @@
       "elizabeth"
     ]
   },
+  "bricketWood": {
+    "displayName": "Bricket Wood",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "bridgeOfOrchy": {
     "displayName": "Bridge of Orchy",
     "lines": [
@@ -1826,6 +2007,12 @@
     "lines": [
       "southeastern",
       "thameslink"
+    ]
+  },
+  "bromsgrove": {
+    "displayName": "Bromsgrove",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "brondesbury": {
@@ -2034,13 +2221,20 @@
   "bushey": {
     "displayName": "Bushey",
     "lines": [
-      "lioness"
+      "lioness",
+      "londonNorthwesternRailway"
     ]
   },
   "butlersHill": {
     "displayName": "Butler's Hill",
     "lines": [
       "netGreen"
+    ]
+  },
+  "butlersLane": {
+    "displayName": "Butlers Lane",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "buxted": {
@@ -2204,11 +2398,24 @@
       "dlr"
     ]
   },
+  "canley": {
+    "displayName": "Canley",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
   "canningTown": {
     "displayName": "Canning Town",
     "lines": [
       "jubilee",
       "dlr"
+    ]
+  },
+  "cannock": {
+    "displayName": "Cannock",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "cannonStreet": {
@@ -2573,6 +2780,12 @@
       "southern"
     ]
   },
+  "cheddington": {
+    "displayName": "Cheddington",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "chelmsford": {
     "displayName": "Chelmsford",
     "lines": [
@@ -2640,6 +2853,12 @@
     "displayName": "Chester-le-Street",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "chesterRoad": {
+    "displayName": "Chester Road",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "chesterfield": {
@@ -2840,6 +3059,12 @@
       "scotRail"
     ]
   },
+  "claverdon": {
+    "displayName": "Claverdon",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "claygate": {
     "displayName": "Claygate",
     "lines": [
@@ -2931,6 +3156,12 @@
       "piccadilly"
     ]
   },
+  "codsall": {
+    "displayName": "Codsall",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "colchester": {
     "displayName": "Colchester",
     "lines": [
@@ -2976,7 +3207,8 @@
   "colwall": {
     "displayName": "Colwall",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "colwynBay": {
@@ -3076,6 +3308,19 @@
       "scotRail"
     ]
   },
+  "coseley": {
+    "displayName": "Coseley",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "cosford": {
+    "displayName": "Cosford",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "cosham": {
     "displayName": "Cosham",
     "lines": [
@@ -3119,7 +3364,15 @@
     "displayName": "Coventry",
     "lines": [
       "avantiWestCoast",
-      "crossCountry"
+      "crossCountry",
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "coventryArena": {
+    "displayName": "Coventry Arena",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "cowcaddens": {
@@ -3138,6 +3391,12 @@
     "displayName": "Cowdenbeath",
     "lines": [
       "scotRail"
+    ]
+  },
+  "cradleyHeath": {
+    "displayName": "Cradley Heath",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "craigendoran": {
@@ -3202,7 +3461,8 @@
       "csHighlander",
       "crossCountry",
       "avantiWestCoast",
-      "lumo"
+      "lumo",
+      "londonNorthwesternRailway"
     ]
   },
   "crewkerne": {
@@ -3469,6 +3729,18 @@
       "scotRail"
     ]
   },
+  "danzey": {
+    "displayName": "Danzey",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "darlaston": {
+    "displayName": "Darlaston",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "darlington": {
     "displayName": "Darlington",
     "lines": [
@@ -3699,6 +3971,12 @@
       "southern"
     ]
   },
+  "dorridge": {
+    "displayName": "Dorridge",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "doverPriory": {
     "displayName": "Dover Priory",
     "lines": [
@@ -3736,6 +4014,12 @@
       "scotRail"
     ]
   },
+  "droitwichSpa": {
+    "displayName": "Droitwich Spa",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "dronfield": {
     "displayName": "Dronfield",
     "lines": [
@@ -3764,6 +4048,18 @@
     "displayName": "Drumry",
     "lines": [
       "scotRail"
+    ]
+  },
+  "duddeston": {
+    "displayName": "Duddeston",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "dudleyPort": {
+    "displayName": "Dudley Port",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "duffield": {
@@ -3959,7 +4255,8 @@
     "displayName": "Earlswood",
     "lines": [
       "southern",
-      "thameslink"
+      "thameslink",
+      "westMidlandsRailway"
     ]
   },
   "eastActon": {
@@ -4352,6 +4649,12 @@
       "southWesternRailway"
     ]
   },
+  "erdington": {
+    "displayName": "Erdington",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "eridge": {
     "displayName": "Eridge",
     "lines": [
@@ -4403,7 +4706,8 @@
       "victoria",
       "lioness",
       "avantiWestCoast",
-      "lumo"
+      "lumo",
+      "londonNorthwesternRailway"
     ]
   },
   "eustonSquare": {
@@ -4647,6 +4951,12 @@
       "greatWesternRailway"
     ]
   },
+  "fennyStratford": {
+    "displayName": "Fenny Stratford",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "ferryside": {
     "displayName": "Ferryside",
     "lines": [
@@ -4721,6 +5031,12 @@
     "displayName": "Fiskerton",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "fiveWays": {
+    "displayName": "Five Ways",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "fleet": {
@@ -4815,6 +5131,12 @@
     "displayName": "Four Lane Ends",
     "lines": [
       "twYellow"
+    ]
+  },
+  "fourOaks": {
+    "displayName": "Four Oaks",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "foxton": {
@@ -4928,6 +5250,12 @@
     "displayName": "Garscadden",
     "lines": [
       "scotRail"
+    ]
+  },
+  "garston": {
+    "displayName": "Garston",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "gartcosh": {
@@ -5232,6 +5560,12 @@
       "londonTrams"
     ]
   },
+  "gravellyHill": {
+    "displayName": "Gravelly Hill",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "gravesend": {
     "displayName": "Gravesend",
     "lines": [
@@ -5267,7 +5601,8 @@
   "greatMalvern": {
     "displayName": "Great Malvern",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "greatPortlandStreet": {
@@ -5483,6 +5818,12 @@
       "windrush"
     ]
   },
+  "hagley": {
+    "displayName": "Hagley",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "hainault": {
     "displayName": "Hainault",
     "lines": [
@@ -5505,6 +5846,12 @@
     "displayName": "Halifax",
     "lines": [
       "grandCentral"
+    ]
+  },
+  "hallGreen": {
+    "displayName": "Hall Green",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "halling": {
@@ -5585,6 +5932,19 @@
     "displayName": "Hampton Wick",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "hamptoninarden": {
+    "displayName": "Hampton-in-Arden",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "hamstead": {
+    "displayName": "Hamstead",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "hamworthy": {
@@ -5684,7 +6044,8 @@
     "displayName": "Harrow & Wealdstone",
     "lines": [
       "bakerloo",
-      "lioness"
+      "lioness",
+      "londonNorthwesternRailway"
     ]
   },
   "harrowOnTheHill": {
@@ -5697,6 +6058,18 @@
     "displayName": "Harrow Place",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "hartford": {
+    "displayName": "Hartford",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
+  "hartlebury": {
+    "displayName": "Hartlebury",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "hartlepool": {
@@ -5772,6 +6145,12 @@
     "displayName": "Hathersage",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "hatton": {
+    "displayName": "Hatton",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "hattonCross": {
@@ -5920,6 +6299,12 @@
       "greatWesternRailway"
     ]
   },
+  "hednesford": {
+    "displayName": "Hednesford",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "helensburghCentral": {
     "displayName": "Helensburgh Central",
     "lines": [
@@ -5939,6 +6324,12 @@
       "scotRail"
     ]
   },
+  "hemelHempstead": {
+    "displayName": "Hemel Hempstead",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "hendon": {
     "displayName": "Hendon",
     "lines": [
@@ -5951,6 +6342,12 @@
       "northern"
     ]
   },
+  "henleyinarden": {
+    "displayName": "Henley-in-Arden",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "henleyonthames": {
     "displayName": "Henley-on-Thames",
     "lines": [
@@ -5960,7 +6357,8 @@
   "hereford": {
     "displayName": "Hereford",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "herneBay": {
@@ -6341,6 +6739,12 @@
       "greaterAnglia"
     ]
   },
+  "howWood": {
+    "displayName": "How Wood",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "howden": {
     "displayName": "Howden",
     "lines": [
@@ -6631,6 +7035,12 @@
       "twYellow"
     ]
   },
+  "jewelleryQuarter": {
+    "displayName": "Jewellery Quarter",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "johnstone": {
     "displayName": "Johnstone",
     "lines": [
@@ -6685,6 +7095,12 @@
       "greatWesternRailway"
     ]
   },
+  "kempstonHardwick": {
+    "displayName": "Kempston Hardwick",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "kemptonPark": {
     "displayName": "Kempton Park",
     "lines": [
@@ -6701,6 +7117,12 @@
     "displayName": "Kemsley",
     "lines": [
       "southeastern"
+    ]
+  },
+  "kenilworth": {
+    "displayName": "Kenilworth",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "kenley": {
@@ -6811,10 +7233,17 @@
       "southeastern"
     ]
   },
+  "kidderminster": {
+    "displayName": "Kidderminster",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "kidsgrove": {
     "displayName": "Kidsgrove",
     "lines": [
-      "eastMidlandsRailway"
+      "eastMidlandsRailway",
+      "londonNorthwesternRailway"
     ]
   },
   "kidwelly": {
@@ -6928,10 +7357,28 @@
       "hammersmithAndCity"
     ]
   },
+  "kingsHeath": {
+    "displayName": "Kings Heath",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "kingsLangley": {
+    "displayName": "Kings Langley",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "kingsLynn": {
     "displayName": "Kings Lynn",
     "lines": [
       "greatNorthern"
+    ]
+  },
+  "kingsNorton": {
+    "displayName": "Kings Norton",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "kingsNympton": {
@@ -7174,6 +7621,12 @@
       "southern"
     ]
   },
+  "landywood": {
+    "displayName": "Landywood",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "langbank": {
     "displayName": "Langbank",
     "lines": [
@@ -7191,6 +7644,12 @@
     "lines": [
       "elizabeth",
       "greatWesternRailway"
+    ]
+  },
+  "langleyGreen": {
+    "displayName": "Langley Green",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "langleyMill": {
@@ -7215,6 +7674,12 @@
     "displayName": "Lapford",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "lapworth": {
+    "displayName": "Lapworth",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "larbert": {
@@ -7267,6 +7732,12 @@
       "transPennineExpress"
     ]
   },
+  "leaHall": {
+    "displayName": "Lea Hall",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "leagrave": {
     "displayName": "Leagrave",
     "lines": [
@@ -7276,7 +7747,8 @@
   "leamingtonSpa": {
     "displayName": "Leamington Spa",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "westMidlandsRailway"
     ]
   },
   "leatherhead": {
@@ -7295,7 +7767,8 @@
   "ledbury": {
     "displayName": "Ledbury",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "lee": {
@@ -7335,6 +7808,12 @@
     "displayName": "Leigh-on-Sea",
     "lines": [
       "c2c"
+    ]
+  },
+  "leightonBuzzard": {
+    "displayName": "Leighton Buzzard",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "lelandSaltings": {
@@ -7421,7 +7900,15 @@
   "lichfieldTrentValley": {
     "displayName": "Lichfield Trent Valley",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "lidlington": {
+    "displayName": "Lidlington",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "limehouse": {
@@ -7512,7 +7999,8 @@
     "lines": [
       "eastMidlandsRailway",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
     ]
   },
   "liverpoolSouthParkway": {
@@ -7520,7 +8008,8 @@
     "lines": [
       "eastMidlandsRailway",
       "transPennineExpress",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
     ]
   },
   "liverpoolStreet": {
@@ -7683,6 +8172,12 @@
       "southWesternRailway"
     ]
   },
+  "longBuckby": {
+    "displayName": "Long Buckby",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "longEaton": {
     "displayName": "Long Eaton",
     "lines": [
@@ -7694,6 +8189,12 @@
     "displayName": "Longbenton",
     "lines": [
       "twYellow"
+    ]
+  },
+  "longbridge": {
+    "displayName": "Longbridge",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "longcross": {
@@ -7717,7 +8218,8 @@
   "longport": {
     "displayName": "Longport",
     "lines": [
-      "eastMidlandsRailway"
+      "eastMidlandsRailway",
+      "londonNorthwesternRailway"
     ]
   },
   "longton": {
@@ -7821,6 +8323,12 @@
       "crossCountry"
     ]
   },
+  "lye": {
+    "displayName": "Lye",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "lymingtonPier": {
     "displayName": "Lymington Pier",
     "lines": [
@@ -7911,7 +8419,8 @@
   "malvernLink": {
     "displayName": "Malvern Link",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "manchesterAirport": {
@@ -8076,6 +8585,12 @@
     "displayName": "Marsh Barton",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "marstonGreen": {
+    "displayName": "Marston Green",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "martinHill": {
@@ -8293,6 +8808,12 @@
       "northern"
     ]
   },
+  "millbrook": {
+    "displayName": "Millbrook",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "millbrookHanmpshire": {
     "displayName": "Millbrook (Hanmpshire)",
     "lines": [
@@ -8321,7 +8842,8 @@
     "displayName": "Milton Keynes Central",
     "lines": [
       "avantiWestCoast",
-      "lumo"
+      "lumo",
+      "londonNorthwesternRailway"
     ]
   },
   "minster": {
@@ -8491,10 +9013,22 @@
       "southWesternRailway"
     ]
   },
+  "moseleyVillage": {
+    "displayName": "Moseley Village",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "mossley": {
     "displayName": "Mossley",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "mossleyHill": {
+    "displayName": "Mossley Hill",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "mosspark": {
@@ -9029,7 +9563,14 @@
   "northampton": {
     "displayName": "Northampton",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
+    ]
+  },
+  "northfield": {
+    "displayName": "Northfield",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "northfields": {
@@ -9130,7 +9671,9 @@
     "lines": [
       "crossCountry",
       "avantiWestCoast",
-      "lumo"
+      "lumo",
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "nunhead": {
@@ -9150,6 +9693,12 @@
     "displayName": "Nutfield",
     "lines": [
       "southern"
+    ]
+  },
+  "oakengates": {
+    "displayName": "Oakengates",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "oakham": {
@@ -9208,6 +9757,12 @@
       "greatWesternRailway"
     ]
   },
+  "oldHill": {
+    "displayName": "Old Hill",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "oldMarketSquare": {
     "displayName": "Old Market Square",
     "lines": [
@@ -9226,6 +9781,12 @@
     "displayName": "Oldfield Park",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "olton": {
+    "displayName": "Olton",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "ore": {
@@ -9407,6 +9968,12 @@
       "piccadilly"
     ]
   },
+  "parkStreet": {
+    "displayName": "Park Street",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "parkstoneDorset": {
     "displayName": "Parkstone (Dorset)",
     "lines": [
@@ -9503,6 +10070,12 @@
       "southern"
     ]
   },
+  "penkridge": {
+    "displayName": "Penkridge",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "penmere": {
     "displayName": "Penmere",
     "lines": [
@@ -9551,6 +10124,12 @@
     "displayName": "Perranwell",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "perryBarr": {
+    "displayName": "Perry Barr",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "pershore": {
@@ -9643,6 +10222,12 @@
     "displayName": "Pimlico",
     "lines": [
       "victoria"
+    ]
+  },
+  "pineappleRoad": {
+    "displayName": "Pineapple Road",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "pinhoe": {
@@ -10213,6 +10798,12 @@
       "transPennineExpress"
     ]
   },
+  "redditch": {
+    "displayName": "Redditch",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "redhill": {
     "displayName": "Redhill",
     "lines": [
@@ -10319,6 +10910,12 @@
     "displayName": "Riddlesdown",
     "lines": [
       "southern"
+    ]
+  },
+  "ridgmont": {
+    "displayName": "Ridgmont",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "rivergreen": {
@@ -10440,6 +11037,12 @@
       "southWesternRailway"
     ]
   },
+  "rowleyRegis": {
+    "displayName": "Rowley Regis",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "royBridge": {
     "displayName": "Roy Bridge",
     "lines": [
@@ -10501,7 +11104,21 @@
   "rugby": {
     "displayName": "Rugby",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
+    ]
+  },
+  "rugeleyTown": {
+    "displayName": "Rugeley Town",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "rugeleyTrentValley": {
+    "displayName": "Rugeley Trent Valley",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "ruislip": {
@@ -10527,7 +11144,8 @@
   "runcorn": {
     "displayName": "Runcorn",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
     ]
   },
   "ruskington": {
@@ -10669,6 +11287,12 @@
       "greatWesternRailway"
     ]
   },
+  "sandwellAndDudley": {
+    "displayName": "Sandwell & Dudley",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "sandwich": {
     "displayName": "Sandwich",
     "lines": [
@@ -10786,6 +11410,12 @@
       "southeastern"
     ]
   },
+  "sellyOk": {
+    "displayName": "Selly Ok",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "sevenKings": {
     "displayName": "Seven Kings",
     "lines": [
@@ -10884,6 +11514,12 @@
       "elizabeth"
     ]
   },
+  "shenstone": {
+    "displayName": "Shenstone",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "shepherdsBush": {
     "displayName": "Shepherd's Bush",
     "lines": [
@@ -10948,6 +11584,12 @@
       "glasgowSubway"
     ]
   },
+  "shifnal": {
+    "displayName": "Shifnal",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "shiplake": {
     "displayName": "Shiplake",
     "lines": [
@@ -10989,6 +11631,12 @@
     "displayName": "Shiremoor",
     "lines": [
       "twYellow"
+    ]
+  },
+  "shirley": {
+    "displayName": "Shirley",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "shoeburyness": {
@@ -11038,6 +11686,12 @@
     "displayName": "Shotts",
     "lines": [
       "scotRail"
+    ]
+  },
+  "shrewsbury": {
+    "displayName": "Shrewsbury",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "sidcup": {
@@ -11122,10 +11776,29 @@
       "greatWesternRailway"
     ]
   },
+  "smallHeath": {
+    "displayName": "Small Heath",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "smallbrookJunction": {
     "displayName": "Smallbrook Junction",
     "lines": [
       "islandLine"
+    ]
+  },
+  "smethwickGaltonBridge": {
+    "displayName": "Smethwick Galton Bridge",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "smethwickRolfeStreet": {
+    "displayName": "Smethwick Rolfe Street",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "snaresbrook": {
@@ -11157,6 +11830,12 @@
     "displayName": "Sole Street",
     "lines": [
       "southeastern"
+    ]
+  },
+  "solihull": {
+    "displayName": "Solihull",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "somerleyton": {
@@ -11436,6 +12115,12 @@
       "greaterAnglia"
     ]
   },
+  "springRoad": {
+    "displayName": "Spring Road",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "springburn": {
     "displayName": "Springburn",
     "lines": [
@@ -11448,10 +12133,17 @@
       "scotRail"
     ]
   },
+  "stAlbansAbbey": {
+    "displayName": "St Albans Abbey",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "stAlbansCity": {
     "displayName": "St Albans City",
     "lines": [
-      "thameslink"
+      "thameslink",
+      "londonNorthwesternRailway"
     ]
   },
   "stAndrewSquareforWaverley": {
@@ -11560,17 +12252,17 @@
       "greatWesternRailway"
     ]
   },
+  "stJamesStreet": {
+    "displayName": "St James Street",
+    "lines": [
+      "weaver"
+    ]
+  },
   "stJamessPark": {
     "displayName": "St James's Park",
     "lines": [
       "district",
       "circle"
-    ]
-  },
-  "stJamesStreet": {
-    "displayName": "St James Street",
-    "lines": [
-      "weaver"
     ]
   },
   "stJohns": {
@@ -11648,7 +12340,8 @@
     "displayName": "Stafford",
     "lines": [
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
     ]
   },
   "staines": {
@@ -11751,6 +12444,12 @@
       "blackpoolTramway"
     ]
   },
+  "stechford": {
+    "displayName": "Stechford",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "stepneyGreen": {
     "displayName": "Stepney Green",
     "lines": [
@@ -11777,6 +12476,12 @@
     "displayName": "Stevenston",
     "lines": [
       "scotRail"
+    ]
+  },
+  "stewartby": {
+    "displayName": "Stewartby",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "stewarton": {
@@ -11836,7 +12541,14 @@
   "stokeontrent": {
     "displayName": "Stoke-On-Trent",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
+    ]
+  },
+  "stone": {
+    "displayName": "Stone",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "stoneCrossing": {
@@ -11877,6 +12589,18 @@
     "displayName": "Stoneleigh",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "stourbridgeJunction": {
+    "displayName": "Stourbridge Junction",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "stourbridgeTown": {
+    "displayName": "Stourbridge Town",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "stow": {
@@ -11925,6 +12649,18 @@
     "displayName": "Stratford (London)",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "stratforduponavon": {
+    "displayName": "Stratford-upon-Avon",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "stratforduponavonParkway": {
+    "displayName": "Stratford-upon-Avon Parkway",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "strathcarron": {
@@ -12063,6 +12799,12 @@
       "thameslink"
     ]
   },
+  "suttonColdfield": {
+    "displayName": "Sutton Coldfield",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "suttonCommon": {
     "displayName": "Sutton Common",
     "lines": [
@@ -12193,11 +12935,18 @@
       "blackpoolTramway"
     ]
   },
+  "tameBridgeParkway": {
+    "displayName": "Tame Bridge Parkway",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "tamworth": {
     "displayName": "Tamworth",
     "lines": [
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
     ]
   },
   "taplow": {
@@ -12238,6 +12987,12 @@
     "lines": [
       "crossCountry",
       "greatWesternRailway"
+    ]
+  },
+  "telfordCentral": {
+    "displayName": "Telford Central",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "temple": {
@@ -12289,6 +13044,18 @@
     "lines": [
       "netGreen",
       "netPurple"
+    ]
+  },
+  "theHawthorns": {
+    "displayName": "The Hawthorns",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "theLakes": {
+    "displayName": "The Lakes",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "theShore": {
@@ -12438,10 +13205,23 @@
       "c2c"
     ]
   },
+  "tileHill": {
+    "displayName": "Tile Hill",
+    "lines": [
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
   "tilehurst": {
     "displayName": "Tilehurst",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "tipton": {
+    "displayName": "Tipton",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "tisbury": {
@@ -12573,6 +13353,12 @@
       "greaterAnglia"
     ]
   },
+  "tring": {
+    "displayName": "Tring",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "troon": {
     "displayName": "Troon",
     "lines": [
@@ -12701,6 +13487,12 @@
       "twYellow"
     ]
   },
+  "tyseley": {
+    "displayName": "Tyseley",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "uckfield": {
     "displayName": "Uckfield",
     "lines": [
@@ -12734,7 +13526,8 @@
   "universityBirmingham": {
     "displayName": "University (Birmingham)",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "westMidlandsRailway"
     ]
   },
   "universityBoulevard": {
@@ -12927,6 +13720,12 @@
       "southeastern"
     ]
   },
+  "walsall": {
+    "displayName": "Walsall",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "walthamCross": {
     "displayName": "Waltham Cross",
     "lines": [
@@ -13076,10 +13875,22 @@
       "transPennineExpress"
     ]
   },
+  "warwick": {
+    "displayName": "Warwick",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "warwickAvenue": {
     "displayName": "Warwick Avenue",
     "lines": [
       "bakerloo"
+    ]
+  },
+  "warwickParkway": {
+    "displayName": "Warwick Parkway",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "waterOrton": {
@@ -13140,7 +13951,14 @@
       "lioness",
       "southern",
       "csLowlander",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway"
+    ]
+  },
+  "watfordNorth": {
+    "displayName": "Watford North",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "watlington": {
@@ -13183,6 +14001,12 @@
     "displayName": "Wellingborough",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "wellington": {
+    "displayName": "Wellington",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "welwynGardenCity": {
@@ -13592,6 +14416,12 @@
       "twYellow"
     ]
   },
+  "whitlocksEnd": {
+    "displayName": "Whitlocks End",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "whitstable": {
     "displayName": "Whitstable",
     "lines": [
@@ -13637,6 +14467,12 @@
       "southern"
     ]
   },
+  "whythall": {
+    "displayName": "Whythall",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "wick": {
     "displayName": "Wick",
     "lines": [
@@ -13659,6 +14495,12 @@
     "displayName": "Widnes",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "widneyManor": {
+    "displayName": "Widney Manor",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "wiganNorthWestern": {
@@ -13687,6 +14529,12 @@
       "netPurple"
     ]
   },
+  "willenhall": {
+    "displayName": "Willenhall",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "willesdenGreen": {
     "displayName": "Willesden Green",
     "lines": [
@@ -13711,6 +14559,12 @@
     "displayName": "Willington",
     "lines": [
       "crossCountry"
+    ]
+  },
+  "wilmcote": {
+    "displayName": "Wilmcote",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "wilmslow": {
@@ -13802,6 +14656,12 @@
       "southWesternRailway"
     ]
   },
+  "winsford": {
+    "displayName": "Winsford",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
   "wishaw": {
     "displayName": "Wishaw",
     "lines": [
@@ -13820,6 +14680,12 @@
       "southWesternRailway"
     ]
   },
+  "witton": {
+    "displayName": "Witton",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "wivelsfield": {
     "displayName": "Wivelsfield",
     "lines": [
@@ -13831,6 +14697,12 @@
     "displayName": "Wivenhoe",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "woburnSands": {
+    "displayName": "Woburn Sands",
+    "lines": [
+      "londonNorthwesternRailway"
     ]
   },
   "woking": {
@@ -13856,7 +14728,21 @@
     "displayName": "Wolverhampton",
     "lines": [
       "crossCountry",
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "londonNorthwesternRailway",
+      "westMidlandsRailway"
+    ]
+  },
+  "wolverton": {
+    "displayName": "Wolverton",
+    "lines": [
+      "londonNorthwesternRailway"
+    ]
+  },
+  "woodEnd": {
+    "displayName": "Wood End",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "woodGreen": {
@@ -13946,6 +14832,18 @@
       "southeastern"
     ]
   },
+  "woottonWawen": {
+    "displayName": "Wootton Wawen",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
+  "worcesterForegateSt": {
+    "displayName": "Worcester Foregate St",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "worcesterForegateStreet": {
     "displayName": "Worcester Foregate Street",
     "lines": [
@@ -13961,7 +14859,8 @@
   "worcesterShrubHill": {
     "displayName": "Worcester Shrub Hill",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "westMidlandsRailway"
     ]
   },
   "worcestershireParkway": {
@@ -14025,6 +14924,12 @@
       "southeastern"
     ]
   },
+  "wyldeGreen": {
+    "displayName": "Wylde Green",
+    "lines": [
+      "westMidlandsRailway"
+    ]
+  },
   "wymondham": {
     "displayName": "Wymondham",
     "lines": [
@@ -14036,6 +14941,12 @@
     "displayName": "Yalding",
     "lines": [
       "southeastern"
+    ]
+  },
+  "yardleyWood": {
+    "displayName": "Yardley Wood",
+    "lines": [
+      "westMidlandsRailway"
     ]
   },
   "yarm": {

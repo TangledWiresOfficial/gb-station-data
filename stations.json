@@ -9504,6 +9504,12 @@
       "greaterAnglia"
     ]
   },
+  "northGreenwich": {
+    "displayName": "North Greenwich",
+    "lines": [
+      "jubilee"
+    ]
+  },
   "northHarrow": {
     "displayName": "North Harrow",
     "lines": [

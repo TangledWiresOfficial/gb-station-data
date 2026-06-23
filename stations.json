@@ -19,7 +19,7 @@
       "crossCountry",
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "aberdour": {
@@ -229,7 +229,7 @@
     "lines": [
       "crossCountry",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "alperton": {
@@ -384,7 +384,7 @@
       "crossCountry",
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "archway": {
@@ -636,7 +636,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "avoncliff": {
@@ -1559,7 +1559,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "blairhill": {
@@ -1778,7 +1778,7 @@
   "bradfordForesterSquare": {
     "displayName": "Bradford Forester Square",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "bradfordInterchange": {
@@ -1881,7 +1881,7 @@
   "brewickupontweed": {
     "displayName": "Brewick-upon-Tweed",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "bricketWood": {
@@ -2067,7 +2067,7 @@
     "lines": [
       "hullTrains",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "broughtyFerry": {
@@ -2571,7 +2571,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "carshalton": {
@@ -3765,7 +3765,7 @@
     "lines": [
       "crossCountry",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "darsham": {
@@ -3940,7 +3940,7 @@
       "hullTrains",
       "grandCentral",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "dorchesterSouth": {
@@ -4145,7 +4145,7 @@
       "crossCountry",
       "transPennineExpress",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "dunblane": {
@@ -4153,7 +4153,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "duncraig": {
@@ -4168,7 +4168,7 @@
       "crossCountry",
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "dundonaldRoad": {
@@ -4194,7 +4194,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "dunlop": {
@@ -4220,7 +4220,7 @@
     "lines": [
       "crossCountry",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "durringtonOnSea": {
@@ -4505,7 +4505,7 @@
       "transPennineExpress",
       "avantiWestCoast",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "edmontonGreen": {
@@ -4845,7 +4845,7 @@
   "falkrikGrahamston": {
     "displayName": "Falkrik Grahamston",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "fallsofCruachan": {
@@ -5410,7 +5410,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "glenfinnan": {
@@ -5580,7 +5580,7 @@
     "lines": [
       "eastMidlandsRailway",
       "hullTrains",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "grateley": {
@@ -6078,7 +6078,7 @@
   "harrogate": {
     "displayName": "Harrogate",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "harrowAndWealdstone": {
@@ -6253,7 +6253,7 @@
       "crossCountry",
       "avantiWestCoast",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "haywardsHeath": {
@@ -6735,7 +6735,7 @@
   "horsforth": {
     "displayName": "Horsforth",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "horsham": {
@@ -6840,7 +6840,7 @@
   "hull": {
     "displayName": "Hull",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "hullParagon": {
@@ -7000,7 +7000,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "inverkip": {
@@ -7014,7 +7014,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "invernessAirport": {
@@ -7118,7 +7118,7 @@
   "keighley": {
     "displayName": "Keighley",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "keith": {
@@ -7406,7 +7406,7 @@
       "lumo",
       "hullTrains",
       "grandCentral",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "kingsCrossStPancras": {
@@ -7497,7 +7497,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "kinningPark": {
@@ -7541,7 +7541,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "kirkconnel": {
@@ -7847,7 +7847,7 @@
     "lines": [
       "crossCountry",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "leicester": {
@@ -7918,7 +7918,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "leven": {
@@ -7989,7 +7989,7 @@
     "displayName": "Lincoln",
     "lines": [
       "eastMidlandsRailway",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "lindelRoad": {
@@ -8842,7 +8842,7 @@
     "displayName": "Middlesbrough",
     "lines": [
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "midgham": {
@@ -8977,7 +8977,7 @@
       "crossCountry",
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "monument": {
@@ -9069,7 +9069,7 @@
       "crossCountry",
       "lumo",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "mortimer": {
@@ -9338,7 +9338,7 @@
     "displayName": "Newark Northgate",
     "lines": [
       "eastMidlandsRailway",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "newbury": {
@@ -9365,7 +9365,7 @@
       "crossCountry",
       "lumo",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "newcourt": {
@@ -9472,7 +9472,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "newtononayr": {
@@ -9638,7 +9638,7 @@
     "lines": [
       "grandCentral",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "northampton": {
@@ -10224,7 +10224,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "peterborough": {
@@ -10236,7 +10236,7 @@
       "eastMidlandsRailway",
       "grandCentral",
       "greaterAnglia",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "petersfield": {
@@ -10331,7 +10331,7 @@
     "lines": [
       "csHighlander",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "pitsea": {
@@ -10957,14 +10957,14 @@
     "displayName": "Reston",
     "lines": [
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "retford": {
     "displayName": "Retford",
     "lines": [
       "hullTrains",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "rhyl": {
@@ -11482,7 +11482,7 @@
     "lines": [
       "hullTrains",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "selhurst": {
@@ -11686,7 +11686,7 @@
   "shipley": {
     "displayName": "Shipley",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "shippeaHill": {
@@ -11833,7 +11833,7 @@
   "skipton": {
     "displayName": "Skipton",
     "lines": [
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "sladeGreen": {
@@ -12569,7 +12569,7 @@
       "greatNorthern",
       "lumo",
       "hullTrains",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "stevenston": {
@@ -12596,7 +12596,7 @@
       "csHighlander",
       "scotRail",
       "lumo",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "stkeyneWishingWellHalt": {
@@ -12678,7 +12678,7 @@
       "csHighlander",
       "crossCountry",
       "scotRail",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "stonehouseStroud": {
@@ -13208,7 +13208,7 @@
     "displayName": "Thornaby",
     "lines": [
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "thorneSouth": {
@@ -13790,7 +13790,7 @@
     "displayName": "Wakefield Westgate",
     "lines": [
       "crossCountry",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   },
   "walkergate": {
@@ -15108,7 +15108,7 @@
       "crossCountry",
       "grandCentral",
       "transPennineExpress",
-      "LondonNorthEasternRailway"
+      "londonNorthEasternRailway"
     ]
   }
 }

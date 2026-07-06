@@ -347,7 +347,8 @@
   "amersham": {
     "displayName": "Amersham",
     "lines": [
-      "metropolitan"
+      "metropolitan",
+      "chiltern"
     ]
   },
   "ampereWay": {
@@ -799,6 +800,18 @@
       "greatWesternRailway"
     ]
   },
+  "aylesbury": {
+    "displayName": "Aylesbury",
+    "lines": [
+      "chiltern"
+    ]
+  },
+  "aylesburyValeParkway": {
+    "displayName": "Aylesbury Vale Parkway",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "aylesford": {
     "displayName": "Aylesford",
     "lines": [
@@ -913,7 +926,8 @@
     "displayName": "Banbury",
     "lines": [
       "crossCountry",
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "chiltern"
     ]
   },
   "bangor": {
@@ -1203,6 +1217,12 @@
       "circle"
     ]
   },
+  "beaconsfield": {
+    "displayName": "Beaconsfield",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "beaconsfieldStreet": {
     "displayName": "Beaconsfield Street",
     "lines": [
@@ -1213,7 +1233,8 @@
   "bearley": {
     "displayName": "Bearley",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "bearsden": {
@@ -1609,6 +1630,18 @@
       "southeastern"
     ]
   },
+  "bicesterNorth": {
+    "displayName": "Bicester North",
+    "lines": [
+      "chiltern"
+    ]
+  },
+  "bicesterVillage": {
+    "displayName": "Bicester Village",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "bickley": {
     "displayName": "Bickley",
     "lines": [
@@ -1694,7 +1727,8 @@
   "birminghamMoorStreet": {
     "displayName": "Birmingham Moor Street",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "birminghamNewStreet": {
@@ -1709,7 +1743,8 @@
   "birminghamSnowHill": {
     "displayName": "Birmingham Snow Hill",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "bishopAuckland": {
@@ -1965,6 +2000,12 @@
     "displayName": "Bordersley",
     "lines": [
       "westMidlandsRailway"
+    ]
+  },
+  "bordesley": {
+    "displayName": "Bordesley",
+    "lines": [
+      "chiltern"
     ]
   },
   "borough": {
@@ -3203,7 +3244,8 @@
   "chalfontAndLatimer": {
     "displayName": "Chalfont & Latimer",
     "lines": [
-      "metropolitan"
+      "metropolitan",
+      "chiltern"
     ]
   },
   "chalkFarm": {
@@ -3545,7 +3587,8 @@
   "chorleywood": {
     "displayName": "Chorleywood",
     "lines": [
-      "metropolitan"
+      "metropolitan",
+      "chiltern"
     ]
   },
   "christchurch": {
@@ -3657,7 +3700,8 @@
   "claverdon": {
     "displayName": "Claverdon",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "claygate": {
@@ -4048,7 +4092,8 @@
   "cradleyHeath": {
     "displayName": "Cradley Heath",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "craigendoran": {
@@ -4555,6 +4600,18 @@
       "northernTrains"
     ]
   },
+  "denham": {
+    "displayName": "Denham",
+    "lines": [
+      "chiltern"
+    ]
+  },
+  "denhamGolfClub": {
+    "displayName": "Denham Golf Club",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "denmarkHill": {
     "displayName": "Denmark Hill",
     "lines": [
@@ -4751,7 +4808,8 @@
   "dorridge": {
     "displayName": "Dorridge",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "doveHoles": {
@@ -6310,6 +6368,12 @@
       "scotRail"
     ]
   },
+  "gerrardsCross": {
+    "displayName": "Gerrards Cross",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "gideaPark": {
     "displayName": "Gidea Park",
     "lines": [
@@ -6684,6 +6748,12 @@
       "westMidlandsRailway"
     ]
   },
+  "greatMissenden": {
+    "displayName": "Great Missenden",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "greatPortlandStreet": {
     "displayName": "Great Portland Street",
     "lines": [
@@ -6913,6 +6983,12 @@
       "mildmay"
     ]
   },
+  "haddenhamAndThameParkway": {
+    "displayName": "Haddenham & Thame Parkway",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "haddiscoe": {
     "displayName": "Haddiscoe",
     "lines": [
@@ -6998,16 +7074,16 @@
       "westMidlandsRailway"
     ]
   },
-  "hallithwood": {
-    "displayName": "Hall-i'-th'-Wood",
-    "lines": [
-      "northernTrains"
-    ]
-  },
   "halling": {
     "displayName": "Halling",
     "lines": [
       "southeastern"
+    ]
+  },
+  "hallithwood": {
+    "displayName": "Hall-i'-th'-Wood",
+    "lines": [
+      "northernTrains"
     ]
   },
   "haltwhistle": {
@@ -7247,6 +7323,12 @@
       "blackpoolTramway"
     ]
   },
+  "harrowonthehill": {
+    "displayName": "Harrow-on-the-Hill",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "hartford": {
     "displayName": "Hartford",
     "lines": [
@@ -7346,7 +7428,8 @@
   "hatton": {
     "displayName": "Hatton",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "hattonCross": {
@@ -7733,6 +7816,12 @@
       "circle"
     ]
   },
+  "highWycombe": {
+    "displayName": "High Wycombe",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "highamKent": {
     "displayName": "Higham (Kent)",
     "lines": [
@@ -8097,7 +8186,6 @@
       "northernTrains"
     ]
   },
-
   "howdon": {
     "displayName": "Howdon",
     "lines": [
@@ -8422,6 +8510,12 @@
       "dlr"
     ]
   },
+  "islip": {
+    "displayName": "Islip",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "iver": {
     "displayName": "Iver",
     "lines": [
@@ -8457,7 +8551,8 @@
   "jewelleryQuarter": {
     "displayName": "Jewellery Quarter",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "johnstone": {
@@ -8848,7 +8943,8 @@
   "kingsSutton": {
     "displayName": "Kings Sutton",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "chiltern"
     ]
   },
   "kingsbury": {
@@ -9177,7 +9273,8 @@
   "langleyGreen": {
     "displayName": "Langley Green",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "langleyMill": {
@@ -9214,7 +9311,8 @@
   "lapworth": {
     "displayName": "Lapworth",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "larbert": {
@@ -9302,7 +9400,8 @@
     "displayName": "Leamington Spa",
     "lines": [
       "crossCountry",
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "leatherhead": {
@@ -9546,6 +9645,12 @@
       "blackpoolTramway"
     ]
   },
+  "littleKimble": {
+    "displayName": "Little Kimble",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "littleborough": {
     "displayName": "Littleborough",
     "lines": [
@@ -9571,7 +9676,6 @@
       "greatNorthern"
     ]
   },
-
   "liverpoolLimeStreet": {
     "displayName": "Liverpool Lime Street",
     "lines": [
@@ -9730,6 +9834,12 @@
     "displayName": "London Fields",
     "lines": [
       "weaver"
+    ]
+  },
+  "londonMarylebone": {
+    "displayName": "London Marylebone",
+    "lines": [
+      "chiltern"
     ]
   },
   "londonRoadBrighton": {
@@ -9950,7 +10060,8 @@
   "lye": {
     "displayName": "Lye",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "lymingtonPier": {
@@ -10619,6 +10730,12 @@
     "displayName": "Monifieth",
     "lines": [
       "scotRail"
+    ]
+  },
+  "monksRisborough": {
+    "displayName": "Monks Risborough",
+    "lines": [
+      "chiltern"
     ]
   },
   "monkseaton": {
@@ -11474,6 +11591,12 @@
       "central"
     ]
   },
+  "northoltPark": {
+    "displayName": "Northolt Park",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "northumberlandPark": {
     "displayName": "Northumberland Park (Tyneside)",
     "lines": [
@@ -11656,7 +11779,8 @@
   "oldHill": {
     "displayName": "Old Hill",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "oldMarketSquare": {
@@ -11771,7 +11895,8 @@
     "displayName": "Oxford",
     "lines": [
       "crossCountry",
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "chiltern"
     ]
   },
   "oxfordCircus": {
@@ -11780,6 +11905,12 @@
       "central",
       "bakerloo",
       "victoria"
+    ]
+  },
+  "oxfordParkway": {
+    "displayName": "Oxford Parkway",
+    "lines": [
+      "chiltern"
     ]
   },
   "oxshott": {
@@ -12572,6 +12703,12 @@
       "dlr"
     ]
   },
+  "princesRisborough": {
+    "displayName": "Princes Risborough",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "princesStreet": {
     "displayName": "Princes Street",
     "lines": [
@@ -12995,7 +13132,8 @@
   "rickmansworth": {
     "displayName": "Rickmansworth",
     "lines": [
-      "metropolitan"
+      "metropolitan",
+      "chiltern"
     ]
   },
   "riddlesdown": {
@@ -13181,7 +13319,8 @@
   "rowleyRegis": {
     "displayName": "Rowley Regis",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "royBridge": {
@@ -13533,6 +13672,12 @@
       "edinburghTrams"
     ]
   },
+  "saunderton": {
+    "displayName": "Saunderton",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "sawbridgeworth": {
     "displayName": "Sawbridgeworth",
     "lines": [
@@ -13626,6 +13771,12 @@
     "displayName": "Seaton Delaval",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "seerGreenAndJordans": {
+    "displayName": "Seer Green & Jordans",
+    "lines": [
+      "chiltern"
     ]
   },
   "selby": {
@@ -14112,7 +14263,8 @@
     "displayName": "Smethwick Galton Bridge",
     "lines": [
       "londonNorthwesternRailway",
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "smethwickRolfeStreet": {
@@ -14167,7 +14319,8 @@
   "solihull": {
     "displayName": "Solihull",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "somerleyton": {
@@ -14293,7 +14446,8 @@
   "southRuislip": {
     "displayName": "South Ruislip",
     "lines": [
-      "central"
+      "central",
+      "chiltern"
     ]
   },
   "southShields": {
@@ -14949,6 +15103,12 @@
       "northern"
     ]
   },
+  "stokeMandeville": {
+    "displayName": "Stoke Mandeville",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "stokeNewington": {
     "displayName": "Stoke Newington",
     "lines": [
@@ -15025,7 +15185,8 @@
   "stourbridgeJunction": {
     "displayName": "Stourbridge Junction",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "stourbridgeTown": {
@@ -15085,13 +15246,15 @@
   "stratforduponavon": {
     "displayName": "Stratford-upon-Avon",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "stratforduponavonParkway": {
     "displayName": "Stratford-upon-Avon Parkway",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "strathcarron": {
@@ -15168,10 +15331,22 @@
       "northernTrains"
     ]
   },
+  "sudburyAndHarrowRoad": {
+    "displayName": "Sudbury & Harrow Road",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "sudburyHill": {
     "displayName": "Sudbury Hill",
     "lines": [
       "piccadilly"
+    ]
+  },
+  "sudburyHillHarrow": {
+    "displayName": "Sudbury Hill Harrow",
+    "lines": [
+      "chiltern"
     ]
   },
   "sudburySuffolk": {
@@ -15523,7 +15698,8 @@
   "theHawthorns": {
     "displayName": "The Hawthorns",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "theLakes": {
@@ -16423,7 +16599,8 @@
   "warwick": {
     "displayName": "Warwick",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "warwickAvenue": {
@@ -16435,7 +16612,8 @@
   "warwickParkway": {
     "displayName": "Warwick Parkway",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "waterOrton": {
@@ -16595,10 +16773,22 @@
       "jubilee"
     ]
   },
+  "wembleyStadium": {
+    "displayName": "Wembley Stadium",
+    "lines": [
+      "chiltern"
+    ]
+  },
   "wemyssBay": {
     "displayName": "Wemyss Bay",
     "lines": [
       "scotRail"
+    ]
+  },
+  "wendover": {
+    "displayName": "Wendover",
+    "lines": [
+      "chiltern"
     ]
   },
   "wennington": {
@@ -16757,7 +16947,8 @@
   "westRuislip": {
     "displayName": "West Ruislip",
     "lines": [
-      "central"
+      "central",
+      "chiltern"
     ]
   },
   "westRunton": {
@@ -17201,7 +17392,8 @@
   "wilmcote": {
     "displayName": "Wilmcote",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "chiltern"
     ]
   },
   "wilmslow": {

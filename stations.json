@@ -13,6 +13,24 @@
       "southeastern"
     ]
   },
+  "aber": {
+    "displayName": "Aber",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "abercynon": {
+    "displayName": "Abercynon",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "aberdare": {
+    "displayName": "Aberdare - Aberdâr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "aberdeen": {
     "displayName": "Aberdeen",
     "lines": [
@@ -26,6 +44,36 @@
     "displayName": "Aberdour",
     "lines": [
       "scotRail"
+    ]
+  },
+  "aberdovey": {
+    "displayName": "Aberdovey - Aberdyfi",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "abererch": {
+    "displayName": "Abererch",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "abergavenny": {
+    "displayName": "Abergavenny - Y Fenni",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "abergeleAndPensarn": {
+    "displayName": "Abergele & Pensarn - Abergele a Phen-sarn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "aberystwyth": {
+    "displayName": "Aberystwyth",
+    "lines": [
+      "transportForWales"
     ]
   },
   "accrington": {
@@ -349,6 +397,12 @@
     "lines": [
       "metropolitan",
       "chiltern"
+    ]
+  },
+  "ammanford": {
+    "displayName": "Ammanford - Rhydaman",
+    "lines": [
+      "transportForWales"
     ]
   },
   "ampereWay": {
@@ -830,6 +884,12 @@
       "scotRail"
     ]
   },
+  "baglan": {
+    "displayName": "Baglan",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "bagshot": {
     "displayName": "Bagshot",
     "lines": [
@@ -933,7 +993,8 @@
   "bangor": {
     "displayName": "Bangor",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "transportForWales"
     ]
   },
   "bank": {
@@ -995,6 +1056,12 @@
       "scotRail"
     ]
   },
+  "bargoed": {
+    "displayName": "Bargoed - Bargod",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "barking": {
     "displayName": "Barking",
     "lines": [
@@ -1020,6 +1087,12 @@
     "displayName": "Barming",
     "lines": [
       "southeastern"
+    ]
+  },
+  "barmouth": {
+    "displayName": "Barmouth - Abermaw",
+    "lines": [
+      "transportForWales"
     ]
   },
   "barnehurst": {
@@ -1113,6 +1186,24 @@
     "displayName": "Barrow-in-Furness",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "barry": {
+    "displayName": "Barry - Y Barri",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "barryDocks": {
+    "displayName": "Barry Docks - Dociau'r Barri",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "barryIsland": {
+    "displayName": "Barry Island - Ynys y Barri",
+    "lines": [
+      "transportForWales"
     ]
   },
   "barryLinks": {
@@ -1605,6 +1696,12 @@
       "central"
     ]
   },
+  "betwsyCoed": {
+    "displayName": "Betws-y-Coed",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "beverley": {
     "displayName": "Beverley",
     "lines": [
@@ -1690,6 +1787,12 @@
     "displayName": "Bingley",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "birchgrove": {
+    "displayName": "Birchgrove - Llwynbedw",
+    "lines": [
+      "transportForWales"
     ]
   },
   "birchingtonOnSea": {
@@ -1868,6 +1971,12 @@
       "greatWesternRailway"
     ]
   },
+  "blaenau": {
+    "displayName": "Blaenau Ffestiniog",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "blairAtholl": {
     "displayName": "Blair Atholl",
     "lines": [
@@ -1950,6 +2059,12 @@
       "nightRiviera"
     ]
   },
+  "bodorgan": {
+    "displayName": "Bodorgan",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "bognorRegis": {
     "displayName": "Bognor Regis",
     "lines": [
@@ -2018,6 +2133,12 @@
     "displayName": "Borough Green & Wrotham",
     "lines": [
       "southeastern"
+    ]
+  },
+  "borth": {
+    "displayName": "Borth",
+    "lines": [
+      "transportForWales"
     ]
   },
   "bosham": {
@@ -2093,6 +2214,12 @@
     "lines": [
       "district",
       "hammersmithAndCity"
+    ]
+  },
+  "bowStreet": {
+    "displayName": "Bow Street",
+    "lines": [
+      "transportForWales"
     ]
   },
   "bowesPark": {
@@ -2285,8 +2412,9 @@
     ]
   },
   "bridgend": {
-    "displayName": "Bridgend",
+    "displayName": "Bridgend - Pen-y-bont",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -2371,6 +2499,18 @@
     "lines": [
       "crossCountry",
       "greatWesternRailway"
+    ]
+  },
+  "brithdir": {
+    "displayName": "Brithdir",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "britonFerry": {
+    "displayName": "Briton Ferry - Llansawel",
+    "lines": [
+      "transportForWales"
     ]
   },
   "brixton": {
@@ -2487,6 +2627,12 @@
       "southWesternRailway"
     ]
   },
+  "broome": {
+    "displayName": "Broome",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "broomfleet": {
     "displayName": "Broomfleet",
     "lines": [
@@ -2575,6 +2721,18 @@
       "central"
     ]
   },
+  "buckley": {
+    "displayName": "Buckley - Bwcle",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "bucknell": {
+    "displayName": "Bucknell",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "buckshawParkway": {
     "displayName": "Buckshaw Parkway",
     "lines": [
@@ -2585,6 +2743,12 @@
     "displayName": "Bugle",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "builthRoad": {
+    "displayName": "Builth Road - Heol Llanfair-ym-Muallt",
+    "lines": [
+      "transportForWales"
     ]
   },
   "bulwell": {
@@ -2783,10 +2947,40 @@
       "twYellow"
     ]
   },
+  "bynea": {
+    "displayName": "Bynea - Bynie",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "cabin": {
     "displayName": "Cabin",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "cadoxton": {
+    "displayName": "Cadoxton - Tregatwg",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "caergwrle": {
+    "displayName": "Caergwrle",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "caerphilly": {
+    "displayName": "Caerphilly - Caerffili",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "caersws": {
+    "displayName": "Caersws",
+    "lines": [
+      "transportForWales"
     ]
   },
   "caldercruix": {
@@ -2796,8 +2990,9 @@
     ]
   },
   "caldicot": {
-    "displayName": "Caldicot",
+    "displayName": "Caldicot - Cil-y-coed",
     "lines": [
+      "transportForWales",
       "crossCountry"
     ]
   },
@@ -2998,11 +3193,24 @@
       "scotRail"
     ]
   },
-  "cardiffCentral": {
-    "displayName": "Cardiff Central",
+  "cardiffBay": {
+    "displayName": "Cardiff Bay - Bae Caerdydd",
     "lines": [
+      "transportForWales"
+    ]
+  },
+  "cardiffCentral": {
+    "displayName": "Cardiff Central - Caerdydd Canolog",
+    "lines": [
+      "transportForWales",
       "crossCountry",
       "greatWesternRailway"
+    ]
+  },
+  "cardiffQueenStreet": {
+    "displayName": "Cardiff Queen Street - Caerdydd Heol y Frenhines",
+    "lines": [
+      "transportForWales"
     ]
   },
   "cardonald": {
@@ -3050,6 +3258,12 @@
     "displayName": "Carluke",
     "lines": [
       "scotRail"
+    ]
+  },
+  "carmarthen": {
+    "displayName": "Carmarthen - Caerfyrddin",
+    "lines": [
+      "transportForWales"
     ]
   },
   "carmathen": {
@@ -3174,6 +3388,12 @@
       "southeastern"
     ]
   },
+  "cathays": {
+    "displayName": "Cathays",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "cathcart": {
     "displayName": "Cathcart",
     "lines": [
@@ -3202,6 +3422,12 @@
     "displayName": "Cavendish Road",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "cefnyBedd": {
+    "displayName": "Cefn-y-Bedd",
+    "lines": [
+      "transportForWales"
     ]
   },
   "centralPier": {
@@ -3404,8 +3630,9 @@
     ]
   },
   "chepstow": {
-    "displayName": "Chepstow",
+    "displayName": "Chepstow - Cas-gwent",
     "lines": [
+      "transportForWales",
       "crossCountry"
     ]
   },
@@ -3451,7 +3678,8 @@
     "displayName": "Chester",
     "lines": [
       "avantiWestCoast",
-      "northernTrains"
+      "northernTrains",
+      "transportForWales"
     ]
   },
   "chesterLeStreet": {
@@ -3554,6 +3782,12 @@
       "southern"
     ]
   },
+  "chirk": {
+    "displayName": "Chirk - Y Waun",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "chislehurst": {
     "displayName": "Chislehurst",
     "lines": [
@@ -3619,6 +3853,18 @@
     "displayName": "Church Street",
     "lines": [
       "londonTrams"
+    ]
+  },
+  "churchStretton": {
+    "displayName": "Church Stretton",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "cilmeri": {
+    "displayName": "Cilmeri",
+    "lines": [
+      "transportForWales"
     ]
   },
   "cinderhill": {
@@ -3689,6 +3935,12 @@
     "displayName": "Clapton",
     "lines": [
       "weaver"
+    ]
+  },
+  "clarbestonRoad": {
+    "displayName": "Clarbeston Road",
+    "lines": [
+      "transportForWales"
     ]
   },
   "clarkston": {
@@ -3772,6 +4024,12 @@
       "southeastern"
     ]
   },
+  "clunderwen": {
+    "displayName": "Clunderwen",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "clydebank": {
     "displayName": "Clydebank",
     "lines": [
@@ -3812,6 +4070,12 @@
     "displayName": "Codsall",
     "lines": [
       "westMidlandsRailway"
+    ]
+  },
+  "cogan": {
+    "displayName": "Cogan",
+    "lines": [
+      "transportForWales"
     ]
   },
   "colchester": {
@@ -3870,8 +4134,9 @@
     ]
   },
   "colwynBay": {
-    "displayName": "Colwyn Bay",
+    "displayName": "Colwyn Bay - Bae Colwyn",
     "lines": [
+      "transportForWales",
       "avantiWestCoast"
     ]
   },
@@ -3921,6 +4186,12 @@
     "displayName": "Cononley",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "conwy": {
+    "displayName": "Conwy",
+    "lines": [
+      "transportForWales"
     ]
   },
   "coodenBeach": {
@@ -4000,6 +4271,12 @@
     "lines": [
       "csHighlander",
       "scotRail"
+    ]
+  },
+  "coryton": {
+    "displayName": "Coryton",
+    "lines": [
+      "transportForWales"
     ]
   },
   "coseley": {
@@ -4121,6 +4398,12 @@
       "southWesternRailway"
     ]
   },
+  "cravenArms": {
+    "displayName": "Craven Arms",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "crawley": {
     "displayName": "Crawley",
     "lines": [
@@ -4183,6 +4466,12 @@
       "scotRail"
     ]
   },
+  "criccieth": {
+    "displayName": "Criccieth - Cricieth",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "cricklewood": {
     "displayName": "Cricklewood",
     "lines": [
@@ -4243,6 +4532,12 @@
     "displayName": "Crosshill",
     "lines": [
       "scotRail"
+    ]
+  },
+  "crosskeys": {
+    "displayName": "Crosskeys",
+    "lines": [
+      "transportForWales"
     ]
   },
   "croston": {
@@ -4362,6 +4657,24 @@
       "southeastern"
     ]
   },
+  "cwmbach": {
+    "displayName": "Cwmbach",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "cwmbran": {
+    "displayName": "Cwmbran - Cwmbrân",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "cynghordy": {
+    "displayName": "Cynghordy",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "cyprus": {
     "displayName": "Cyprus",
     "lines": [
@@ -4470,6 +4783,12 @@
     "displayName": "Danby",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "danescourt": {
+    "displayName": "Danescourt",
+    "lines": [
+      "transportForWales"
     ]
   },
   "danzey": {
@@ -4581,6 +4900,12 @@
       "central"
     ]
   },
+  "deganwy": {
+    "displayName": "Deganwy",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "deighton": {
     "displayName": "Deighton",
     "lines": [
@@ -4689,6 +5014,24 @@
       "greatWesternRailway"
     ]
   },
+  "dinasPowys": {
+    "displayName": "Dinas Powys",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "dinasRhondda": {
+    "displayName": "Dinas (Rhondda)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "dingleRoad": {
+    "displayName": "Dingle Road - Heol Dingle",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "dingwall": {
     "displayName": "Dingwall",
     "lines": [
@@ -4731,16 +5074,34 @@
       "northernTrains"
     ]
   },
+  "dolau": {
+    "displayName": "Dolau",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "doleham": {
     "displayName": "Doleham",
     "lines": [
       "southern"
     ]
   },
+  "dolgarrog": {
+    "displayName": "Dolgarrog",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "dollisHill": {
     "displayName": "Dollis Hill",
     "lines": [
       "jubilee"
+    ]
+  },
+  "dolwyddelan": {
+    "displayName": "Dolwyddelan",
+    "lines": [
+      "transportForWales"
     ]
   },
   "doncaster": {
@@ -4829,6 +5190,12 @@
     "displayName": "Dovercourt",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "doveyJunction": {
+    "displayName": "Dovey Junction - Cyffordd Dyfi",
+    "lines": [
+      "transportForWales"
     ]
   },
   "downhamMarket": {
@@ -5074,6 +5441,12 @@
       "scotRail"
     ]
   },
+  "dyffrynArdudwy": {
+    "displayName": "Dyffryn Ardudwy",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "eaglescliffe": {
     "displayName": "Eaglescliffe",
     "lines": [
@@ -5250,6 +5623,12 @@
       "southern"
     ]
   },
+  "eastbrook": {
+    "displayName": "Eastbrook",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "eastcote": {
     "displayName": "Eastcote",
     "lines": [
@@ -5281,6 +5660,18 @@
     "displayName": "Ebbsfleet International",
     "lines": [
       "southeasternHighSpeed"
+    ]
+  },
+  "ebbwValeParkway": {
+    "displayName": "Ebbw Vale Parkway - Parcffordd Glyn Ebwy",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "ebbwValeTown": {
+    "displayName": "Ebbw Vale Town - Tref Glyn Ebwy",
+    "lines": [
+      "transportForWales"
     ]
   },
   "ecclesManchester": {
@@ -5535,6 +5926,12 @@
       "southern"
     ]
   },
+  "energlynAndChurchillPark": {
+    "displayName": "Energlyn & Churchill Park - Eneu'r-glyn a Pharc Churchill",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "enfieldChase": {
     "displayName": "Enfield Chase",
     "lines": [
@@ -5723,6 +6120,12 @@
       "thameslink"
     ]
   },
+  "fairbourne": {
+    "displayName": "Fairbourne",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "fairfield": {
     "displayName": "Fairfield",
     "lines": [
@@ -5739,6 +6142,12 @@
     "displayName": "Fairlop",
     "lines": [
       "central"
+    ]
+  },
+  "fairwater": {
+    "displayName": "Fairwater - Y Tyllgoed",
+    "lines": [
+      "transportForWales"
     ]
   },
   "falconwood": {
@@ -5921,6 +6330,12 @@
       "londonNorthwesternRailway"
     ]
   },
+  "fernhill": {
+    "displayName": "Fernhill",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "ferriby": {
     "displayName": "Ferriby",
     "lines": [
@@ -5928,9 +6343,16 @@
     ]
   },
   "ferryside": {
-    "displayName": "Ferryside",
+    "displayName": "Ferryside - Glanyfferi",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
+    ]
+  },
+  "ffairfach": {
+    "displayName": "Ffairfach",
+    "lines": [
+      "transportForWales"
     ]
   },
   "fieldway": {
@@ -6003,6 +6425,18 @@
       "southern"
     ]
   },
+  "fishguardAndGoodwick": {
+    "displayName": "Fishguard & Goodwick - Abergwaun ac Wdig",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "fishguardHarbour": {
+    "displayName": "Fishguard Harbour - Porthladd Abergwaun",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "fiskerton": {
     "displayName": "Fiskerton",
     "lines": [
@@ -6040,8 +6474,9 @@
     ]
   },
   "flint": {
-    "displayName": "Flint",
+    "displayName": "Flint - Y Fflint",
     "lines": [
+      "transportForWales",
       "avantiWestCoast"
     ]
   },
@@ -6193,7 +6628,8 @@
   "frodsham": {
     "displayName": "Frodsham",
     "lines": [
-      "northernTrains"
+      "northernTrains",
+      "transportForWales"
     ]
   },
   "frome": {
@@ -6314,6 +6750,18 @@
       "scotRail"
     ]
   },
+  "garthBridgendCounty": {
+    "displayName": "Garth (Bridgend County) - Garth (Pen-y-bont)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "garthPowys": {
+    "displayName": "Garth (Powys)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "garve": {
     "displayName": "Garve",
     "lines": [
@@ -6398,6 +6846,12 @@
       "northernTrains"
     ]
   },
+  "gilfachFargoed": {
+    "displayName": "Gilfach Fargoed",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "gillinghamDorset": {
     "displayName": "Gillingham (Dorset)",
     "lines": [
@@ -6434,6 +6888,12 @@
     "displayName": "Glaisdale",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "glanConwy": {
+    "displayName": "Glan Conwy",
+    "lines": [
+      "transportForWales"
     ]
   },
   "glasgowCentral": {
@@ -6516,6 +6976,12 @@
     "displayName": "Glynde",
     "lines": [
       "southern"
+    ]
+  },
+  "gobowen": {
+    "displayName": "Gobowen",
+    "lines": [
+      "transportForWales"
     ]
   },
   "godalming": {
@@ -6653,6 +7119,12 @@
       "glasgowSubway"
     ]
   },
+  "gowerton": {
+    "displayName": "Gowerton -Tre-gŵyr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "goxhill": {
     "displayName": "Goxhill",
     "lines": [
@@ -6675,6 +7147,12 @@
     "displayName": "Grange-over-Sands",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "grangetownCardiff": {
+    "displayName": "Grangetown (Cardiff)",
+    "lines": [
+      "transportForWales"
     ]
   },
   "grantham": {
@@ -6929,6 +7407,12 @@
     "displayName": "Gunton",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "gwersyllt": {
+    "displayName": "Gwersyllt",
+    "lines": [
+      "transportForWales"
     ]
   },
   "gyleCentre": {
@@ -7221,6 +7705,12 @@
       "northernTrains"
     ]
   },
+  "harlech": {
+    "displayName": "Harlech",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "harlesden": {
     "displayName": "Harlesden",
     "lines": [
@@ -7451,6 +7941,24 @@
       "eastMidlandsRailway"
     ]
   },
+  "haverfordwest": {
+    "displayName": "Haverfordwest - Hwlffordd",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "hawarden": {
+    "displayName": "Hawarden - Penarlâg",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "hawardenBridge": {
+    "displayName": "Hawarden Bridge - Pont Penarlâg",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "hawkhead": {
     "displayName": "Hawkhead",
     "lines": [
@@ -7549,6 +8057,18 @@
     "displayName": "Healing",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "heathHighLevel": {
+    "displayName": "Heath High Level - Lefel Uchaf y Mynydd Bychan",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "heathLowLevel": {
+    "displayName": "Heath Low Level - Lefel Isel y Mynydd Bychan",
+    "lines": [
+      "transportForWales"
     ]
   },
   "heathfieldRoad": {
@@ -7656,7 +8176,8 @@
   "helsby": {
     "displayName": "Helsby",
     "lines": [
-      "northernTrains"
+      "northernTrains",
+      "transportForWales"
     ]
   },
   "hemelHempstead": {
@@ -7675,6 +8196,12 @@
     "displayName": "Hendon Central",
     "lines": [
       "northern"
+    ]
+  },
+  "hengoed": {
+    "displayName": "Hengoed",
+    "lines": [
+      "transportForWales"
     ]
   },
   "henleyinarden": {
@@ -7699,7 +8226,8 @@
     "displayName": "Hereford",
     "lines": [
       "greatWesternRailway",
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "transportForWales"
     ]
   },
   "herneBay": {
@@ -7744,6 +8272,12 @@
     "displayName": "Hessle",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "heswall": {
+    "displayName": "Heswall",
+    "lines": [
+      "transportForWales"
     ]
   },
   "hever": {
@@ -8001,8 +8535,9 @@
     ]
   },
   "holyhead": {
-    "displayName": "Holyhead",
+    "displayName": "Holyhead - Caergybi",
     "lines": [
+      "transportForWales",
       "avantiWestCoast"
     ]
   },
@@ -8059,6 +8594,18 @@
     "displayName": "Hope Derbyshire",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "hopeFlintshire": {
+    "displayName": "Hope (Flintshire) - Yr Hob",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "hoptonHeath": {
+    "displayName": "Hopton Heath",
+    "lines": [
+      "transportForWales"
     ]
   },
   "horden": {
@@ -8555,6 +9102,12 @@
       "chiltern"
     ]
   },
+  "johnstonPembs": {
+    "displayName": "Johnston (Pembs)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "johnstone": {
     "displayName": "Johnstone",
     "lines": [
@@ -8787,8 +9340,9 @@
     ]
   },
   "kidwelly": {
-    "displayName": "Kidwelly",
+    "displayName": "Kidwelly - Cydweli",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -8823,8 +9377,9 @@
     ]
   },
   "kilgetty": {
-    "displayName": "Kilgetty",
+    "displayName": "Kilgetty - Cilgeti",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -9121,6 +9676,12 @@
       "greatNorthern"
     ]
   },
+  "knighton": {
+    "displayName": "Knighton",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "knightsbridge": {
     "displayName": "Knightsbridge",
     "lines": [
@@ -9137,6 +9698,12 @@
     "displayName": "Knottingley",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "knucklas": {
+    "displayName": "Knucklas - Cnwclas",
+    "lines": [
+      "transportForWales"
     ]
   },
   "knutsford": {
@@ -9208,8 +9775,9 @@
     ]
   },
   "lamphey": {
-    "displayName": "Lamphey",
+    "displayName": "Lamphey - Llandyfai",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -9495,6 +10063,12 @@
       "scotRail"
     ]
   },
+  "leominster": {
+    "displayName": "Leominster",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "letchworthGardenCity": {
     "displayName": "Letchworth Garden City",
     "lines": [
@@ -9639,6 +10213,12 @@
       "southWesternRailway"
     ]
   },
+  "lisvaneAndThornhill": {
+    "displayName": "Lisvane & Thornhill - Llys-faen a Draenen Pen-y-graig",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "littleBispham": {
     "displayName": "Little Bispham",
     "lines": [
@@ -9728,22 +10308,192 @@
       "northernTrains"
     ]
   },
-  "llandudnoJunction": {
-    "displayName": "Llandudno Junction",
+  "llanaber": {
+    "displayName": "Llanaber",
     "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanbedr": {
+    "displayName": "Llanbedr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanbisterRoad": {
+    "displayName": "Llanbister Road - Heol Llanbister",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanbradach": {
+    "displayName": "Llanbradach",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandaf": {
+    "displayName": "Llandaf",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandanwg": {
+    "displayName": "Llandanwg",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandecwyn": {
+    "displayName": "Llandecwyn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandeilo": {
+    "displayName": "Llandeilo",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandovery": {
+    "displayName": "Llandovery - Llanymddyfri",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandrindod": {
+    "displayName": "Llandrindod",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandudno": {
+    "displayName": "Llandudno",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llandudnoJunction": {
+    "displayName": "Llandudno Junction - Cyffordd Llandudno",
+    "lines": [
+      "transportForWales",
       "avantiWestCoast"
+    ]
+  },
+  "llandybie": {
+    "displayName": "Llandybie",
+    "lines": [
+      "transportForWales"
     ]
   },
   "llanelli": {
     "displayName": "Llanelli",
     "lines": [
-      "greatWesternRailway"
+      "greatWesternRailway",
+      "transportForWales"
+    ]
+  },
+  "llanfairfechan": {
+    "displayName": "Llanfairfechan",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanfairpwll": {
+    "displayName": "Llanfairpwll",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llangadog": {
+    "displayName": "Llangadog",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llangammarch": {
+    "displayName": "Llangammarch - Llangamarch",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llangennech": {
+    "displayName": "Llangennech",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llangynllo": {
+    "displayName": "Llangynllo",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanharan": {
+    "displayName": "Llanharan",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanhilleth": {
+    "displayName": "Llanhilleth - Llanhiledd",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanishen": {
+    "displayName": "Llanishen - Llanisien",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanrwst": {
+    "displayName": "Llanrwst",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llansamlet": {
+    "displayName": "Llansamlet",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llantwitMajor": {
+    "displayName": "Llantwit Major - Llanilltud Fawr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanwrda": {
+    "displayName": "Llanwrda",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llanwrtyd": {
+    "displayName": "Llanwrtyd",
+    "lines": [
+      "transportForWales"
     ]
   },
   "lloydPark": {
     "displayName": "Lloyd Park",
     "lines": [
       "londonTrams"
+    ]
+  },
+  "llwyngwril": {
+    "displayName": "Llwyngwril",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "llwynypia": {
+    "displayName": "Llwynypia",
+    "lines": [
+      "transportForWales"
     ]
   },
   "lochAwe": {
@@ -10024,6 +10774,12 @@
       "blackpoolTramway"
     ]
   },
+  "ludlow": {
+    "displayName": "Ludlow",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "luton": {
     "displayName": "Luton",
     "lines": [
@@ -10054,7 +10810,8 @@
   "lydney": {
     "displayName": "Lydney",
     "lines": [
-      "crossCountry"
+      "crossCountry",
+      "transportForWales"
     ]
   },
   "lye": {
@@ -10100,6 +10857,24 @@
       "crossCountry",
       "avantiWestCoast",
       "northernTrains"
+    ]
+  },
+  "machynlleth": {
+    "displayName": "Machynlleth",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "maesteg": {
+    "displayName": "Maesteg",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "maestegEwennyRoad": {
+    "displayName": "Maesteg (Ewenny Road) - Maesteg (Heol Ewenni)",
+    "lines": [
+      "transportForWales"
     ]
   },
   "maidaVale": {
@@ -10229,8 +11004,9 @@
     ]
   },
   "manorbier": {
-    "displayName": "Manorbier",
+    "displayName": "Manorbier - Maenorbŷr",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -10537,6 +11313,18 @@
       "southern"
     ]
   },
+  "merthyrTydfil": {
+    "displayName": "Merthyr Tydfil - Merthyr Tudful",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "merthyrVale": {
+    "displayName": "Merthyr Vale - Ynysowen",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "mertonPark": {
     "displayName": "Merton Park",
     "lines": [
@@ -10605,6 +11393,12 @@
       "district",
       "hammersmithAndCity",
       "central"
+    ]
+  },
+  "milfordHaven": {
+    "displayName": "Milford Haven - Aberdaugleddau",
+    "lines": [
+      "transportForWales"
     ]
   },
   "milfordSurrey": {
@@ -10679,6 +11473,12 @@
       "avantiWestCoast",
       "lumo",
       "londonNorthwesternRailway"
+    ]
+  },
+  "minffordd": {
+    "displayName": "Minffordd",
+    "lines": [
+      "transportForWales"
     ]
   },
   "minster": {
@@ -10848,6 +11648,12 @@
       "greatWesternRailway"
     ]
   },
+  "morfaMawddach": {
+    "displayName": "Morfa Mawddach",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "morley": {
     "displayName": "Morley",
     "lines": [
@@ -10985,6 +11791,12 @@
       "scotRail"
     ]
   },
+  "mountainAsh": {
+    "displayName": "Mountain Ash - Aberpennar",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "mudchute": {
     "displayName": "Mudchute",
     "lines": [
@@ -11039,9 +11851,16 @@
       "scotRail"
     ]
   },
-  "narberth": {
-    "displayName": "Narberth",
+  "nantwich": {
+    "displayName": "Nantwich",
     "lines": [
+      "transportForWales"
+    ]
+  },
+  "narberth": {
+    "displayName": "Narberth - Arberth",
+    "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -11064,8 +11883,9 @@
     ]
   },
   "neath": {
-    "displayName": "Neath",
+    "displayName": "Neath - Castell-nedd",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -11085,6 +11905,12 @@
     "displayName": "Nelson",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "neston": {
+    "displayName": "Neston",
+    "lines": [
+      "transportForWales"
     ]
   },
   "netherfield": {
@@ -11227,6 +12053,12 @@
       "londonNorthEasternRailway"
     ]
   },
+  "newbridge": {
+    "displayName": "Newbridge -Trecelyn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "newbury": {
     "displayName": "Newbury",
     "lines": [
@@ -11308,6 +12140,12 @@
     "displayName": "Newport (Essex)",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "newportSouthWales": {
+    "displayName": "Newport (South Wales) - Casnewydd",
+    "lines": [
+      "transportForWales"
     ]
   },
   "newquay": {
@@ -11392,6 +12230,12 @@
       "scotRail"
     ]
   },
+  "newtownPowys": {
+    "displayName": "Newtown (Powys) -Y Drenewydd",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "ng2": {
     "displayName": "NG2",
     "lines": [
@@ -11402,6 +12246,12 @@
     "displayName": "Nine Elms",
     "lines": [
       "northern"
+    ]
+  },
+  "ninianPark": {
+    "displayName": "Ninian Park - Parc Ninian",
+    "lines": [
+      "transportForWales"
     ]
   },
   "nitshill": {
@@ -11500,6 +12350,12 @@
     "displayName": "North Harrow",
     "lines": [
       "metropolitan"
+    ]
+  },
+  "northLlanrwst": {
+    "displayName": "North Llanrwst - Gogledd Llanrwst",
+    "lines": [
+      "transportForWales"
     ]
   },
   "northPier": {
@@ -12006,6 +12862,12 @@
       "northernTrains"
     ]
   },
+  "pantyffynnon": {
+    "displayName": "Pantyffynnon",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "par": {
     "displayName": "Par",
     "lines": [
@@ -12122,27 +12984,50 @@
     ]
   },
   "pembreyAndBurryPort": {
-    "displayName": "Pembrey & Burry Port",
+    "displayName": "Pembrey & Burry Port - Pen-bre a Phorth Tywyn",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
+
   "pembroke": {
-    "displayName": "Pembroke",
+    "displayName": "Pembroke - Penfro",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
   "pembrokeDock": {
-    "displayName": "Pembroke Dock",
+    "displayName": "Pembroke Dock - Doc Penfro",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
   "penally": {
-    "displayName": "Penally",
+    "displayName": "Penally - Penalun",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
+    ]
+  },
+  "penarth": {
+    "displayName": "Penarth",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pencoed": {
+    "displayName": "Pencoed",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pengam": {
+    "displayName": "Pengam",
+    "lines": [
+      "transportForWales"
     ]
   },
   "pengeEast": {
@@ -12158,6 +13043,12 @@
       "southern"
     ]
   },
+  "penhelig": {
+    "displayName": "Penhelig",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "penistone": {
     "displayName": "Penistone",
     "lines": [
@@ -12170,10 +13061,28 @@
       "londonNorthwesternRailway"
     ]
   },
+  "penmaenmawr": {
+    "displayName": "Penmaenmawr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "penmere": {
     "displayName": "Penmere",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "penrhiwceiber": {
+    "displayName": "Penrhiwceiber",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "penrhyndeudraeth": {
+    "displayName": "Penrhyndeudraeth",
+    "lines": [
+      "transportForWales"
     ]
   },
   "penrith": {
@@ -12188,10 +13097,40 @@
       "avantiWestCoast"
     ]
   },
+  "pensarnGwynedd": {
+    "displayName": "Pensarn (Gwynedd)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "penshurst": {
     "displayName": "Penshurst",
     "lines": [
       "southern"
+    ]
+  },
+  "pentrebach": {
+    "displayName": "Pentre-Bach",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "penybontMidWales": {
+    "displayName": "Pen-y-Bont (Mid Wales)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "penychain": {
+    "displayName": "Penychain",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "penyffordd": {
+    "displayName": "Penyffordd - Pen-y-ffordd",
+    "lines": [
+      "transportForWales"
     ]
   },
   "penzance": {
@@ -12471,6 +13410,12 @@
       "greaterAnglia"
     ]
   },
+  "pontarddulais": {
+    "displayName": "Pontarddulais",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "pontefractBaghill": {
     "displayName": "Pontefract Baghill",
     "lines": [
@@ -12490,10 +13435,40 @@
       "northernTrains"
     ]
   },
+  "pontlottyn": {
+    "displayName": "Pontlottyn - Pontlotyn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "pontoonDock": {
     "displayName": "Pontoon Dock",
     "lines": [
       "dlr"
+    ]
+  },
+  "pontyclun": {
+    "displayName": "Pontyclun - Pont-y-clun",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pontypant": {
+    "displayName": "Pont-y-Pant",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pontypoolAndNewInn": {
+    "displayName": "Pontypool & New Inn - Pont-y-pŵl a New Inn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pontypridd": {
+    "displayName": "Pontypridd",
+    "lines": [
+      "transportForWales"
     ]
   },
   "poole": {
@@ -12521,8 +13496,9 @@
     ]
   },
   "portTalbotParkway": {
-    "displayName": "Port Talbot Parkway",
+    "displayName": "Port Talbot Parkway - Parcffordd Port Talbot",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -12532,6 +13508,18 @@
       "southWesternRailway",
       "southern",
       "greatWesternRailway"
+    ]
+  },
+  "porth": {
+    "displayName": "Porth - Y Porth",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "porthmadog": {
+    "displayName": "Porthmadog",
+    "lines": [
+      "transportForWales"
     ]
   },
   "portlethen": {
@@ -12621,6 +13609,12 @@
       "northernTrains"
     ]
   },
+  "prees": {
+    "displayName": "Prees",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "prenryn": {
     "displayName": "Prenryn",
     "lines": [
@@ -12636,7 +13630,8 @@
   "prestatyn": {
     "displayName": "Prestatyn",
     "lines": [
-      "avantiWestCoast"
+      "avantiWestCoast",
+      "transportForWales"
     ]
   },
   "prestbury": {
@@ -12764,6 +13759,30 @@
       "southWesternRailway"
     ]
   },
+  "pwllheli": {
+    "displayName": "Pwllheli",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pyeCorner": {
+    "displayName": "Pye Corner",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "pyle": {
+    "displayName": "Pyle -Y Pîl",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "quakersYard": {
+    "displayName": "Quakers Yard - Mynwent-y-Crynwyr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "queenborough": {
     "displayName": "Queenborough",
     "lines": [
@@ -12849,6 +13868,12 @@
     "displayName": "Radley",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "radyr": {
+    "displayName": "Radyr - Radur",
+    "lines": [
+      "transportForWales"
     ]
   },
   "rainford": {
@@ -13104,10 +14129,35 @@
       "northernTrains"
     ]
   },
-  "rhyl": {
-    "displayName": "Rhyl",
+  "rhiwbina": {
+    "displayName": "Rhiwbina",
     "lines": [
+      "transportForWales"
+    ]
+  },
+  "rhooseCardiffInternationalAirport": {
+    "displayName": "Rhoose Cardiff International Airport - Maes Awyr Rhyngwladol Caerdydd Y Rhws",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "rhosneigr": {
+    "displayName": "Rhosneigr",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "rhyl": {
+    "displayName": "Rhyl - Y Rhyl",
+    "lines": [
+      "transportForWales",
       "avantiWestCoast"
+    ]
+  },
+  "rhymney": {
+    "displayName": "Rhymney -Rhymni",
+    "lines": [
+      "transportForWales"
     ]
   },
   "ribblehead": {
@@ -13152,6 +14202,12 @@
     "displayName": "Riding Mill",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "riscaAndPontymister": {
+    "displayName": "Risca & Pontymister - Rhisga a Phont-y-meistr",
+    "lines": [
+      "transportForWales"
     ]
   },
   "rishton": {
@@ -13222,10 +14278,22 @@
       "scotRail"
     ]
   },
+  "rogerstone": {
+    "displayName": "Rogerstone - Tŷ-du",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "rolleston": {
     "displayName": "Rolleston",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "romanBridge": {
+    "displayName": "Roman Bridge - Pont Rufeinig",
+    "lines": [
+      "transportForWales"
     ]
   },
   "romford": {
@@ -13375,6 +14443,12 @@
       "greatNorthern"
     ]
   },
+  "ruabon": {
+    "displayName": "Ruabon - Rhiwabon",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "ruddingtonLane": {
     "displayName": "Ruddington Lane",
     "lines": [
@@ -13437,7 +14511,8 @@
   "runcornEast": {
     "displayName": "Runcorn East",
     "lines": [
-      "northernTrains"
+      "northernTrains",
+      "transportForWales"
     ]
   },
   "ruskington": {
@@ -13666,10 +14741,22 @@
       "scotRail"
     ]
   },
+  "sarn": {
+    "displayName": "Sarn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "saughton": {
     "displayName": "Saughton",
     "lines": [
       "edinburghTrams"
+    ]
+  },
+  "saundersfoot": {
+    "displayName": "Saundersfoot",
+    "lines": [
+      "transportForWales"
     ]
   },
   "saunderton": {
@@ -13846,10 +14933,11 @@
     ]
   },
   "severnTunnelJunction": {
-    "displayName": "Severn Tunnel Junction",
+    "displayName": "Severn Tunnel Junction - Cyffordd Twnnel Hafren",
     "lines": [
-      "crossCountry",
-      "greatWesternRailway"
+      "transportForWales",
+      "greatWesternRailway",
+      "crossCountry"
     ]
   },
   "shadwell": {
@@ -14121,6 +15209,12 @@
       "thameslink"
     ]
   },
+  "shotton": {
+    "displayName": "Shotton",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "shotts": {
     "displayName": "Shotts",
     "lines": [
@@ -14130,7 +15224,8 @@
   "shrewsbury": {
     "displayName": "Shrewsbury",
     "lines": [
-      "westMidlandsRailway"
+      "westMidlandsRailway",
+      "transportForWales"
     ]
   },
   "sidcup": {
@@ -14192,6 +15287,12 @@
     "displayName": "Skegness",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "skewen": {
+    "displayName": "Skewen - Sgiwen",
+    "lines": [
+      "transportForWales"
     ]
   },
   "skipton": {
@@ -15361,6 +16462,12 @@
       "piccadilly"
     ]
   },
+  "sugarLoaf": {
+    "displayName": "Sugar Loaf - Dinas y Bwlch",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "summerston": {
     "displayName": "Summerston",
     "lines": [
@@ -15463,8 +16570,9 @@
     ]
   },
   "swansea": {
-    "displayName": "Swansea",
+    "displayName": "Swansea - Abertawe",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -15560,6 +16668,12 @@
       "southern"
     ]
   },
+  "taffsWell": {
+    "displayName": "Taffs Well - Ffynnon Taf",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "tain": {
     "displayName": "Tain",
     "lines": [
@@ -15570,6 +16684,24 @@
     "displayName": "Talbot Square",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "talsarnau": {
+    "displayName": "Talsarnau",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "talyCafn": {
+    "displayName": "Tal-y-Cafn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "talybont": {
+    "displayName": "Talybont - Taffs Well",
+    "lines": [
+      "transportForWales"
     ]
   },
   "tameBridgeParkway": {
@@ -15649,6 +16781,12 @@
     "displayName": "Templecombe",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "tenby": {
+    "displayName": "Tenby - Dinbych-y-pysgod",
+    "lines": [
+      "transportForWales"
     ]
   },
   "tenvy": {
@@ -15890,6 +17028,12 @@
       "westMidlandsRailway"
     ]
   },
+  "tirphil": {
+    "displayName": "Tir-Phil",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "tisbury": {
     "displayName": "Tisbury",
     "lines": [
@@ -15915,10 +17059,34 @@
       "southWesternRailway"
     ]
   },
+  "tonPentre": {
+    "displayName": "Ton Pentre -Tonpentre",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "tonbridge": {
     "displayName": "Tonbridge",
     "lines": [
       "southeastern"
+    ]
+  },
+  "tondu": {
+    "displayName": "Tondu",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "tonfanau": {
+    "displayName": "Tonfanau",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "tonypandy": {
+    "displayName": "Tonypandy",
+    "lines": [
+      "transportForWales"
     ]
   },
   "tooting": {
@@ -16025,6 +17193,36 @@
       "northernTrains"
     ]
   },
+  "trefforest": {
+    "displayName": "Trefforest - Trefforest",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "trefforestEstate": {
+    "displayName": "Trefforest Estate - Ystad Trefforest",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "trehafod": {
+    "displayName": "Trehafod",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "treherbert": {
+    "displayName": "Treherbert",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "treorchyTreorci": {
+    "displayName": "Treorchy - Treorci",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "trimley": {
     "displayName": "Trimley",
     "lines": [
@@ -16035,6 +17233,12 @@
     "displayName": "Tring",
     "lines": [
       "londonNorthwesternRailway"
+    ]
+  },
+  "troed": {
+    "displayName": "Troed-y-rhiw",
+    "lines": [
+      "transportForWales"
     ]
   },
   "troon": {
@@ -16147,6 +17351,24 @@
       "greatWesternRailway"
     ]
   },
+  "tyCroes": {
+    "displayName": "Ty Croes",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "tyGlas": {
+    "displayName": "Ty Glas - Tŷ Glas",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "tygwyn": {
+    "displayName": "Tygwyn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "tyndrumLower": {
     "displayName": "Tyndrum Lower",
     "lines": [
@@ -16169,6 +17391,12 @@
     "displayName": "Tyseley",
     "lines": [
       "westMidlandsRailway"
+    ]
+  },
+  "tywyn": {
+    "displayName": "Tywyn",
+    "lines": [
+      "transportForWales"
     ]
   },
   "uckfield": {
@@ -16290,6 +17518,12 @@
       "southern"
     ]
   },
+  "uptonMerseyside": {
+    "displayName": "Upton (Merseyside)",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "uptonPark": {
     "displayName": "Upton Park",
     "lines": [
@@ -16326,6 +17560,12 @@
     "lines": [
       "metropolitan",
       "piccadilly"
+    ]
+  },
+  "valley": {
+    "displayName": "Valley - Y Dyffryn",
+    "lines": [
+      "transportForWales"
     ]
   },
   "vauxhall": {
@@ -16696,6 +17936,12 @@
       "greatNorthern"
     ]
   },
+  "waungronPark": {
+    "displayName": "Waun-Gron Park - Parc Waun-gron",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "wavertreeTechnologyPark": {
     "displayName": "Wavertree Technology Park",
     "lines": [
@@ -16744,6 +17990,12 @@
       "westMidlandsRailway"
     ]
   },
+  "welshpool": {
+    "displayName": "Welshpool - Y Trallwng",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "welwynGardenCity": {
     "displayName": "Welwyn Garden City",
     "lines": [
@@ -16756,6 +18008,12 @@
     "lines": [
       "thameslink",
       "greatNorthern"
+    ]
+  },
+  "wem": {
+    "displayName": "Wem",
+    "lines": [
+      "transportForWales"
     ]
   },
   "wembleyCentral": {
@@ -17160,10 +18418,22 @@
       "northernTrains"
     ]
   },
+  "whitchurchCardiff": {
+    "displayName": "Whitchurch (Cardiff) - Yr Eglwys Newydd",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "whitchurchHampshire": {
     "displayName": "Whitchurch (Hampshire)",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "whitchurchShropshire": {
+    "displayName": "Whitchurch (Shropshire)",
+    "lines": [
+      "transportForWales"
     ]
   },
   "whiteCity": {
@@ -17207,8 +18477,9 @@
     ]
   },
   "whitland": {
-    "displayName": "Whitland",
+    "displayName": "Whitland - Hendy-gwyn ar Daf",
     "lines": [
+      "transportForWales",
       "greatWesternRailway"
     ]
   },
@@ -17336,6 +18607,12 @@
     "displayName": "Wigton",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "wildmill": {
+    "displayName": "Wildmill - Melin Wyllt",
+    "lines": [
+      "transportForWales"
     ]
   },
   "wilfordLane": {
@@ -17785,15 +19062,28 @@
       "southWesternRailway"
     ]
   },
+  "wrenbury": {
+    "displayName": "Wrenbury",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "wressle": {
     "displayName": "Wressle",
     "lines": [
       "northernTrains"
     ]
   },
-  "wrexhamGeneral": {
-    "displayName": "Wrexham General",
+  "wrexhamCentral": {
+    "displayName": "Wrexham Central - Wrecsam Canolog",
     "lines": [
+      "transportForWales"
+    ]
+  },
+  "wrexhamGeneral": {
+    "displayName": "Wrexham General - Wrecsam Cyffredinol",
+    "lines": [
+      "transportForWales",
       "avantiWestCoast"
     ]
   },
@@ -17877,6 +19167,12 @@
       "greatWesternRailway"
     ]
   },
+  "ynyswen": {
+    "displayName": "Ynyswen",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "yoker": {
     "displayName": "Yoker",
     "lines": [
@@ -17891,6 +19187,24 @@
       "transPennineExpress",
       "londonNorthEasternRailway",
       "northernTrains"
+    ]
+  },
+  "yorton": {
+    "displayName": "Yorton",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "ystradMynach": {
+    "displayName": "Ystrad Mynach",
+    "lines": [
+      "transportForWales"
+    ]
+  },
+  "ystradRhondda": {
+    "displayName": "Ystrad Rhondda",
+    "lines": [
+      "transportForWales"
     ]
   }
 }

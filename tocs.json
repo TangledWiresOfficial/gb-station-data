@@ -75,6 +75,10 @@
     "displayName": "Luton DART",
     "colour": "#d6ae00"
   },
+  "merseyrail": {
+    "displayName": "Merseyrail",
+    "colour": "#ffeb37"
+  },
   "northernTrains": {
     "displayName": "Northern",
     "colour": "#0f0d78"

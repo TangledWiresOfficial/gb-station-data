@@ -15458,12 +15458,7 @@
       "crossCountry",
       "eastMidlandsRailway",
       "transPennineExpress",
-      "northernTrains"
-    ]
-  },
-  "sheffieldStation": {
-    "displayName": "Sheffield Station",
-    "lines": [
+      "northernTrains",
       "stBlue",
       "stPurple"
     ]

@@ -327,6 +327,13 @@
       "southern"
     ]
   },
+  "arbourthorneRoad": {
+    "displayName": "Arbourthorne Road",
+    "lines": [
+      "stBlue",
+      "stPurple"
+    ]
+  },
   "arbroath": {
     "displayName": "Arbroath",
     "lines": [
@@ -376,6 +383,13 @@
     "displayName": "Arena",
     "lines": [
       "londonTrams"
+    ]
+  },
+  "arenaOlympicLegacyPark": {
+    "displayName": "Arena / Olympic Legacy Park",
+    "lines": [
+      "stTrain",
+      "stYellow"
     ]
   },
   "argyleStreet": {
@@ -522,6 +536,13 @@
       "eastMidlandsRailway"
     ]
   },
+  "attercliffe": {
+    "displayName": "Attercliffe",
+    "lines": [
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "attleborough": {
     "displayName": "Attleborough",
     "lines": [
@@ -649,6 +670,13 @@
     "displayName": "Bamford",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "bamforthStreet": {
+    "displayName": "Bamforth Street",
+    "lines": [
+      "stBlue",
+      "stYellow"
     ]
   },
   "banavie": {
@@ -1233,6 +1261,18 @@
     "lines": [
       "londonTrams",
       "southern"
+    ]
+  },
+  "birleyLane": {
+    "displayName": "Birley Lane",
+    "lines": [
+      "stBlue"
+    ]
+  },
+  "birleyMoorRoad": {
+    "displayName": "Birley Moor Road",
+    "lines": [
+      "stBlue"
     ]
   },
   "birminghamInternational": {
@@ -2097,6 +2137,13 @@
       "greaterAnglia"
     ]
   },
+  "carbrook": {
+    "displayName": "Carbrook",
+    "lines": [
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "cardenden": {
     "displayName": "Cardenden",
     "lines": [
@@ -2214,6 +2261,15 @@
       "southWesternRailway"
     ]
   },
+  "castleSquare": {
+    "displayName": "Castle Square",
+    "lines": [
+      "stBlue",
+      "stPurple",
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "castleford": {
     "displayName": "Castleford",
     "lines": [
@@ -2242,6 +2298,15 @@
     "displayName": "Cathcart",
     "lines": [
       "scotRail"
+    ]
+  },
+  "cathedral": {
+    "displayName": "Cathedral",
+    "lines": [
+      "stBlue",
+      "stPurple",
+      "stTrain",
+      "stYellow"
     ]
   },
   "catorLane": {
@@ -2557,6 +2622,13 @@
     "displayName": "Cinderhill",
     "lines": [
       "netPurple"
+    ]
+  },
+  "cityHall": {
+    "displayName": "City Hall",
+    "lines": [
+      "stBlue",
+      "stYellow"
     ]
   },
   "cityThameslink": {
@@ -2958,6 +3030,13 @@
       "scotRail"
     ]
   },
+  "cricketInnRoad": {
+    "displayName": "Cricket Inn Road",
+    "lines": [
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "cricklewood": {
     "displayName": "Cricklewood",
     "lines": [
@@ -3048,6 +3127,12 @@
     "lines": [
       "windrush",
       "southern"
+    ]
+  },
+  "crystalPeaksInterchange": {
+    "displayName": "Crystal Peaks Interchange",
+    "lines": [
+      "stBlue"
     ]
   },
   "cuffley": {
@@ -3335,6 +3420,12 @@
       "transPennineExpress"
     ]
   },
+  "donetskWay": {
+    "displayName": "Donetsk Way",
+    "lines": [
+      "stBlue"
+    ]
+  },
   "dorchesterSouth": {
     "displayName": "Dorchester South",
     "lines": [
@@ -3384,6 +3475,12 @@
     "lines": [
       "greaterAnglia",
       "greatNorthern"
+    ]
+  },
+  "drakeHouseLane": {
+    "displayName": "Drake House Lane",
+    "lines": [
+      "stBlue"
     ]
   },
   "draytonPark": {
@@ -4312,6 +4409,15 @@
       "eastMidlandsRailway"
     ]
   },
+  "fitzalanSquare": {
+    "displayName": "Fitzalan Square",
+    "lines": [
+      "stBlue",
+      "stPurple",
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "fleet": {
     "displayName": "Fleet",
     "lines": [
@@ -4618,6 +4724,13 @@
       "scotRail"
     ]
   },
+  "gleadlessTownend": {
+    "displayName": "Gleadless Townend",
+    "lines": [
+      "stBlue",
+      "stPurple"
+    ]
+  },
   "gleneagles": {
     "displayName": "Gleneagles",
     "lines": [
@@ -4779,6 +4892,13 @@
     "lines": [
       "eastMidlandsRailway",
       "hullTrains"
+    ]
+  },
+  "granvilleRoad": {
+    "displayName": "Granville Road",
+    "lines": [
+      "stBlue",
+      "stPurple"
     ]
   },
   "grateley": {
@@ -4982,6 +5102,12 @@
       "thameslink"
     ]
   },
+  "hackenthorpe": {
+    "displayName": "Hackenthorpe",
+    "lines": [
+      "stBlue"
+    ]
+  },
   "hackneyCentral": {
     "displayName": "Hackney Central",
     "lines": [
@@ -5041,6 +5167,12 @@
     "displayName": "Halesworth",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "halfway": {
+    "displayName": "Halfway",
+    "lines": [
+      "stBlue"
     ]
   },
   "halifax": {
@@ -5478,6 +5610,18 @@
       "northern"
     ]
   },
+  "herdingsLeightonRoad": {
+    "displayName": "Herdings/Leighton Road",
+    "lines": [
+      "stPurple"
+    ]
+  },
+  "herdingsPark": {
+    "displayName": "Herdings Park",
+    "lines": [
+      "stPurple"
+    ]
+  },
   "herneBay": {
     "displayName": "Herne Bay",
     "lines": [
@@ -5640,6 +5784,19 @@
       "scotRail"
     ]
   },
+  "hillsboroughInterchange": {
+    "displayName": "Hillsborough Interchange",
+    "lines": [
+      "stBlue",
+      "stYellow"
+    ]
+  },
+  "hillsboroughPark": {
+    "displayName": "Hillsborough Park",
+    "lines": [
+      "stYellow"
+    ]
+  },
   "hilsea": {
     "displayName": "Hilsea",
     "lines": [
@@ -5701,6 +5858,13 @@
     "displayName": "Hollingbourne",
     "lines": [
       "southeastern"
+    ]
+  },
+  "hollinsend": {
+    "displayName": "Hollinsend",
+    "lines": [
+      "stBlue",
+      "stPurple"
     ]
   },
   "hollowayRoad": {
@@ -5914,6 +6078,13 @@
       "southern"
     ]
   },
+  "hydePark": {
+    "displayName": "Hyde Park",
+    "lines": [
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "hydeParkCorner": {
     "displayName": "Hyde Park Corner",
     "lines": [
@@ -5989,6 +6160,13 @@
     "lines": [
       "mildmay",
       "southern"
+    ]
+  },
+  "infirmaryRoad": {
+    "displayName": "Infirmary Road",
+    "lines": [
+      "stBlue",
+      "stYellow"
     ]
   },
   "ingatestone": {
@@ -6627,6 +6805,13 @@
       "eastMidlandsRailway"
     ]
   },
+  "langsettPrimroseView": {
+    "displayName": "Langsett/Primrose View",
+    "lines": [
+      "stBlue",
+      "stYellow"
+    ]
+  },
   "langside": {
     "displayName": "Langside",
     "lines": [
@@ -6757,6 +6942,12 @@
     "displayName": "Lenzie",
     "lines": [
       "scotRail"
+    ]
+  },
+  "leppingsLane": {
+    "displayName": "Leppings Lane",
+    "lines": [
+      "stYellow"
     ]
   },
   "letchworthGardenCity": {
@@ -7212,6 +7403,12 @@
       "avantiWestCoast"
     ]
   },
+  "magna": {
+    "displayName": "Magna",
+    "lines": [
+      "stTrain"
+    ]
+  },
   "maidaVale": {
     "displayName": "Maida Vale",
     "lines": [
@@ -7247,6 +7444,12 @@
     "displayName": "Malden Manor",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "malinBridge": {
+    "displayName": "Malin Bridge",
+    "lines": [
+      "stBlue"
     ]
   },
   "mallaig": {
@@ -7323,6 +7526,13 @@
     "displayName": "Manor Park",
     "lines": [
       "elizabeth"
+    ]
+  },
+  "manorTop": {
+    "displayName": "Manor Top",
+    "lines": [
+      "stBlue",
+      "stPurple"
     ]
   },
   "manors": {
@@ -7492,6 +7702,19 @@
       "transPennineExpress"
     ]
   },
+  "meadowhallInterchange": {
+    "displayName": "Meadowhall Interchange",
+    "lines": [
+      "stYellow"
+    ]
+  },
+  "meadowhallSouthTinsley": {
+    "displayName": "Meadowhall South / Tinsley",
+    "lines": [
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "meadowsEmbankment": {
     "displayName": "Meadows Embankment",
     "lines": [
@@ -7576,6 +7799,12 @@
     "displayName": "Middlesbrough",
     "lines": [
       "transPennineExpress"
+    ]
+  },
+  "middlewood": {
+    "displayName": "Middlewood",
+    "lines": [
+      "stYellow"
     ]
   },
   "mileEnd": {
@@ -7778,6 +8007,12 @@
       "southWesternRailway"
     ]
   },
+  "mossWay": {
+    "displayName": "Moss Way",
+    "lines": [
+      "stBlue"
+    ]
+  },
   "mossley": {
     "displayName": "Mossley",
     "lines": [
@@ -7901,6 +8136,13 @@
     "displayName": "Netherfield",
     "lines": [
       "eastMidlandsRailway"
+    ]
+  },
+  "netherthorpeRoad": {
+    "displayName": "Netherthorpe Road",
+    "lines": [
+      "stBlue",
+      "stYellow"
     ]
   },
   "netley": {
@@ -8370,6 +8612,13 @@
       "thameslink"
     ]
   },
+  "nunnerySquare": {
+    "displayName": "Nunnery Square",
+    "lines": [
+      "stTrain",
+      "stYellow"
+    ]
+  },
   "nutbourne": {
     "displayName": "Nutbourne",
     "lines": [
@@ -8595,6 +8844,20 @@
       "crossCountry"
     ]
   },
+  "parkGrange": {
+    "displayName": "Park Grange",
+    "lines": [
+      "stBlue",
+      "stPurple"
+    ]
+  },
+  "parkGrangeCroft": {
+    "displayName": "Park Grange Croft",
+    "lines": [
+      "stBlue",
+      "stPurple"
+    ]
+  },
   "parkLane": {
     "displayName": "Park Lane",
     "lines": [
@@ -8605,6 +8868,12 @@
     "displayName": "Park Royal",
     "lines": [
       "piccadilly"
+    ]
+  },
+  "parkgate": {
+    "displayName": "Parkgate",
+    "lines": [
+      "stTrain"
     ]
   },
   "parkstoneDorset": {
@@ -9100,16 +9369,16 @@
       "southWesternRailway"
     ]
   },
-  "queensMedicalCentre": {
-    "displayName": "Queen's Medical Centre",
-    "lines": [
-      "netGreen"
-    ]
-  },
   "queenborough": {
     "displayName": "Queenborough",
     "lines": [
       "southeastern"
+    ]
+  },
+  "queensMedicalCentre": {
+    "displayName": "Queen's Medical Centre",
+    "lines": [
+      "netGreen"
     ]
   },
   "queensPark": {
@@ -9467,6 +9736,7 @@
   "rotherhamCentral": {
     "displayName": "Rotherham Central",
     "lines": [
+      "stTrain",
       "transPennineExpress"
     ]
   },
@@ -9832,6 +10102,13 @@
       "dlr"
     ]
   },
+  "shalesmoorForKelhamIsland": {
+    "displayName": "Shalesmoor for Kelham Island",
+    "lines": [
+      "stBlue",
+      "stYellow"
+    ]
+  },
   "shanklin": {
     "displayName": "Shanklin",
     "lines": [
@@ -9868,6 +10145,13 @@
       "crossCountry",
       "eastMidlandsRailway",
       "transPennineExpress"
+    ]
+  },
+  "sheffieldStation": {
+    "displayName": "Sheffield Station",
+    "lines": [
+      "stBlue",
+      "stPurple"
     ]
   },
   "shelfordCambs": {
@@ -10405,6 +10689,13 @@
     "displayName": "Spooner Row",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "springLane": {
+    "displayName": "Spring Lane",
+    "lines": [
+      "stBlue",
+      "stPurple"
     ]
   },
   "springburn": {
@@ -11567,6 +11858,13 @@
       "netGreen"
     ]
   },
+  "universityOfSheffield": {
+    "displayName": "University of Sheffield",
+    "lines": [
+      "stBlue",
+      "stYellow"
+    ]
+  },
   "uphall": {
     "displayName": "Uphall",
     "lines": [
@@ -11647,6 +11945,13 @@
     "lines": [
       "metropolitan",
       "piccadilly"
+    ]
+  },
+  "valleyCentertainment": {
+    "displayName": "Valley Centertainment",
+    "lines": [
+      "stTrain",
+      "stYellow"
     ]
   },
   "vauxhall": {
@@ -11931,6 +12236,12 @@
       "blackpoolTramway"
     ]
   },
+  "waterthorpe": {
+    "displayName": "Waterthorpe",
+    "lines": [
+      "stBlue"
+    ]
+  },
   "watford": {
     "displayName": "Watford",
     "lines": [
@@ -12193,10 +12504,17 @@
       "southeastern"
     ]
   },
-  "westStreet": {
-    "displayName": "West Street",
+  "westStreetGlasgow": {
+    "displayName": "West Street (Glasgow)",
     "lines": [
       "glasgowSubway"
+    ]
+  },
+  "westStreetSheffield": {
+    "displayName": "West Street (Sheffield)",
+    "lines": [
+      "stBlue",
+      "stYellow"
     ]
   },
   "westSutton": {
@@ -12281,6 +12599,12 @@
       "dlr"
     ]
   },
+  "westfield": {
+    "displayName": "Westfield",
+    "lines": [
+      "stBlue"
+    ]
+  },
   "westgateOnSea": {
     "displayName": "Westgate-on-Sea",
     "lines": [
@@ -12350,6 +12674,12 @@
     "lines": [
       "greaterAnglia",
       "weaver"
+    ]
+  },
+  "whiteLane": {
+    "displayName": "White Lane",
+    "lines": [
+      "stBlue"
     ]
   },
   "whiteNotley": {
@@ -12648,6 +12978,13 @@
     "displayName": "Wood Street",
     "lines": [
       "weaver"
+    ]
+  },
+  "woodbournRoad": {
+    "displayName": "Woodbourn Road",
+    "lines": [
+      "stTrain",
+      "stYellow"
     ]
   },
   "woodbridge": {

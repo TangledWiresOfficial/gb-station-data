@@ -272,6 +272,27 @@
       "lumo"
     ]
   },
+  "meNorthern": {
+    "displayName": "Northern Line (Merseyrail)",
+    "colour": "#0973b9",
+    "tocs": [
+      "merseyrail"
+    ]
+  },
+  "meWirral": {
+    "displayName": "Wirral Line (Merseyrail)",
+    "colour": "#097745",
+    "tocs": [
+      "merseyrail"
+    ]
+  },
+  "nightRiviera": {
+    "displayName": "Night Riviera Sleeper",
+    "colour": "#0a493e",
+    "tocs": [
+      "greatWesternRailway"
+    ]
+  },
   "northernTrains": {
     "displayName": "Northern",
     "colour": "#0f0d78",

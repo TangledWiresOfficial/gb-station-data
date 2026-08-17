@@ -508,13 +508,6 @@
       "southern"
     ]
   },
-  "arbourthorneRoad": {
-    "displayName": "Arbourthorne Road",
-    "lines": [
-      "stBlue",
-      "stPurple"
-    ]
-  },
   "appleford": {
     "displayName": "Appleford",
     "lines": [
@@ -531,6 +524,13 @@
     "displayName": "Apsley",
     "lines": [
       "londonNorthwesternRailway"
+    ]
+  },
+  "arbourthorneRoad": {
+    "displayName": "Arbourthorne Road",
+    "lines": [
+      "stBlue",
+      "stPurple"
     ]
   },
   "arbroath": {
@@ -1878,18 +1878,6 @@
       "southern"
     ]
   },
-  "birleyLane": {
-    "displayName": "Birley Lane",
-    "lines": [
-      "stBlue"
-    ]
-  },
-  "birleyMoorRoad": {
-    "displayName": "Birley Moor Road",
-    "lines": [
-      "stBlue"
-    ]
-  },
   "birkdale": {
     "displayName": "Birkdale",
     "lines": [
@@ -1912,6 +1900,18 @@
     "displayName": "Birkenhead Park",
     "lines": [
       "meWirral"
+    ]
+  },
+  "birleyLane": {
+    "displayName": "Birley Lane",
+    "lines": [
+      "stBlue"
+    ]
+  },
+  "birleyMoorRoad": {
+    "displayName": "Birley Moor Road",
+    "lines": [
+      "stBlue"
     ]
   },
   "birminghamInternational": {
@@ -3303,13 +3303,6 @@
       "greaterAnglia"
     ]
   },
-  "carbrook": {
-    "displayName": "Carbrook",
-    "lines": [
-      "stTrain",
-      "stYellow"
-    ]
-  },
   "capenhurst": {
     "displayName": "Capenhurst",
     "lines": [
@@ -3320,6 +3313,13 @@
     "displayName": "Carbis Bay",
     "lines": [
       "greatWesternRailway"
+    ]
+  },
+  "carbrook": {
+    "displayName": "Carbrook",
+    "lines": [
+      "stTrain",
+      "stYellow"
     ]
   },
   "cardenden": {
@@ -4629,17 +4629,17 @@
       "scotRail"
     ]
   },
+  "criccieth": {
+    "displayName": "Criccieth - Cricieth",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "cricketInnRoad": {
     "displayName": "Cricket Inn Road",
     "lines": [
       "stTrain",
       "stYellow"
-    ]
-  },
-  "criccieth": {
-    "displayName": "Criccieth - Cricieth",
-    "lines": [
-      "transportForWales"
     ]
   },
   "cricklewood": {
@@ -7773,16 +7773,16 @@
       "greaterAnglia"
     ]
   },
-  "halfway": {
-    "displayName": "Halfway",
-    "lines": [
-      "stBlue"
-    ]
-  },
   "halewood": {
     "displayName": "Halewood",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "halfway": {
+    "displayName": "Halfway",
+    "lines": [
+      "stBlue"
     ]
   },
   "halifax": {
@@ -8446,18 +8446,6 @@
       "northern"
     ]
   },
-  "herdingsLeightonRoad": {
-    "displayName": "Herdings/Leighton Road",
-    "lines": [
-      "stPurple"
-    ]
-  },
-  "herdingsPark": {
-    "displayName": "Herdings Park",
-    "lines": [
-      "stPurple"
-    ]
-  },
   "hengoed": {
     "displayName": "Hengoed",
     "lines": [
@@ -8480,6 +8468,18 @@
     "displayName": "Hensall",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "herdingsLeightonRoad": {
+    "displayName": "Herdings/Leighton Road",
+    "lines": [
+      "stPurple"
+    ]
+  },
+  "herdingsPark": {
+    "displayName": "Herdings Park",
+    "lines": [
+      "stPurple"
     ]
   },
   "hereford": {
@@ -9130,13 +9130,6 @@
       "southern"
     ]
   },
-  "hydePark": {
-    "displayName": "Hyde Park",
-    "lines": [
-      "stTrain",
-      "stYellow"
-    ]
-  },
   "huttonCranswick": {
     "displayName": "Hutton Cranswick",
     "lines": [
@@ -9159,6 +9152,13 @@
     "displayName": "Hyde North",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "hydePark": {
+    "displayName": "Hyde Park",
+    "lines": [
+      "stTrain",
+      "stYellow"
     ]
   },
   "hydeParkCorner": {
@@ -9244,13 +9244,6 @@
       "southern"
     ]
   },
-  "infirmaryRoad": {
-    "displayName": "Infirmary Road",
-    "lines": [
-      "stBlue",
-      "stYellow"
-    ]
-  },
   "inceAndEltonCheshire": {
     "displayName": "Ince & Elton (Cheshire)",
     "lines": [
@@ -9261,6 +9254,13 @@
     "displayName": "Ince (Manchester)",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "infirmaryRoad": {
+    "displayName": "Infirmary Road",
+    "lines": [
+      "stBlue",
+      "stYellow"
     ]
   },
   "ingatestone": {
@@ -10402,16 +10402,16 @@
       "scotRail"
     ]
   },
-  "leppingsLane": {
-    "displayName": "Leppings Lane",
-    "lines": [
-      "stYellow"
-    ]
-  },
   "leominster": {
     "displayName": "Leominster",
     "lines": [
       "transportForWales"
+    ]
+  },
+  "leppingsLane": {
+    "displayName": "Leppings Lane",
+    "lines": [
+      "stYellow"
     ]
   },
   "letchworthGardenCity": {
@@ -11387,17 +11387,17 @@
       "elizabeth"
     ]
   },
+  "manorRoad": {
+    "displayName": "Manor Road",
+    "lines": [
+      "meWirral"
+    ]
+  },
   "manorTop": {
     "displayName": "Manor Top",
     "lines": [
       "stBlue",
       "stPurple"
-    ]
-  },
-  "manorRoad": {
-    "displayName": "Manor Road",
-    "lines": [
-      "meWirral"
     ]
   },
   "manorbier": {
@@ -11783,19 +11783,14 @@
   "middlewood": {
     "displayName": "Middlewood",
     "lines": [
-      "northernTrains"
+      "northernTrains",
+      "stYellow"
     ]
   },
   "midgham": {
     "displayName": "Midgham",
     "lines": [
       "greatWesternRailway"
-    ]
-  },
-  "middlewood": {
-    "displayName": "Middlewood",
-    "lines": [
-      "stYellow"
     ]
   },
   "mileEnd": {
@@ -12113,12 +12108,6 @@
       "southWesternRailway"
     ]
   },
-  "mossWay": {
-    "displayName": "Moss Way",
-    "lines": [
-      "stBlue"
-    ]
-  },
   "moseleyVillage": {
     "displayName": "Moseley Village",
     "lines": [
@@ -12135,6 +12124,12 @@
     "displayName": "Moss Side",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "mossWay": {
+    "displayName": "Moss Way",
+    "lines": [
+      "stBlue"
     ]
   },
   "mossley": {
@@ -13362,16 +13357,16 @@
       "piccadilly"
     ]
   },
-  "parkgate": {
-    "displayName": "Parkgate",
-    "lines": [
-      "stTrain"
-    ]
-  },
   "parkStreet": {
     "displayName": "Park Street",
     "lines": [
       "londonNorthwesternRailway"
+    ]
+  },
+  "parkgate": {
+    "displayName": "Parkgate",
+    "lines": [
+      "stTrain"
     ]
   },
   "parkstoneDorset": {
@@ -14213,14 +14208,6 @@
       "southWesternRailway"
     ]
   },
-  "queenborough": {
-    "displayName": "Queenborough",
-    "lines": [
-      "southeastern"
-    ]
-  },
-  "queensMedicalCentre": {
-    "displayName": "Queen's Medical Centre",
   "pwllheli": {
     "displayName": "Pwllheli",
     "lines": [
@@ -17939,17 +17926,17 @@
       "netGreen"
     ]
   },
-  "universityofNottingham": {
-    "displayName": "University of Nottingham",
-    "lines": [
-      "netGreen"
-    ]
-  },
   "universityOfSheffield": {
     "displayName": "University of Sheffield",
     "lines": [
       "stBlue",
       "stYellow"
+    ]
+  },
+  "universityofNottingham": {
+    "displayName": "University of Nottingham",
+    "lines": [
+      "netGreen"
     ]
   },
   "uphall": {
@@ -18048,17 +18035,17 @@
       "piccadilly"
     ]
   },
+  "valley": {
+    "displayName": "Valley - Y Dyffryn",
+    "lines": [
+      "transportForWales"
+    ]
+  },
   "valleyCentertainment": {
     "displayName": "Valley Centertainment",
     "lines": [
       "stTrain",
       "stYellow"
-    ]
-  },
-  "valley": {
-    "displayName": "Valley - Y Dyffryn",
-    "lines": [
-      "transportForWales"
     ]
   },
   "vauxhall": {

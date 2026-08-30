@@ -122,5 +122,9 @@
   "westMidlandsTrains": {
     "displayName": "West Midlands Trains",
     "colour": "#e07709"
+  },
+  "metrolink": {
+    "displayName": "Manchester Metrolink",
+    "colour": "#FFDC44"
   }
 }

@@ -765,7 +765,7 @@
       "southWesternRailway"
     ]
   },
-  "ashton-under-lyne(metrolink)": {
+  "ashtonUnderLyneMetrolink": {
     "displayName": "Ashton-under-Lyne (Metrolink)",
     "lines": [
       "mmLightBlue"
@@ -1791,7 +1791,7 @@
       "westMidlandsRailway"
     ]
   },
-  "bessesO'Th'Barn": {
+  "bessesOThBarn": {
     "displayName": "Besses o' th' Barn",
     "lines": [
       "mmGreen",
@@ -5229,7 +5229,7 @@
       "northernTrains"
     ]
   },
-  "deansgate-castlefield": {
+  "deansgateCastlefield": {
     "displayName": "Deansgate-Castlefield",
     "lines": [
       "mmLightBlue",
@@ -5909,7 +5909,7 @@
       "northernTrains"
     ]
   },
-  "eastDidsbury(metrolink)": {
+  "eastDidsburyMetrolink": {
     "displayName": "East Didsbury (Metrolink)",
     "lines": [
       "mmPink",
@@ -6066,7 +6066,7 @@
       "transportForWales"
     ]
   },
-  "eccles(metrolink)": {
+  "ecclesMetrolink": {
     "displayName": "Eccles (Metrolink)",
     "lines": [
       "mmLightBlue"
@@ -11633,7 +11633,7 @@
     "lines": [
       "transPennineExpress",
       "northernTrains",
-      "mmblue"
+      "mmBlue"
     ]
   },
   "manchesterOxfordRoad": {
@@ -15161,7 +15161,7 @@
       "northernTrains"
     ]
   },
-  "rochdale(metrolink)": {
+  "rochdaleMetrolink": {
     "displayName": "Rochdale (Metrolink)",
     "lines": [
       "mmPink"
@@ -16207,7 +16207,7 @@
   "shudehill": {
     "displayName": "Shudehill",
     "lines": [
-      "mmblue",
+      "mmBlue",
       "mmGreen",
       "mmYellow"
     ]
@@ -16977,7 +16977,7 @@
       "central"
     ]
   },
-  "stPeter'sSquare": {
+  "stPetersSquare": {
     "displayName": "St Peter's Square",
     "lines": [
       "mmLightBlue",
@@ -16995,7 +16995,7 @@
       "twGreen"
     ]
   },
-  "stWerburgh'sRoad": {
+  "stWerburghsRoad": {
     "displayName": "St Werburgh's Road",
     "lines": [
       "mmGrey",
@@ -17414,7 +17414,7 @@
     "displayName": "Stretford",
     "lines": [
       "mmGreen",
-      ""
+      "mmPurple"
     ]
   },
   "strines": {
@@ -18656,7 +18656,7 @@
       "blackpoolTramway"
     ]
   },
-  "village(manchester)": {
+  "villageManchester": {
     "displayName": "Village (Manchester)",
     "lines": [
       "mmRed"

@@ -39,8 +39,8 @@
     "displayName": "Glasgow Subway",
     "colour": "#FF6200"
   },
-  "goviaThameslinkRailway": {
-    "displayName": "Govia Thameslink Railway",
+  "greaterThameslinkRailway": {
+    "displayName": "Greater Thameslink Railway",
     "colour": "#ff5aa4"
   },
   "grandCentral": {

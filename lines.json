@@ -199,7 +199,7 @@
     "displayName": "Gatwick Express",
     "colour": "#eb1e2d",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "grandCentral": {
@@ -213,7 +213,7 @@
     "displayName": "Great Northern",
     "colour": "#00ABE6",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "greatWesternRailway": {
@@ -346,7 +346,7 @@
     "displayName": "Southern",
     "colour": "#8cc63e",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "stanstedExpress": {
@@ -388,7 +388,7 @@
     "displayName": "Thameslink",
     "colour": "#ff5aa4",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "transPennineExpress": {

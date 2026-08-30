@@ -199,7 +199,7 @@
     "displayName": "Gatwick Express",
     "colour": "#eb1e2d",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "grandCentral": {
@@ -213,7 +213,7 @@
     "displayName": "Great Northern",
     "colour": "#00ABE6",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "greatWesternRailway": {
@@ -346,7 +346,7 @@
     "displayName": "Southern",
     "colour": "#8cc63e",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "stanstedExpress": {
@@ -388,7 +388,7 @@
     "displayName": "Thameslink",
     "colour": "#ff5aa4",
     "tocs": [
-      "goviaThameslinkRailway"
+      "greaterThameslinkRailway"
     ]
   },
   "transPennineExpress": {
@@ -452,6 +452,62 @@
     "colour": "#d6ae00",
     "tocs": [
       "lutonDart"
+    ]
+  },
+  "mmGreen": {
+    "displayName": "Altringham - Bury (Metrolink)",
+    "colour": "#009640",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmPurple": {
+    "displayName": "Altringham - Etihad Campus (Metrolink)",
+    "colour": "#5F2C74",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmLightBlue": {
+    "displayName": "Ashton-under-Lyne - Eccles (Metrolink)",
+    "colour": "#5FC0EB",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmYellow": {
+    "displayName": "Bury - Picadilly (Metrolink)",
+    "colour": "#FDC400",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmPink": {
+    "displayName": "East Didsbury - Rochdale Town Centre (Metrolink)",
+    "colour": "#EF87B5",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmGrey": {
+    "displayName": "East Didsbury - Shaw and Compton (Metrolink)",
+    "colour": "#313D47",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmRed": {
+    "displayName": "The Trafford Centre - Crumpsall (Metrolink)",
+    "colour": "#E30513",
+    "tocs": [
+      "metrolink"
+    ]
+  },
+  "mmBlue": {
+    "displayName": "Manchester Airport - Victoria (Metrolink)",
+    "colour": "#005FA8",
+    "tocs": [
+      "metrolink"
     ]
   }
 }

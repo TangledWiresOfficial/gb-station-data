@@ -126,5 +126,10 @@
   "metrolink": {
     "displayName": "Manchester Metrolink",
     "colour": "#FFDC44"
+  },
+  "wmMetro": {
+    "displayName": "West Midlands Metro",
+    "colour": "#0075C9"
   }
 }
+

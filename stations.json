@@ -77,13 +77,13 @@
     ]
   },
   "abrahamMoss": {
-  "displayName": "Abraham Moss",
-  "lines": [
-    "mmGreen",
-    "mmYellow",
-    "mmRed"
-  ]
-},
+    "displayName": "Abraham Moss",
+    "lines": [
+      "mmGreen",
+      "mmYellow",
+      "mmRed"
+    ]
+  },
   "accrington": {
     "displayName": "Accrington",
     "lines": [
@@ -245,6 +245,12 @@
     "displayName": "Albany Park",
     "lines": [
       "southeastern"
+    ]
+  },
+  "albertStreet": {
+    "displayName": "Albert Street",
+    "lines": [
+      "wmMetro"
     ]
   },
   "albrighton": {
@@ -765,14 +771,14 @@
       "southWesternRailway"
     ]
   },
-  "ashtonUnderLyneMetrolink": {
-    "displayName": "Ashton-under-Lyne (Metrolink)",
+  "ashtonMoss": {
+    "displayName": "Ashton Moss",
     "lines": [
       "mmLightBlue"
     ]
   },
-  "ashtonMoss": {
-    "displayName": "Ashton Moss",
+  "ashtonUnderLyneMetrolink": {
+    "displayName": "Ashton-under-Lyne (Metrolink)",
     "lines": [
       "mmLightBlue"
     ]
@@ -1903,6 +1909,12 @@
       "southern"
     ]
   },
+  "bilstonCentral": {
+    "displayName": "Bilston Central",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "bingham": {
     "displayName": "Bingham",
     "lines": [
@@ -2460,6 +2472,12 @@
       "islandLine"
     ]
   },
+  "bradleyLane": {
+    "displayName": "Bradley Lane",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "braintree": {
     "displayName": "Braintree",
     "lines": [
@@ -2655,6 +2673,12 @@
     "displayName": "Brimsdown",
     "lines": [
       "greaterAnglia"
+    ]
+  },
+  "brindleyplace": {
+    "displayName": "Brindleyplace",
+    "lines": [
+      "wmMetro"
     ]
   },
   "brinnington": {
@@ -2956,6 +2980,12 @@
     "displayName": "Builth Road - Heol Llanfair-ym-Muallt",
     "lines": [
       "transportForWales"
+    ]
+  },
+  "bullStreet": {
+    "displayName": "Bull Street",
+    "lines": [
+      "wmMetro"
     ]
   },
   "bulwell": {
@@ -4566,6 +4596,12 @@
       "scotRail"
     ]
   },
+  "corporationStreet": {
+    "displayName": "Corporation Street",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "corrour": {
     "displayName": "Corrour",
     "lines": [
@@ -5166,6 +5202,12 @@
       "thameslink"
     ]
   },
+  "dartmouthStreet": {
+    "displayName": "Dartmouth Street",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "darton": {
     "displayName": "Darton",
     "lines": [
@@ -5662,6 +5704,12 @@
       "westMidlandsRailway"
     ]
   },
+  "dudleyStreet": {
+    "displayName": "Dudley Street",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "duffield": {
     "displayName": "Duffield",
     "lines": [
@@ -6066,16 +6114,16 @@
       "transportForWales"
     ]
   },
-  "ecclesMetrolink": {
-    "displayName": "Eccles (Metrolink)",
-    "lines": [
-      "mmLightBlue"
-    ]
-  },
   "ecclesManchester": {
     "displayName": "Eccles (Manchester)",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "ecclesMetrolink": {
+    "displayName": "Eccles (Metrolink)",
+    "lines": [
+      "mmLightBlue"
     ]
   },
   "ecclesRoad": {
@@ -6114,6 +6162,12 @@
     "displayName": "Edenbridge Town",
     "lines": [
       "southern"
+    ]
+  },
+  "edgbastonVillage": {
+    "displayName": "Edgbaston Village",
+    "lines": [
+      "wmMetro"
     ]
   },
   "edgeHill": {
@@ -6895,8 +6949,14 @@
       "northernTrains"
     ]
   },
+  "fiveWaysMetro": {
+    "displayName": "Five Ways (Metro)",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "fiveWays": {
-    "displayName": "Five Ways",
+    "displayName": "Five Ways (Rail)",
     "lines": [
       "westMidlandsRailway"
     ]
@@ -7604,6 +7664,12 @@
       "eastMidlandsRailway"
     ]
   },
+  "grandCentral": {
+    "displayName": "Grand Central",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "grangeHill": {
     "displayName": "Grange Hill",
     "lines": [
@@ -8190,6 +8256,12 @@
     "displayName": "Handforth",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "handsworth": {
+    "displayName": "handsworth",
+    "lines": [
+      "wmMetro"
     ]
   },
   "hangerLane": {
@@ -9704,7 +9776,8 @@
     "displayName": "Jewellery Quarter",
     "lines": [
       "westMidlandsRailway",
-      "chiltern"
+      "chiltern",
+      "wmMetro"
     ]
   },
   "johnstonPembs": {
@@ -9838,6 +9911,12 @@
     "displayName": "Kennishead",
     "lines": [
       "scotRail"
+    ]
+  },
+  "kenrickPark": {
+    "displayName": "Kenrick Park",
+    "lines": [
+      "wmMetro"
     ]
   },
   "kensalGreen": {
@@ -10788,6 +10867,12 @@
       "suffragette"
     ]
   },
+  "library": {
+    "displayName": "Library",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "lichfieldTrentValley": {
     "displayName": "Lichfield Trent Valley",
     "lines": [
@@ -11216,6 +11301,12 @@
       "northernTrains"
     ]
   },
+  "lodgeRoad": {
+    "displayName": "Lodge Road",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "londonBlackfriars": {
     "displayName": "London Blackfriars",
     "lines": [
@@ -11436,6 +11527,12 @@
     "displayName": "Lowther Avenue",
     "lines": [
       "blackpoolTramway"
+    ]
+  },
+  "loxdale": {
+    "displayName": "Loxdale",
+    "lines": [
+      "wmMetro"
     ]
   },
   "ludlow": {
@@ -14176,6 +14273,12 @@
       "metropolitan"
     ]
   },
+  "pipersRow": {
+    "displayName": "Pipers Row",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "pitlochry": {
     "displayName": "Pitlochry",
     "lines": [
@@ -14582,6 +14685,12 @@
     "displayName": "Prestwick Town",
     "lines": [
       "scotRail"
+    ]
+  },
+  "priestfield": {
+    "displayName": "Priestfield",
+    "lines": [
+      "wmMetro"
     ]
   },
   "priesthillAndDarnley": {
@@ -16395,6 +16504,12 @@
       "greaterAnglia"
     ]
   },
+  "soho": {
+    "displayName": "Soho",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "soleStreet": {
     "displayName": "Sole Street",
     "lines": [
@@ -16812,6 +16927,12 @@
       "greatWesternRailway"
     ]
   },
+  "stChads": {
+    "displayName": "St Chads",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "stChadsRoad": {
     "displayName": "St Chad's Road",
     "lines": [
@@ -16971,10 +17092,22 @@
       "eastMidlandsRailway"
     ]
   },
+  "stPaulsBirmingham": {
+    "displayName": "St Paul's (Birmingham)",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "stPauls": {
     "displayName": "St Paul's",
     "lines": [
       "central"
+    ]
+  },
+  "stPeters": {
+    "displayName": "St Peter's",
+    "lines": [
+      "twGreen"
     ]
   },
   "stPetersSquare": {
@@ -16987,12 +17120,6 @@
       "mmPink",
       "mmGrey",
       "mmRed"
-    ]
-  },
-  "stPeters": {
-    "displayName": "St Peter's",
-    "lines": [
-      "twGreen"
     ]
   },
   "stWerburghsRoad": {
@@ -17843,6 +17970,12 @@
       "northernTrains"
     ]
   },
+  "theCrescent": {
+    "displayName": "The Crescent",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "theForest": {
     "displayName": "The Forest",
     "lines": [
@@ -17854,13 +17987,20 @@
     "displayName": "The Hawthorns",
     "lines": [
       "westMidlandsRailway",
-      "chiltern"
+      "chiltern",
+      "wmMetro"
     ]
   },
   "theLakes": {
     "displayName": "The Lakes",
     "lines": [
       "westMidlandsRailway"
+    ]
+  },
+  "theRoyal": {
+    "displayName": "The Royal",
+    "lines": [
+      "wmMetro"
     ]
   },
   "theShore": {
@@ -18223,6 +18363,12 @@
       "meNorthern"
     ]
   },
+  "townHall": {
+    "displayName": "Town Hall",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "traffordBar": {
     "displayName": "Trafford Bar",
     "lines": [
@@ -18285,6 +18431,12 @@
     "displayName": "Tring",
     "lines": [
       "londonNorthwesternRailway"
+    ]
+  },
+  "trinityWay": {
+    "displayName": "Trinity Way",
+    "lines": [
+      "wmMetro"
     ]
   },
   "troed": {
@@ -19058,6 +19210,18 @@
       "mmLightBlue"
     ]
   },
+  "wednesbury": {
+    "displayName": "Wednesbury",
+    "lines": [
+      "wmMetro"
+    ]
+  },
+  "wednesburyParkway": {
+    "displayName": "Wednesbury Parkway",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "weeley": {
     "displayName": "Weeley",
     "lines": [
@@ -19175,6 +19339,12 @@
     "displayName": "West Allerton",
     "lines": [
       "northernTrains"
+    ]
+  },
+  "westBromwich": {
+    "displayName": "West Bromwich",
+    "lines": [
+      "wmMetro"
     ]
   },
   "westByfleet": {
@@ -19937,6 +20107,12 @@
       "londonNorthwesternRailway"
     ]
   },
+  "winsonGreen": {
+    "displayName": "Winson Green",
+    "lines": [
+      "wmMetro"
+    ]
+  },
   "wishaw": {
     "displayName": "Wishaw",
     "lines": [
@@ -20013,6 +20189,18 @@
       "avantiWestCoast",
       "londonNorthwesternRailway",
       "westMidlandsRailway"
+    ]
+  },
+  "wolverhamptonStGeorges": {
+    "displayName": "Wolverhampton St George's",
+    "lines": [
+      "wmMetro"
+    ]
+  },
+  "wolverhamptonStation": {
+    "displayName": "Wolverhampton Station",
+    "lines": [
+      "wmMetro"
     ]
   },
   "wolverton": {

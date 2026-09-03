@@ -509,5 +509,12 @@
     "tocs": [
       "metrolink"
     ]
+  },
+  "wmMetro": {
+    "displayName": "West Midlands Metro",
+    "colour": "#0075C9",
+    "tocs": [
+      "wmMetro"
+    ]
   }
 }

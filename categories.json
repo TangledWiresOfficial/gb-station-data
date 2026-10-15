@@ -1,0 +1,20 @@
+{
+    "heavyRail": {
+        "displayName": "Heavy Rail"
+    },
+    "metro": {
+        "displayName": "Metro"
+    },
+    "lightRail": {
+        "displayName": "Light Rail"
+    },
+    "heritage": {
+        "displayName": "Heritage Lines"
+    },
+    "trams": {
+        "displayName": "Trams"
+    },
+    "other": {
+        "displayName": "Other"
+    }
+}

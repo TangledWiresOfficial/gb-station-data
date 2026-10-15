@@ -2,6 +2,7 @@
   "bakerloo": {
     "displayName": "Bakerloo Line",
     "colour": "#a45a2a",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -9,6 +10,7 @@
   "central": {
     "displayName": "Central Line",
     "colour": "#da291c",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -16,6 +18,7 @@
   "circle": {
     "displayName": "Circle Line",
     "colour": "#ffcd00",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -23,6 +26,7 @@
   "district": {
     "displayName": "District Line",
     "colour": "#007a33",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -30,6 +34,7 @@
   "hammersmithAndCity": {
     "displayName": "Hammersmith & City Line",
     "colour": "#e89cae",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -37,6 +42,7 @@
   "jubilee": {
     "displayName": "Jubilee Line",
     "colour": "#7c878e",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -44,6 +50,7 @@
   "metropolitan": {
     "displayName": "Metropolitan Line",
     "colour": "#840b55",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -51,6 +58,7 @@
   "northern": {
     "displayName": "Northern Line",
     "colour": "#000000",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -58,6 +66,7 @@
   "piccadilly": {
     "displayName": "Piccadilly Line",
     "colour": "#10069f",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -65,6 +74,7 @@
   "victoria": {
     "displayName": "Victoria Line",
     "colour": "#00a3e0",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -72,6 +82,7 @@
   "waterlooAndCity": {
     "displayName": "Waterloo & City Line",
     "colour": "#6eceb2",
+    "category": "metro",
     "tocs": [
       "tfl"
     ]
@@ -79,6 +90,7 @@
   "elizabeth": {
     "displayName": "Elizabeth Line",
     "colour": "#6950a1",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -86,6 +98,7 @@
   "dlr": {
     "displayName": "DLR",
     "colour": "#00afad",
+    "category": "lightRail",
     "tocs": [
       "tfl"
     ]
@@ -93,6 +106,7 @@
   "londonTrams": {
     "displayName": "London Trams",
     "colour": "#5fb526",
+    "category": "trams",
     "tocs": [
       "tfl"
     ]
@@ -100,6 +114,7 @@
   "cableCar": {
     "displayName": "London Cable Car",
     "colour": "#DC241F",
+    "category": "other",
     "tocs": [
       "tfl"
     ]
@@ -107,6 +122,7 @@
   "liberty": {
     "displayName": "Liberty Line",
     "colour": "#5d6061",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -114,6 +130,7 @@
   "lioness": {
     "displayName": "Lioness Line",
     "colour": "#faa61a",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -121,6 +138,7 @@
   "mildmay": {
     "displayName": "Mildmay Line",
     "colour": "#0077ad",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -128,6 +146,7 @@
   "suffragette": {
     "displayName": "Suffragette Line",
     "colour": "#5bb972",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -135,6 +154,7 @@
   "weaver": {
     "displayName": "Weaver Line",
     "colour": "#823a62",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -142,6 +162,7 @@
   "windrush": {
     "displayName": "Windrush Line",
     "colour": "#ed1b00",
+    "category": "heavyRail",
     "tocs": [
       "tfl"
     ]
@@ -149,6 +170,7 @@
   "avantiWestCoast": {
     "displayName": "Avanti West Coast",
     "colour": "#004354",
+    "category": "heavyRail",
     "tocs": [
       "avantiWestCoast"
     ]
@@ -156,6 +178,7 @@
   "c2c": {
     "displayName": "c2c",
     "colour": "#b7007c",
+    "category": "heavyRail",
     "tocs": [
       "c2c"
     ]
@@ -163,6 +186,7 @@
   "csLowlander": {
     "displayName": "Lowlander Sleeper",
     "colour": "#b26734",
+    "category": "heavyRail",
     "tocs": [
       "caledonianSleeper"
     ]
@@ -170,6 +194,7 @@
   "csHighlander": {
     "displayName": "Highlander Sleeper",
     "colour": "#006984",
+    "category": "heavyRail",
     "tocs": [
       "caledonianSleeper"
     ]
@@ -177,6 +202,7 @@
   "chiltern": {
     "displayName": "Chiltern Railways",
     "colour": "#00bfff",
+    "category": "heavyRail",
     "tocs": [
       "chiltern"
     ]
@@ -184,6 +210,7 @@
   "crossCountry": {
     "displayName": "Cross Country",
     "colour": "#660f21",
+    "category": "heavyRail",
     "tocs": [
       "crossCountry"
     ]
@@ -191,6 +218,7 @@
   "eastMidlandsRailway": {
     "displayName": "East Midlands Railway",
     "colour": "#713563",
+    "category": "heavyRail",
     "tocs": [
       "eastMidlandsRailway"
     ]
@@ -198,6 +226,7 @@
   "gatwickExpress": {
     "displayName": "Gatwick Express",
     "colour": "#eb1e2d",
+    "category": "heavyRail",
     "tocs": [
       "greaterThameslinkRailway"
     ]
@@ -205,6 +234,7 @@
   "grandCentral": {
     "displayName": "Grand Central",
     "colour": "#1d1d1b",
+    "category": "heavyRail",
     "tocs": [
       "grandCentral"
     ]
@@ -212,6 +242,7 @@
   "greatNorthern": {
     "displayName": "Great Northern",
     "colour": "#00ABE6",
+    "category": "heavyRail",
     "tocs": [
       "greaterThameslinkRailway"
     ]
@@ -219,6 +250,7 @@
   "greatWesternRailway": {
     "displayName": "Great Western Railway",
     "colour": "#0a493e",
+    "category": "heavyRail",
     "tocs": [
       "greatWesternRailway"
     ]
@@ -226,6 +258,7 @@
   "greaterAnglia": {
     "displayName": "Greater Anglia",
     "colour": "#d70428",
+    "category": "heavyRail",
     "tocs": [
       "greaterAnglia"
     ]
@@ -233,6 +266,7 @@
   "heathrowExpress": {
     "displayName": "Heathrow Express",
     "colour": "#532e63",
+    "category": "heavyRail",
     "tocs": [
       "heathrowExpress"
     ]
@@ -240,6 +274,7 @@
   "hullTrains": {
     "displayName": "Hull Trains",
     "colour": "#cc0066",
+    "category": "heavyRail",
     "tocs": [
       "hullTrains"
     ]
@@ -247,6 +282,7 @@
   "islandLine": {
     "displayName": "Island Line",
     "colour": "#1e90ff",
+    "category": "heavyRail",
     "tocs": [
       "southWesternRailway"
     ]
@@ -254,6 +290,7 @@
   "londonNorthEasternRailway": {
     "displayName": "London North Eastern Railway",
     "colour": "#ce0e2d",
+    "category": "heavyRail",
     "tocs": [
       "londonNorthEasternRailway"
     ]
@@ -261,6 +298,7 @@
   "londonNorthwesternRailway": {
     "displayName": "London Northwestern Railway",
     "colour": "#00bf6f",
+    "category": "heavyRail",
     "tocs": [
       "westMidlandsTrains"
     ]
@@ -268,6 +306,7 @@
   "lumo": {
     "displayName": "Lumo",
     "colour": "#2b6ef5",
+    "category": "heavyRail",
     "tocs": [
       "lumo"
     ]
@@ -275,6 +314,7 @@
   "meNorthern": {
     "displayName": "Northern Line (Merseyrail)",
     "colour": "#0973b9",
+    "category": "metro",
     "tocs": [
       "merseyrail"
     ]
@@ -282,6 +322,7 @@
   "meWirral": {
     "displayName": "Wirral Line (Merseyrail)",
     "colour": "#097745",
+    "category": "metro",
     "tocs": [
       "merseyrail"
     ]
@@ -289,6 +330,7 @@
   "nightRiviera": {
     "displayName": "Night Riviera Sleeper",
     "colour": "#0a493e",
+    "category": "heavyRail",
     "tocs": [
       "greatWesternRailway"
     ]
@@ -296,6 +338,7 @@
   "northernTrains": {
     "displayName": "Northern",
     "colour": "#0f0d78",
+    "category": "heavyRail",
     "tocs": [
       "northernTrains"
     ]
@@ -303,6 +346,7 @@
   "netGreen": {
     "displayName": "NET Green Line",
     "colour": "#45BB59",
+    "category": "metro",
     "tocs": [
       "nottinghamExpressTransit"
     ]
@@ -310,6 +354,7 @@
   "netPurple": {
     "displayName": "NET Purple Line",
     "colour": "#7A54AF",
+    "category": "metro",
     "tocs": [
       "nottinghamExpressTransit"
     ]
@@ -317,6 +362,7 @@
   "scotRail": {
     "displayName": "ScotRail",
     "colour": "#1e467d",
+    "category": "heavyRail",
     "tocs": [
       "scotRail"
     ]
@@ -324,6 +370,7 @@
   "southWesternRailway": {
     "displayName": "South Western Railway",
     "colour": "#24398c",
+    "category": "heavyRail",
     "tocs": [
       "southWesternRailway"
     ]
@@ -331,6 +378,7 @@
   "southeastern": {
     "displayName": "Southeastern",
     "colour": "#389cff",
+    "category": "heavyRail",
     "tocs": [
       "southeastern"
     ]
@@ -338,6 +386,7 @@
   "southeasternHighSpeed": {
     "displayName": "Southeastern High Speed",
     "colour": "#1e1e50",
+    "category": "heavyRail",
     "tocs": [
       "southeastern"
     ]
@@ -345,6 +394,7 @@
   "southern": {
     "displayName": "Southern",
     "colour": "#8cc63e",
+    "category": "heavyRail",
     "tocs": [
       "greaterThameslinkRailway"
     ]
@@ -352,6 +402,7 @@
   "stanstedExpress": {
     "displayName": "Stansted Express",
     "colour": "#6b717a",
+    "category": "heavyRail",
     "tocs": [
       "greaterAnglia"
     ]
@@ -359,6 +410,7 @@
   "stBlue": {
     "displayName": "Blue (Supertram)",
     "colour": "#005288",
+    "category": "metro",
     "tocs": [
       "sheffieldSupertram"
     ]
@@ -366,6 +418,7 @@
   "stPurple": {
     "displayName": "Purple (Supertram)",
     "colour": "#852275",
+    "category": "metro",
     "tocs": [
       "sheffieldSupertram"
     ]
@@ -373,6 +426,7 @@
   "stTrain": {
     "displayName": "Tram Train (Supertram)",
     "colour": "#3e3e40",
+    "category": "metro",
     "tocs": [
       "sheffieldSupertram"
     ]
@@ -380,6 +434,7 @@
   "stYellow": {
     "displayName": "Yellow (Supertram)",
     "colour": "#fcb925",
+    "category": "metro",
     "tocs": [
       "sheffieldSupertram"
     ]
@@ -387,6 +442,7 @@
   "thameslink": {
     "displayName": "Thameslink",
     "colour": "#ff5aa4",
+    "category": "heavyRail",
     "tocs": [
       "greaterThameslinkRailway"
     ]
@@ -394,6 +450,7 @@
   "transPennineExpress": {
     "displayName": "TransPennine Express",
     "colour": "#09a4ec",
+    "category": "heavyRail",
     "tocs": [
       "transPennineExpress"
     ]
@@ -401,6 +458,7 @@
   "transportForWales": {
     "displayName": "Transport for Wales",
     "colour": "#ff0000",
+    "category": "heavyRail",
     "tocs": [
       "transportForWales"
     ]
@@ -408,6 +466,7 @@
   "twGreen": {
     "displayName": " Green Line (Tyne & Wear)",
     "colour": "#2bb457",
+    "category": "metro",
     "tocs": [
       "tyneAndWearMetro"
     ]
@@ -415,6 +474,7 @@
   "twYellow": {
     "displayName": "Yellow Line (Tyne & Wear)",
     "colour": "#fcb929",
+    "category": "metro",
     "tocs": [
       "tyneAndWearMetro"
     ]
@@ -422,6 +482,7 @@
   "westMidlandsRailway": {
     "displayName": "West Midlands Railway",
     "colour": "#ff8300",
+    "category": "heavyRail",
     "tocs": [
       "westMidlandsTrains"
     ]
@@ -429,6 +490,7 @@
   "blackpoolTramway": {
     "displayName": "Blackpool Tramway",
     "colour": "#56004E",
+    "category": "trams",
     "tocs": [
       "blackpoolTramway"
     ]
@@ -436,6 +498,7 @@
   "edinburghTrams": {
     "displayName": "Edinburgh Trams",
     "colour": "#8D181B",
+    "category": "trams",
     "tocs": [
       "edinburghTrams"
     ]
@@ -443,6 +506,7 @@
   "glasgowSubway": {
     "displayName": "Glasgow Subway",
     "colour": "#FF6200",
+    "category": "metro",
     "tocs": [
       "glasgowSubway"
     ]
@@ -450,6 +514,7 @@
   "lutonDart": {
     "displayName": "Luton DART",
     "colour": "#d6ae00",
+    "category": "lightRail",
     "tocs": [
       "lutonDart"
     ]
@@ -457,6 +522,7 @@
   "mmGreen": {
     "displayName": "Altringham - Bury (Metrolink)",
     "colour": "#009640",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -464,6 +530,7 @@
   "mmPurple": {
     "displayName": "Altringham - Etihad Campus (Metrolink)",
     "colour": "#5F2C74",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -471,6 +538,7 @@
   "mmLightBlue": {
     "displayName": "Ashton-under-Lyne - Eccles (Metrolink)",
     "colour": "#5FC0EB",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -478,6 +546,7 @@
   "mmYellow": {
     "displayName": "Bury - Picadilly (Metrolink)",
     "colour": "#FDC400",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -485,6 +554,7 @@
   "mmPink": {
     "displayName": "East Didsbury - Rochdale Town Centre (Metrolink)",
     "colour": "#EF87B5",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -492,6 +562,7 @@
   "mmGrey": {
     "displayName": "East Didsbury - Shaw and Compton (Metrolink)",
     "colour": "#313D47",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -499,6 +570,7 @@
   "mmRed": {
     "displayName": "The Trafford Centre - Crumpsall (Metrolink)",
     "colour": "#E30513",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -506,6 +578,7 @@
   "mmBlue": {
     "displayName": "Manchester Airport - Victoria (Metrolink)",
     "colour": "#005FA8",
+    "category": "trams",
     "tocs": [
       "metrolink"
     ]
@@ -513,6 +586,7 @@
   "wmMetro": {
     "displayName": "West Midlands Metro",
     "colour": "#0075C9",
+    "category": "trams",
     "tocs": [
       "wmMetro"
     ]

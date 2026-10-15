@@ -4563,7 +4563,8 @@
   "corfeCastle": {
     "displayName": "Corfe Castle",
     "lines": [
-      "southWesternRailway"
+      "southWesternRailway",
+      "swanageRailway"
     ]
   },
   "corkerhill": {
@@ -8327,6 +8328,12 @@
       "stanstedExpress"
     ]
   },
+  "harmansCross": {
+    "displayName": "Harmans Cross",
+    "lines": [
+      "swanageRailway",
+    ]
+  },
   "haroldWood": {
     "displayName": "Harold Wood",
     "lines": [
@@ -8852,6 +8859,12 @@
     "displayName": "Hersham",
     "lines": [
       "southWesternRailway"
+    ]
+  },
+  "herstonHalt": {
+    "displayName": "Herston Halt",
+    "lines": [
+      "swanageRailway",
     ]
   },
   "hertfordEast": {
@@ -13195,6 +13208,12 @@
     "displayName": "Norbury",
     "lines": [
       "southern"
+    ]
+  },
+  "norden": {
+    "displayName": "Norden",
+    "lines": [
+      "swanageRailway",
     ]
   },
   "normansBay": {
@@ -17699,6 +17718,12 @@
       "southeastern"
     ]
   },
+  "swanage": {
+    "displayName": "Swanage",
+    "lines": [
+      "swanageRailway",
+    ]
+  },
   "swanley": {
     "displayName": "Swanley",
     "lines": [
@@ -19028,7 +19053,8 @@
   "warehamDorset": {
     "displayName": "Wareham (Dorset)",
     "lines": [
-      "southWesternRailway"
+      "southWesternRailway",
+      "swanageRailway"
     ]
   },
   "wargrave": {

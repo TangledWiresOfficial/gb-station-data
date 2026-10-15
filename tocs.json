@@ -130,6 +130,10 @@
   "wmMetro": {
     "displayName": "West Midlands Metro",
     "colour": "#0075C9"
+  },
+  "swanageRailway": {
+    "displayName": "Swanage Railway",
+    "colour": "#005f22"
   }
 }
 

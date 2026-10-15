@@ -1,6 +1,7 @@
 import Stations from "../stations.json" with { type: "json" };
 import Lines from "../lines.json" with { type: "json" };
 import TOCs from "../tocs.json" with { type: "json" };
+import Categories from "../categories.json" with { type: "json" };
 
 let successCount = 0;
 let errors = [];
@@ -80,6 +81,16 @@ for (const [line, lineData] of Object.entries(Lines)) {
     fail("Line", line, "displayName is missing");
   }
 
+  if (!lineData.category) {
+    failed = true;
+    fail("Line", line, "category is missing");
+  } else {
+    if (!Object.keys(Categories).includes(lineData.category)) {
+      failed = true;
+      fail("Line", line, `Category '${lineData.category}' does not exist in categories.json`);
+    }
+  }
+
   if (!lineData.colour) {
     failed = true;
     fail("Line", line, "colour is missing");
@@ -137,6 +148,25 @@ for (const [toc, tocData] of Object.entries(TOCs)) {
 
   if (!failed) {
     success("TOC", toc);
+  }
+}
+
+console.log("--- Categories ---");
+for (const [category, categoryData] of Object.entries(Categories)) {
+  let failed = false;
+
+  if (!isValidKey(category)) {
+    failed = true;
+    fail("Category", category, "Invalid key");
+  }
+
+  if (!categoryData.displayName) {
+    failed = true;
+    fail("Category", category, "displayName is missing");
+  }
+
+  if (!failed) {
+    success("Category", category);
   }
 }
 
